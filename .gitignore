@@ -1,0 +1,11 @@
+# emacs backup
+*~
+# temp files
+temp*
+# dev (development) versions
+test*
+upload*
+*.pyc
+__pycache__
+# computed data
+keydoc/data/*
