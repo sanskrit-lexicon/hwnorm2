@@ -25,9 +25,10 @@ cd ../../
 pwd
 if [ $which = "cologne" ]
  then
-  dictup = ${dict^^}
+  dictup="${dict^^}"
   webdir="../../${dictup}Scan/2020/web/sqlite/"
   echo "we are at cologne"
+  
 elif [ $which = "xampp" ]
  then
   webdir="../../$dict/web/sqlite/"
