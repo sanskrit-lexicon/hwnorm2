@@ -1,5 +1,5 @@
-"""keydoc_merge.py
-  
+"""hwnorm1c.py
+  An emulation of hwnorm1/sanhw1/hwnorm1c
 """
 from __future__ import print_function
 import sys, re,codecs
@@ -24,6 +24,16 @@ class HWDoc(object):
   else:
    self.docptrs = re.split(r'[,:]',parts[1])
 
+ def __repr__(self):
+  x = ','.join(self.dochws)
+  #s = self.status + '\t'
+  s = ''
+  if self.docptrs == []:
+   return s + x
+  else:
+   y = s + ','.join(self.docptrs)
+   return '%s\t%s' %(x,y)
+
 def init_hwdoc(filein):
  with codecs.open(filein,"r","utf-8") as f:
   recs = [HWDoc(x) for x in f if not x.startswith(';')]
@@ -36,8 +46,6 @@ def init_hwdoc(filein):
     d[hw] = []
    d[hw].append(rec)
  return recs,d
-
-
 
 dictlist = re.split(r' +','acc ap90 ben   bhs bop bur cae ' \
  + 'ccs gra gst ieg inm  krm mci md mw mw72 ' \
@@ -82,10 +90,23 @@ def merge(drecs,dd):
   for rec in recs:
    dochws = rec.dochws
    docptrs = rec.docptrs
-   ptrs = dochws + docptrs
+   ptrs = dochws + [] # new list
+   for ptr in docptrs:
+    if ptr not in ptrs:
+     ptrs.append(ptr)
+    else:
+     print('warning: duplicate %s %s' %(dictlo,rec))
    ptrs1 = otherptrs(dictlo,ptrs,hw2dict,dd)
-   docptrs1 = docptrs + ptrs1
-   rec.docptrs = docptrs1
+   new_docptrs = docptrs + []  # a new list
+   for ptr in ptrs1:
+    if ptr not in new_docptrs:
+     new_docptrs.append(ptr)
+   docptrs1 = (docptrs + ptrs1)
+   #if set(new_docptrs) != set(docptrs1):
+   if new_docptrs != docptrs1:
+    print('error 2',dictlo,new_docptrs,' != ',docptrs1)
+    exit(1)
+   rec.docptrs = new_docptrs
 
 def write(fileout,recs):
  with codecs.open(fileout,"w","utf-8") as f:
@@ -102,8 +123,6 @@ def write(fileout,recs):
  print(len(recs),"records written to",fileout)
 
 if __name__=="__main__": 
- #filein = sys.argv[1] #  keydocx.txt
- #fileout = sys.argv[2] # keydocx_norm.txt
  drecs = {}
  dd = {}
  for dictlo in dictlist:

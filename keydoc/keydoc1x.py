@@ -54,10 +54,11 @@ def addx(recs,xrecs):
   k1 = xrec.d['k1']
   k1P = xrec.d['k1P']
   if k1P not in d:
-   print('keydoc1x addx error: %s not a headwords'%k1P)
+   print('keydoc1x addx error: %s not a headword'%k1P)
   else:
    rec = d[k1P]  # would be an error if k1P not in d
-   rec.docptrs.append(k1)
+   if k1 not in rec.docptrs:
+    rec.docptrs.append(k1)
 
 def write(fileout,recs):
  with codecs.open(fileout,"w","utf-8") as f:

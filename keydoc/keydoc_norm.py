@@ -36,8 +36,8 @@ def normalize_recs(recs,normd):
   for key in allptrs:
    if key in normd:
     norm = normd[key]
-    if norm not in allptrs:
-     rec.docptrs.append(norm)
+    if (norm not in docptrs) and (norm not in rec.dochws):
+     docptrs.append(norm)
  
 def write(fileout,recs):
  with codecs.open(fileout,"w","utf-8") as f:
