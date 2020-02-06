@@ -38,5 +38,7 @@ else
 fi
 
 mv "$dir/$sqlite" $webdir
-echo "moved $dir/$sqlite TO $webdir"
+old=$( realpath "$dir/$sqlite" )
+new=$( realpath "$webdir" )
+echo "moved $old TO $new"
 echo "finished redo_sqlite_one.sh $dict"

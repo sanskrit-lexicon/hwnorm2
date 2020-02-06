@@ -31,7 +31,11 @@ def write(fileout,recs):
   for rec in recs:
    doc_str = ','.join(rec.dochws)
    allptrs = rec.dochws + rec.docptrs
+   used = [] # to skip duplicates
    for key in allptrs:
+    if key in used:
+     continue
+    used.append(key)
     out = '%s\t%s' %(key,doc_str)
     f.write(out + '\n')
     nout = nout + 1

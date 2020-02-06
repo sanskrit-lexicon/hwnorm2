@@ -7,6 +7,7 @@ from __future__ import print_function
 import sys, re,codecs
 
 class HWDoc(object):
+ count=0
  def __init__(self,line):
   line = line.rstrip('\r\n')
   parts = line.split('\t')
@@ -22,11 +23,14 @@ class HWDoc(object):
    self.docptrs = re.split(r'[,:]',parts[1])
   # for extract_keys_a
   self.status = 'orig'
+  HWDoc.count = HWDoc.count + 1
+  self.count = HWDoc.count
 
  def __repr__(self):
   x = ','.join(self.dochws)
   #s = self.status + '\t'
   s = ''
+  #s = '(Record #%06d) '%self.count
   if self.docptrs == []:
    return s + x
   else:
@@ -37,95 +41,6 @@ def init_hwdoc(filein):
  with codecs.open(filein,"r","utf-8") as f:
   recs = [HWDoc(x) for x in f if not x.startswith(';')]
  return recs
-
-def extract_keys_c(recsin):
- """  consider two records A and B
-  A1 = sequence of distinct key1 values that define the document for A
-  A2 = additional normalized spellings of any key1 values, if any
-  B1 = defining key1 values for document for B
-  B2 = additional normalized spellings, if any
-  We can assume that A1 and B1 have no key1 in common.
-  However, if might be that A1 and B2 have some value in common;
-  Example for SKD:
-  A = 'a:None'  b = 'aH:a'
-  In this case, we want to:
-   - delete both records A and B
-   - include a record 'C'  so that C = 'a,aH:None'
-  Here is another hypothetical example:
-  A = 'a1,a2:a3,a4',  B = 'b1,b2:a3,b4'
-  Then
-   C = 'a1,a2,b1,b2:a3,a4,b4
- """
- # d is a dictionary, that maps any native key1  (e.g., a1,a2) into
- #  the record that contains it
- # We also cbeck that documents are disjoint, in the sense that
- # dochws attributes are disjoint
- d = {} 
- for rec in recsin:
-  for hw in rec.dochws:
-   # check for non-disjoint documents
-   if hw in d:
-    rec_dup = d[hw]
-    print('non-disjoint documents:')
-    print('A = %s' % rec_dup)
-    print('B = %s' % rec)
-   d[hw] = rec
- # 
- irecsdbg=[337,338,339]
- irecsdbg=[0,1,2]
- irecsdbg=[]
- def checkaNga(s,irec):
-  print('checkaNga',s,irec)
-  for i in irecsdbg:
-   print('   ',i,recsin[i].status,recsin[i])
-  for hw in ['a','aH']:
-   print('d[%s]='%hw,d[hw])
-
- for irec,rec in enumerate(recsin):
-  if irec in irecsdbg: checkaNga('BEFORE',irec)
-  if rec.status == 'del':
-   continue
-  hws0 = [hw for hw in rec.docptrs if (hw in d) and (d[hw]!= rec)]
-  if len(hws0) == 0:
-   continue
-  recs0 = [d[hw] for hw in hws0]    
-  newptrs = []
-  newhws =  []
-  # copy dochws into newhws
-  for hw in rec.dochws:
-   newhws.append(hw)
-  # reclassify rec.docptrs
-  newhws1 = []  # the ones not in rec.dochws
-  for hw in rec.docptrs:
-   if hw not in hws0:
-    newptrs.append(hw)
-    continue
-   assert hw not in newhws,"error xxx"
-   newhws.append(hw)
-   newhws1.append(hw)
-  # Similarly merge dochws and docptrs for all rec0 in recs0
-  # Not sure this logic is complete.
-  for rec0 in recs0:
-   for hw in rec0.dochws:
-    if hw not in newhws:
-     newhws.append(hw)
-   for hw in rec0.docptrs:
-    if hw not in newptrs:
-     newptrs.append(hw)
-  # relabel recs0 as deleted
-  for rec0 in recs0:
-   rec0.status = 'del'
-  # reset d[hw] for the added headwords
-  if irec in irecsdbg:print(irec,'newhws1=',newhws1)
-  for hw in newhws1:
-   d[hw].dochws = newhws
-   d[hw].newptrs = newptrs
-  if irec in irecsdbg: checkaNga('AFTER',irec)
-  # reset rec
-  rec.dochws = newhws
-  rec.docptrs = newptrs
-  rec.status = 'new'
- return
 
 def list_union_unique(a):
  """ a is a list of lists
@@ -157,8 +72,10 @@ def maximal_doc(recs):
  return rec_max
 itest_c1 = 0
 itext_c1_max = -1  # skip tests
-def extract_keys_c1(recsin):
- """  consider two records A and B
+def extract_keys_c3(recsin):
+ """  This gives same result as extract_keys_c1, _c2  but is many
+  times faster.  (1 sect vs. 2 min vs 20+min)
+  consider two records A and B
   A1 = sequence of distinct key1 values that define the document for A
   A2 = additional normalized spellings of any key1 values, if any
   B1 = defining key1 values for document for B
@@ -175,25 +92,9 @@ def extract_keys_c1(recsin):
   Then
    C = 'a1,a2,b1,b2:a3,a4,b4
  """
- global itest_c1,itext_c1_max
- # d is a dictionary, that maps any native key1  (e.g., a1,a2) into
- #  the record that contains it
- # We also cbeck that documents are disjoint, in the sense that
- # dochws attributes are disjoint
- d = {} 
  e = {}
  ehws = []
  for rec in recsin:
-  """
-  for hw in rec.dochws:
-   # check for non-disjoint documents
-   if hw in d:
-    rec_dup = d[hw]
-    print('non-disjoint documents:')
-    print('A = %s' % rec_dup)
-    print('B = %s' % rec)
-   d[hw] = rec
-  """
   ptrs = rec.dochws + rec.docptrs
   for hw in ptrs:
    if hw not in e:
@@ -201,137 +102,184 @@ def extract_keys_c1(recsin):
     ehws.append(hw)
    e[hw].append(rec)
 
-  dochws = list_union_unique([r.dochws for r in e[hw]])
-  docptrs = list_union_unique([r.docptrs for r in e[hw]])
-  docall = list_union_unique([dochws,docptrs])
-  for hw in docall:
-   for r in e[hw]:
-    r.dochws = dochws
-    r.docptrs = docptrs
-  for hw in ptrs:
-   for r in e[hw]:
-    if itest_c1 <= itext_c1_max:
-     print('At 1) %s -> %s'%(hw,r))
-  itest_c1 = itest_c1 + 1
  recsout = []
- f = {}
- itest_c1 = 0
  for hw in ehws:
-  recs = e[hw]
-  itest_c1 = itest_c1 + 1
-  if itest_c1 <= itext_c1_max:
-   s = ['%s'%rec for rec in recs]
-   s1 = ':'.join(s)
-   print(hw,'->',s1)
-   print(len(recs),'records for headword',hw)
-  #rec_maximal = maximal_doc(recs)
-  dochws = list_union_unique([rec.dochws for rec in recs])
-  docptrs = list_union_unique([rec.docptrs for rec in recs])
-  docall = list_union_unique([dochws,docptrs])
-  #rec = recs[0]
-  #rec.max_dochws = dochws
-  #rec.max_docptrs = docptrs
-  # generate an 'empty' HWDoc
-  docall_str = '.'.join(docall)
-  if docall_str in f:
-   if itest_c1 <= itext_c1_max:
-    print('skipping',hw,'in ehws')
+  recs = [r for r in e[hw] if e[hw] != []]
+  if hw in ['narahari','narendra']:
+   print('chk2a',hw,recs)
+  if recs == []:
    continue
-  f[docall_str] = True
-  rec = HWDoc('')
-  rec.dochws = dochws  
-  rec.docptrs = docptrs
-  recsout.append(rec)
- return recsout
- # first attempt
- for hw in ehws:
-  recs = e[hw]
-  dochws = list_union_unique([rec.dochws for rec in e[hw]])
-  docptrs = list_union_unique([rec.docptrs for rec in e[hw]])
-  # generate an 'empty' HWDoc
-  rec = HWDoc('')
+  dochws = list_union_unique([r.dochws for r in recs])
+  docptrs = list_union_unique([r.docptrs for r in recs])
+  docall = list_union_unique([dochws,docptrs])
+  for hw1 in docall:
+   recs1 = [r for r in e[hw1] if e[hw1] != []]
+   #if hw1 in ['narahari','narendra']:
+   # print('chk3:',hw,hw1,recs1)
+   dochws1 = list_union_unique([r.dochws for r in recs1])
+   docptrs1 = list_union_unique([r.docptrs for r in recs1])
+   docall1 = dochws1 + docptrs1
+   if ('narahari' in docall1) or ('narendra' in docall1):
+    print('chk4:',hw,hw1)
+    print('   dochws1=',dochws1)
+    print('   docptrs1=',docptrs1)
+   dochws = list_union_unique([dochws,dochws1])
+   docptrs = list_union_unique([docptrs,docptrs1])
+  rec = e[hw][0]
   rec.dochws = dochws
   rec.docptrs = docptrs
   recsout.append(rec)
+  docall = dochws + docptrs
+  for hw1 in docall:
+   e[hw1] = []
  return recsout
 
-def unused_extract_keys_b(d0,keyarr0):
- emptyset = set()
- multikey = [k for k in keyarr0 if len(d0[k])>1]
- d = {}
- for i1,k1 in enumerate(multikey):
-  if d0[k1] == []:
-   continue
-  keys = set(d0[k1])
-  found = False
-  for i2,k2 in enumerate(multikey):
-   if i2<=i1:
-    continue
-   keys2 = set(d0[k2])
-   isect = keys.intersection(keys2)
-   if isect != emptyset:
-    keys = keys.union(keys2)
-    #print('merging',k2,d0[k2],'into',k1,d0[k1],'yields',keys)
-    d0[k2] = []
-    d0[k1] = []
-    found = True
-  for k in keys:
-   if (k != k1) and (k in d0) and (len(d0[k]) == 1):
-    d0[k] = []
-  if found:
-   d[k1] = list(keys)
-   #print('changing',k1,d0[k1],'to',d[k1]) 
- keyarr = []
- for k in keyarr0:
-  if d0[k] != []:
-   d[k] = d0[k]
-   keyarr.append(k)
-  elif k in d:
-   #print('dropping key',k)
-   keyarr.append(k)   
-  else:
-   #print('Dropping singleton key',k)
-   pass
- return d,keyarr
+def related_recs(hw,e):
+ recs = e[hw]
+ while True:
+  dochws = list_union_unique([r.dochws for r in recs])
+  docptrs = list_union_unique([r.docptrs for r in recs])
+  docall = list_union_unique([dochws,docptrs])
+  newrecs=[]
+  for hw1 in docall:
+   for r in e[hw1]:
+    if r not in recs:
+     if r not in newrecs:
+      newrecs.append(r)
+  if newrecs == []:
+   return recs
+  recs = recs + newrecs  # continue with while loop
+ 
+def extract_keys_c4(recsin):
+ """  This gives same result as extract_keys_c1, _c2  but is many
+  times faster.  (1 sect vs. 2 min vs 20+min)
+  consider two records A and B
+  A1 = sequence of distinct key1 values that define the document for A
+  A2 = additional normalized spellings of any key1 values, if any
+  B1 = defining key1 values for document for B
+  B2 = additional normalized spellings, if any
+  We can assume that A1 and B1 have no key1 in common.
+  However, if might be that A1 and B2 have some value in common;
+  Example for SKD:
+  A = 'a:None'  b = 'aH:a'
+  In this case, we want to:
+   - delete both records A and B
+   - include a record 'C'  so that C = 'a,aH:None'
+  Here is another hypothetical example:
+  A = 'a1,a2:a3,a4',  B = 'b1,b2:a3,b4'
+  Then
+   C = 'a1,a2,b1,b2:a3,a4,b4
+ """
+ e = {}
+ ehws = []
+ for rec in recsin:
+  ptrs = rec.dochws + rec.docptrs
+  for hw in ptrs:
+   if hw not in e:
+    e[hw] = []
+    ehws.append(hw)
+   e[hw].append(rec)
+ if False:
+  for hw in ['narendra','narahari']:
+   print('debug: records related to',hw)
+   recs = related_recs(hw,e)
+   for irec,rec in enumerate(recs):
+    print('  ',irec+1,rec)
 
-def unused_extract_keys_b(d0,keyarr0):
- emptyset = set()
- multikey = [k for k in keyarr0 if len(d0[k])>1]
- d = {}
- for i1,k1 in enumerate(multikey):
-  if d0[k1] == []:
+ recsout = []
+ for hw in ehws:
+  recs = related_recs(hw,e)
+  if len(recs) == 0:
    continue
-  keys = set(d0[k1])
-  found = False
-  for i2,k2 in enumerate(multikey):
-   if i2<=i1:
+  dochws = list_union_unique([r.dochws for r in recs])
+  docptrs = list_union_unique([r.docptrs for r in recs])
+  docall = list_union_unique([dochws,docptrs])
+  rec = recs[0]
+  rec.dochws = dochws
+  # get ptrs that are not in dochws
+  ptrs = [hw for hw in docptrs if hw not in dochws]
+  rec.docptrs = ptrs
+  recsout.append(rec)
+  for hw1 in docall:
+   e[hw1] = []
+ 
+ return recsout
+
+def extract_keys_c1(recsin):
+ """ This method is sure, but quite slow 
+  Is there a way to make it faster?
+ """
+ n = len(recsin)
+ for rec in recsin:
+  rec.ptrs_set = set(rec.dochws + rec.docptrs)
+ recsout = []
+ i1 = 0
+ while i1 < n:
+  rec1 = recsin[i1]
+  #if (i1% 100) == 0: print(i1)
+  if rec1 == None:
+   i1 = i1 + 1
+   continue
+  dochws1 = rec1.dochws
+  docptrs1 = rec1.docptrs
+  #ptrs1 = dochws1 + docptrs1
+  ptrs1_set = rec1.ptrs_set
+  i2 = i1+1
+  while i2 < n:
+   rec2 = recsin[i2] 
+   if rec2 == None:
+    i2 = i2 + 1
     continue
-   keys2 = set(d0[k2])
-   isect = keys.intersection(keys2)
-   if isect != emptyset:
-    keys = keys.union(keys2)
-    #print('merging',k2,d0[k2],'into',k1,d0[k1],'yields',keys)
-    d0[k2] = []
-    d0[k1] = []
-    found = True
-  for k in keys:
-   if (k != k1) and (k in d0) and (len(d0[k]) == 1):
-    d0[k] = []
-  if found:
-   d[k1] = list(keys)
-   #print('changing',k1,d0[k1],'to',d[k1]) 
- keyarr = []
- for k in keyarr0:
-  if d0[k] != []:
-   d[k] = d0[k]
-   keyarr.append(k)
-  elif k in d:
-   #print('dropping key',k)
-   keyarr.append(k)   
-  else:
-   #print('Dropping singleton key',k)
-   pass
- return d,keyarr
+   ptrs2_set = rec2.ptrs_set
+   if ptrs1_set.intersection(ptrs2_set) == set():
+    i2 = i2 + 1
+    continue
+   dochws2 = rec2.dochws
+   docptrs2 = rec2.docptrs
+   dochws1 = list_union_unique([dochws1,dochws2])
+   docptrs1 = list_union_unique([docptrs1,docptrs2]) 
+   recsin[i2] = None
+   i2 = i2 + 1
+  rec1.dochws = dochws1
+  rec1.docptrs = docptrs1
+  recsout.append(rec1)
+  i1 = i1 + 1
+ return recsout
+
+def extract_keys_c2(recsin):
+ """ This method is also sure, but much slower than extract_keys_c1
+ """
+ n = len(recsin)
+ for rec in recsin:
+  rec.ptrs_set = set(rec.dochws + rec.docptrs)
+  rec.empty = False
+ recsout = []
+ i1 = 0
+ while i1 < n:
+  rec1 = recsin[i1]
+  #if (i1% 100) == 0: print(i1)
+  if rec1.empty:
+   i1 = i1 + 1
+   continue
+  dochws1 = rec1.dochws
+  docptrs1 = rec1.docptrs
+  #ptrs1 = dochws1 + docptrs1
+  ptrs1_set = rec1.ptrs_set
+  i2 = i1+1
+  recs2 = [rec2 for rec2 in recsin[i2:] if 
+    (not rec2.empty) and
+    (ptrs1_set.intersection(rec2.ptrs_set) != 0)]
+  for rec2 in recs2:
+   dochws2 = rec2.dochws
+   docptrs2 = rec2.docptrs
+   dochws1 = list_union_unique([dochws1,dochws2])
+   docptrs1 = list_union_unique([docptrs1,docptrs2]) 
+   rec2.empty = True
+  rec1.dochws = dochws1
+  rec1.docptrs = docptrs1
+  recsout.append(rec1)
+  i1 = i1 + 1
+ return recsout
 
 def write(fileout,recs):
  with codecs.open(fileout,"w","utf-8") as f:
@@ -346,8 +294,5 @@ if __name__=="__main__":
  filein = sys.argv[2] #  extract_keys.txt
  fileout = sys.argv[3] # 
  recs = init_hwdoc(filein)
- recsout = extract_keys_c1(recs)
- #extract_keys_c(recs) ## do it again
- #d0,keyarr0 = extract_keys_a(recs)
- #d,keyarr = extract_keys_b(d0,keyarr0)
+ recsout = extract_keys_c4(recs)
  write(fileout,recsout)

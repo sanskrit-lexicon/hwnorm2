@@ -13,3 +13,5 @@ fi
  sh redo_merge.sh      # merges all the normalizations
  sh redo_final_all.sh  # revises documents
  sh redo_sqlite_all.sh $which # prepares keydoc.sqlite files, moves to web/sqlite
+ # sh redo_glob.sh  This not currently needed (02-06-2020)
+ sh redo_glob1.sh

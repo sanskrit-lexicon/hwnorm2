@@ -9,3 +9,6 @@ upload*
 __pycache__
 # computed data
 keydoc/data/*
+keydoc/dataglob/*
+keydoc/keydoc_glob.sqlite
+keydoc/keydoc_glob1.sqlite
