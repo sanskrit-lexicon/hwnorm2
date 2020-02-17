@@ -48,10 +48,27 @@ def write(fileout,normrecs):
    f.write(out + '\n')
  print(len(normrecs),"records written to",fileout)
 
+def init_normextra(filein,recs):
+ recsout = []
+ try:
+  with codecs.open(filein,"r","utf-8") as f:
+   for line in f:
+    if line.startswith(';'):
+     continue
+    line = line.rstrip()
+    key,norm = re.split(r'[: \t]',line)
+    recsout.append((key,norm))
+ except:
+  pass
+ print('norm:',len(recsout),'records from',filein)
+ return recsout
+  
 if __name__=="__main__": 
  dictlo = sys.argv[1]
  filein = sys.argv[2] #  keydocx.txt
- fileout = sys.argv[3] # norm.txt
+ filein1 = sys.argv[3] # distinctfiles/xxx_norm
+ fileout = sys.argv[4] # norm.txt
  recs = init_hwdoc(filein)
  normrecs = normalize_recs(recs)
- write(fileout,normrecs)
+ normextra = init_normextra(filein1,recs)
+ write(fileout,normrecs+normextra)

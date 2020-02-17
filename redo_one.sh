@@ -25,7 +25,8 @@ keyx="$digdir/${dict}_hwextra.txt"
 python keydoc1x.py $dict $keydoc1 $keyx $keydoc1x
 
 norm="$dir/norm.txt"
-python norm.py $dict $keydoc1x $norm
+normdistinct="distinctfiles/${dict}_norm_extra.txt"
+python norm.py $dict $keydoc1x $normdistinct $norm 
 
 keydocnorm="$dir/keydoc_norm.txt"
 python keydoc_norm.py $dict $keydoc1x $norm $keydocnorm
