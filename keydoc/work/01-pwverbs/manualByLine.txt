@@ -1,0 +1,2119 @@
+; key = arC, L = 9345,  {#*apa , apArCati#} -> {#*apa#}, {#apArCati#}
+42988 old <div n="p">— Mit {#*apa , apArCati#}.
+42988 new <div n="p">— Mit {#*apa#}, {#apArCati#}.
+;
+; key = arC, L = 9345,  {#aBi , aByarCati#} -> {#aBi#}, {#aByarCati#}
+42989 old <div n="p">— Mit {#aBi , aByarCati#}
+42989 new <div n="p">— Mit {#aBi#}, {#aByarCati#}
+;
+; key = arC, L = 9345,  {#ava , avArCa/ti#} -> {#ava#}, {#avArCa/ti#}
+42992 old <div n="p">— Mit {#ava , avArCa/ti#} {%zu Fall — , zu Schaden kommen.%}
+42992 new <div n="p">— Mit {#ava#}, {#avArCa/ti#} {%zu Fall — , zu Schaden kommen.%}
+;
+; key = arC, L = 9345,  {#*upa , upArCati#} -> {#*upa#}, {#upArCati#}
+42995 old <div n="p">— Mit {#*upa , upArCati#}.
+42995 new <div n="p">— Mit {#*upa#}, {#upArCati#}.
+;
+; key = arC, L = 9345,  {#*pra , prArCati#} -> {#*pra#}, {#prArCati#}
+42999 old <div n="p">— Mit {#*pra , prArCati#}.
+42999 new <div n="p">— Mit {#*pra#}, {#prArCati#}.
+;
+; key = arz, L = 9859,  {#upa , uparzati#} -> {#upa#}, {#uparzati#}
+45510 old <div n="p">— Mit {#upa , uparzati#} und {#upA°#} {%anstechen , anspiessen , stacheln.%}
+45510 new <div n="p">— Mit {#upa#}, {#uparzati#} und {#upA°#} {%anstechen , anspiessen , stacheln.%}
+;
+; key = arz, L = 9859,  {#*pra , prArzati#} -> {#*pra#}, {#prArzati#}
+45515 old <div n="p">— Mit {#*pra , prArzati#}.
+45515 new <div n="p">— Mit {#*pra#}, {#prArzati#}.
+;
+; key = arh, L = 9863,  {#aBi , aByarhita#} -> {#aBi#}, {#aByarhita#}
+45539 old <div n="p">— Mit {#aBi , aByarhita#} <ab>Partic.</ab> <ab>Caus.</ab> {%sehr hoch geehrt%} <ls>KĀD.234,22.</ls> {%höher geehrt%} II , <ls>72,5.</ls> {%würdiger , höher in Ansehen stehend , grösseres Gewicht habend als (<ab>Abl.</ab>%}) <ls>ŚAṂK.zu.BĀDAR.2,2,1.</ls>
+45539 new <div n="p">— Mit {#aBi#}, {#aByarhita#} <ab>Partic.</ab> <ab>Caus.</ab> {%sehr hoch geehrt%} <ls>KĀD.234,22.</ls> {%höher geehrt%} II , <ls>72,5.</ls> {%würdiger , höher in Ansehen stehend , grösseres Gewicht habend als (<ab>Abl.</ab>%}) <ls>ŚAṂK.zu.BĀDAR.2,2,1.</ls>
+;
+; key = i, L = 16624,  {#*dus , durayate#} -> {#*dus#}, {#durayate#}
+77887 old <div n="p">— Mit {#*dus , durayate#} und {#dulayate#}.
+77887 new <div n="p">— Mit {#*dus#}, {#durayate#} und {#dulayate#}.
+;
+; key = i, L = 16624,  {#upapla , °plAyate#} -> {#upapla#}, {#°plAyate#}
+78008 old <div n="p">— Mit {#upapla , °plAyate#} {%losgehen auf%} <ls>MAITR.S.1,10,14.16.</ls>
+78008 new <div n="p">— Mit {#upapla#}, {#°plAyate#} {%losgehen auf%} <ls>MAITR.S.1,10,14.16.</ls>
+;
+; key = iD, L = 16848,  {#pra , pre/dDa#} -> {#pra#}, {#pre/dDa#}
+79109 old <div n="p">— Mit {#pra , pre/dDa#} {%entflammt.%}
+79109 new <div n="p">— Mit {#pra#}, {#pre/dDa#} {%entflammt.%}
+;
+; key = iD, L = 16848,  {#saMpra , saMpredDa#} -> {#saMpra#}, {#saMpredDa#}
+79110 old <div n="p">— Mit {#saMpra , saMpredDa#} <ab>dass.</ab>
+79110 new <div n="p">— Mit {#saMpra#}, {#saMpredDa#} <ab>dass.</ab>
+;
+; key = inv, L = 17174,  {#upa , upenita#} -> {#upa#}, {#upenita#}
+80594 old <div n="p">— Mit {#upa , upenita#} {%eingezwängt , eingefügt.%}
+80594 new <div n="p">— Mit {#upa#}, {#upenita#} {%eingezwängt , eingefügt.%}
+;
+; key = iz, L = 17277,  {#anu , anvizati#} -> {#anu#}, {#anvizati#}
+81104 old <div n="p">— Mit {#anu , anvizati#} (<ls>MBH.3,271,38</ls>), {#anvezati , °te#} und {#anvizyati , °te#} {%hinterhergehen , nachgehen , suchen , sich umsehen nach%} <ls>39,3.130,24.</ls> <ls>MBH.1,125,24.</ls> <ls>ŚĀK.32,13.</ls> {%durchsuchen.%}
+81104 new <div n="p">— Mit {#anu#}, {#anvizati#} (<ls>MBH.3,271,38</ls>), {#anvezati , °te#} und {#anvizyati , °te#} {%hinterhergehen , nachgehen , suchen , sich umsehen nach%} <ls>39,3.130,24.</ls> <ls>MBH.1,125,24.</ls> <ls>ŚĀK.32,13.</ls> {%durchsuchen.%}
+;
+; key = INK, L = 17444,  {#samA , samveNkzva#} -> {#samA#}, {#samveNkzva#}
+82112 old <div n="p">— Mit {#samA , samveNkzva#} <ls>AIT.BR.8,9.</ls> FEHLERHAFT für {#samvintsva#}.
+82112 new <div n="p">— Mit {#samA#}, {#samveNkzva#} <ls>AIT.BR.8,9.</ls> FEHLERHAFT für {#samvintsva#}.
+;
+; key = INK, L = 17444,  {#pari , parINKayAtE#} -> {#pari#}, {#parINKayAtE#}
+82113 old <div n="p">— Mit {#pari , parINKayAtE#} <ls>AV.</ls> <ab>v.l.</ab> für {#paryaNka°#} des <ls>ṚV.</ls>
+82113 new <div n="p">— Mit {#pari#}, {#parINKayAtE#} <ls>AV.</ls> <ab>v.l.</ab> für {#paryaNka°#} des <ls>ṚV.</ls>
+;
+; key = Iq, L = 17452,  {#pra , upapra , prati , sam#} -> {#pra#}, {#upapra , prati , sam#}
+82157 old <div n="p">— Mit {#pra , upapra , prati , sam#} und {#prasam#} {%preisen , loben.%}
+82157 new <div n="p">— Mit {#pra#}, {#upapra , prati , sam#} und {#prasam#} {%preisen , loben.%}
+;
+; key = ukz, L = 17654,  {#aBi , ava#} -> {#aBi#}, {#ava#}
+83233 old <div n="p">— Mit {#aBi , ava#} und {#A#} <ab>Act.</ab> {%beträufeln , besprengen.%}
+83233 new <div n="p">— Mit {#aBi#}, {#ava#} und {#A#} <ab>Act.</ab> {%beträufeln , besprengen.%}
+;
+; key = Uh, L = 21249,  {#samupa , samupoQa#} -> {#samupa#}, {#samupoQa#}
+100705 old <div n="p">— Mit {#samupa , samupoQa#}
+100705 new <div n="p">— Mit {#samupa#}, {#samupoQa#}
+;
+; key = ej, L = 22174,  {#*pra prejate#} -> {#*pra#}{# prejate#}
+105207 old <div n="p">— Mit {#*pra prejate#}.
+105207 new <div n="p">— Mit {#*pra#}{# prejate#}.
+;
+; key = eqakIy, L = 22184,  {#*upa , upeqa°#} -> {#*upa#}, {#upeqa°#}
+105258 old <div n="p">— Mit {#*upa , upeqa°#} oder {#upEqa°#}.
+105258 new <div n="p">— Mit {#*upa#}, {#upeqa°#} oder {#upEqa°#}.
+;
+; key = oK, L = 22613,  {#parA , paroKati#} -> {#parA#}, {#paroKati#}
+107255 old <div n="p">— Mit {#parA , paroKati#}.
+107255 new <div n="p">— Mit {#parA#}, {#paroKati#}.
+;
+; key = kac, L = 23285,  {#ud , utkacita#} -> {#ud#}, {#utkacita#}
+110449 old <div n="p">— Mit {#ud , utkacita#} fehlerhaft für {#utKacita#}.
+110449 new <div n="p">— Mit {#ud#}, {#utkacita#} fehlerhaft für {#utKacita#}.
+;
+; key = kar, L = 24527,  {#alam , aByalam , upAlam#} -> {#alam#}, {#aByalam , upAlam#}
+116783 old <div n="p">— Mit {#alam , aByalam , upAlam#} und {#samalam#} <ab>s.u.</ab> {#alam#} 9).
+116783 new <div n="p">— Mit {#alam#}, {#aByalam , upAlam#} und {#samalam#} <ab>s.u.</ab> {#alam#} 9).
+;
+; key = kar, L = 24527,  {#aBinis , aBini/zkfta#} -> {#aBinis#}, {#aBini/zkfta#}
+116880 old <div n="p">— Mit {#aBinis , aBini/zkfta#} {%gegen Jmd angelegt.%}
+116880 new <div n="p">— Mit {#aBinis#}, {#aBini/zkfta#} {%gegen Jmd angelegt.%}
+;
+; key = kar, L = 24527,  {#sam , kar#} -> {#sam#}, {#kar#}
+116946 old <div n="p">— Mit {#sam , kar#} und {#skar#}
+116946 new <div n="p">— Mit {#sam#}, {#kar#} und {#skar#}
+;
+; key = kar, L = 24527,  {#aBisam , skar#} -> {#aBisam#}, {#skar#}
+116953 old <div n="p">— Mit {#aBisam , skar#}
+116953 new <div n="p">— Mit {#aBisam#}, {#skar#}
+;
+; key = kar, L = 24527,  {#upasam , skar#} -> {#upasam#}, {#skar#}
+116957 old <div n="p">— Mit {#upasam , skar#}
+116957 new <div n="p">— Mit {#upasam#}, {#skar#}
+;
+; key = kar, L = 24527,  {#pratisam , skar#} -> {#pratisam#}, {#skar#}
+116960 old <div n="p">— Mit {#pratisam , skar#}
+116960 new <div n="p">— Mit {#pratisam#}, {#skar#}
+;
+; key = kar, L = 24529,  {#samud , samutkIrRa#} -> {#samud#}, {#samutkIrRa#}
+117019 old <div n="p">— Mit {#samud , samutkIrRa#} {%durchbohrt.%}
+117019 new <div n="p">— Mit {#samud#}, {#samutkIrRa#} {%durchbohrt.%}
+;
+; key = kar, L = 24529,  {#saMni , °kIrRa#} -> {#saMni#}, {#°kIrRa#}
+117033 old <div n="p">— Mit {#saMni , °kIrRa#} {%hingestreckt.%}
+117033 new <div n="p">— Mit {#saMni#}, {#°kIrRa#} {%hingestreckt.%}
+;
+; key = kar, L = 24529,  {#vipra , °kIrRa#} -> {#vipra#}, {#°kIrRa#}
+117046 old <div n="p">— Mit {#vipra , °kIrRa#} {%zerstreut , auseinandergeworfen , zersplittert ; aufgelöst%} (harr) ; {%hingestreckt ; ausgedehnt , seit.%}
+117046 new <div n="p">— Mit {#vipra#}, {#°kIrRa#} {%zerstreut , auseinandergeworfen , zersplittert ; aufgelöst%} (harr) ; {%hingestreckt ; ausgedehnt , seit.%}
+;
+; key = kar, L = 24529,  {#prati , skar#} -> {#prati#}, {#skar#}
+117048 old <div n="p">— Mit {#prati , skar#} {%schinden.%}
+117048 new <div n="p">— Mit {#prati#}, {#skar#} {%schinden.%}
+;
+; key = karS, L = 25327,  {#*pra , prakfSita#} -> {#*pra#}, {#prakfSita#}
+121026 old <div n="p">— Mit {#*pra , prakfSita#}.
+121026 new <div n="p">— Mit {#*pra#}, {#prakfSita#}.
+;
+; key = karz, L = 25332,  {#prati , °kfzwa#} -> {#prati#}, {#°kfzwa#}
+121184 old <div n="p">— Mit {#prati , °kfzwa#}
+121184 new <div n="p">— Mit {#prati#}, {#°kfzwa#}
+;
+; key = karz, L = 25333,  {#prati , °kfzwa#} -> {#prati#}, {#°kfzwa#}
+121214 old <div n="p">— Mit {#prati , °kfzwa#}
+121214 new <div n="p">— Mit {#prati#}, {#°kfzwa#}
+;
+; key = kal, L = 25348,  {#*ava , °kalita#} -> {#*ava#}, {#°kalita#}
+121330 old <div n="p">— Mit {#*ava , °kalita#} {%gesehen , wahrgenommen.%}
+121330 new <div n="p">— Mit {#*ava#}, {#°kalita#} {%gesehen , wahrgenommen.%}
+;
+; key = kal, L = 25348,  {#vyava , °kalita#} -> {#vyava#}, {#°kalita#}
+121331 old <div n="p">— Mit {#vyava , °kalita#} {%abgezogen , subtrahirt.%}
+121331 new <div n="p">— Mit {#vyava#}, {#°kalita#} {%abgezogen , subtrahirt.%}
+;
+; key = kal, L = 25348,  {#ud , utkalita#} -> {#ud#}, {#utkalita#}
+121345 old <div n="p">— Mit {#ud , utkalita#}
+121345 new <div n="p">— Mit {#ud#}, {#utkalita#}
+;
+; key = kal, L = 25348,  {#utsam , utsaMkalita#} -> {#utsam#}, {#utsaMkalita#}
+121362 old <div n="p">— Mit {#utsam , utsaMkalita#} {%angetrieben , beauftragt%} <ls>KĀD.II.40,20.</ls>
+121362 new <div n="p">— Mit {#utsam#}, {#utsaMkalita#} {%angetrieben , beauftragt%} <ls>KĀD.II.40,20.</ls>
+;
+; key = kalp, L = 25585,  {#samupa , °kxpta#} -> {#samupa#}, {#°kxpta#}
+122724 old <div n="p">— Mit {#samupa , °kxpta#} {%zusammen bereit stehend.%}
+122724 new <div n="p">— Mit {#samupa#}, {#°kxpta#} {%zusammen bereit stehend.%}
+;
+; key = kalp, L = 25585,  {#pari , °kxpta#} -> {#pari#}, {#°kxpta#}
+122728 old <div n="p">— Mit {#pari , °kxpta#} <ab>Pl.</ab> {%hier und da stehend%}
+122728 new <div n="p">— Mit {#pari#}, {#°kxpta#} <ab>Pl.</ab> {%hier und da stehend%}
+;
+; key = kalp, L = 25585,  {#sapra , *saMprakxpta#} -> {#sapra#}, {#*saMprakxpta#}
+122754 old <div n="p">— Mit {#sapra , *saMprakxpta#} {%bereitet.%}
+122754 new <div n="p">— Mit {#sapra#}, {#*saMprakxpta#} {%bereitet.%}
+;
+; key = kalp, L = 25585,  {#upasam , upasaMkxpta#} -> {#upasam#}, {#upasaMkxpta#}
+122793 old <div n="p">— Mit {#upasam , upasaMkxpta#} {%darüberstehen , aufgesetzt.%}
+122793 new <div n="p">— Mit {#upasam#}, {#upasaMkxpta#} {%darüberstehen , aufgesetzt.%}
+;
+; key = kA, L = 25947,  {#*anu , °kAyati#} -> {#*anu#}, {#°kAyati#}
+124597 old <div n="p">— Mit {#*anu , °kAyati#} = {#aBiDatte#} <ls>Ind.St.13,457.</ls>
+124597 new <div n="p">— Mit {#*anu#}, {#°kAyati#} = {#aBiDatte#} <ls>Ind.St.13,457.</ls>
+;
+; key = kuc, L = 28209,  {#anu , °kuYcita#} -> {#anu#}, {#°kuYcita#}
+135752 old <div n="p">— Mit {#anu , °kuYcita#} {%eingebogen , gekrümmt.%}
+135752 new <div n="p">— Mit {#anu#}, {#°kuYcita#} {%eingebogen , gekrümmt.%}
+;
+; key = kuc, L = 28209,  {#A , AkuYcita#} -> {#A#}, {#AkuYcita#}
+135754 old <div n="p">— Mit {#A , AkuYcita#} {%eingebogen , eingezogen , zusammengezogen , gebogen , kraus , geringelt.%}
+135754 new <div n="p">— Mit {#A#}, {#AkuYcita#} {%eingebogen , eingezogen , zusammengezogen , gebogen , kraus , geringelt.%}
+;
+; key = kuc, L = 28209,  {#samA , °kuYcita#} -> {#samA#}, {#°kuYcita#}
+135758 old <div n="p">— Mit {#samA , °kuYcita#} {%eingezogen , so v.a. eingestellt%} (Rede) <ls>NAIṢ.3,61.</ls>
+135758 new <div n="p">— Mit {#samA#}, {#°kuYcita#} {%eingezogen , so v.a. eingestellt%} (Rede) <ls>NAIṢ.3,61.</ls>
+;
+; key = kuc, L = 28209,  {#vi , vikuYjita#} -> {#vi#}, {#vikuYjita#}
+135763 old <div n="p">— Mit {#vi , vikuYjita#} {%zusammengezogen , geringelt.%}
+135763 new <div n="p">— Mit {#vi#}, {#vikuYjita#} {%zusammengezogen , geringelt.%}
+;
+; key = kuw, L = 28273,  {#vi , vikuwita#} -> {#vi#}, {#vikuwita#}
+136108 old <div n="p">— Mit {#vi , vikuwita#} = {#kutsIBUta#}.
+136108 new <div n="p">— Mit {#vi#}, {#vikuwita#} = {#kutsIBUta#}.
+;
+; key = kuRW, L = 28430,  {#vi , °kuRWita#} -> {#vi#}, {#°kuRWita#}
+136930 old <div n="p">— Mit {#vi , °kuRWita#} {%stumpf geworden.%}
+136930 new <div n="p">— Mit {#vi#}, {#°kuRWita#} {%stumpf geworden.%}
+;
+; key = kuT, L = 28555,  {#pra , °kuTita#} -> {#pra#}, {#°kuTita#}
+137621 old <div n="p">— Mit {#pra , °kuTita#} {%verwest.%}
+137621 new <div n="p">— Mit {#pra#}, {#°kuTita#} {%verwest.%}
+;
+; key = kuz, L = 29491,  {#vi , °kuzita#} -> {#vi#}, {#°kuzita#}
+142167 old <div n="p">— Mit {#vi , °kuzita#} in einer Etymologie <ls>NIR.5,26.</ls> etwa {%herausgezogen.%}
+142167 new <div n="p">— Mit {#vi#}, {#°kuzita#} in einer Etymologie <ls>NIR.5,26.</ls> etwa {%herausgezogen.%}
+;
+; key = kUR, L = 29738,  {#ni , °kURita#} -> {#ni#}, {#°kURita#}
+143394 old <div n="p">— Mit {#ni , °kURita#} {%geschlossen%} (Blume) <ls>RĀJAN.2,38.</ls>
+143394 new <div n="p">— Mit {#ni#}, {#°kURita#} {%geschlossen%} (Blume) <ls>RĀJAN.2,38.</ls>
+;
+; key = krap, L = 31700,  {#anu , °kfpte#} -> {#anu#}, {#°kfpte#}
+153019 old <div n="p">— Mit {#anu , °kfpte#} {%sich sehnen nach , trauern um.%} <ab>Vgl.</ab> {#kfpay#}.
+153019 new <div n="p">— Mit {#anu#}, {#°kfpte#} {%sich sehnen nach , trauern um.%} <ab>Vgl.</ab> {#kfpay#}.
+;
+; key = kruD, L = 31941,  {#samaBi , °krudDa#} -> {#samaBi#}, {#°krudDa#}
+154454 old <div n="p">— Mit {#samaBi , °krudDa#} {%erzürnt.%}
+154454 new <div n="p">— Mit {#samaBi#}, {#°krudDa#} {%erzürnt.%}
+;
+; key = kruS, L = 31948,  {#ati , a/tikruzwa#} -> {#ati#}, {#a/tikruzwa#}
+154494 old <div n="p">— Mit {#ati , a/tikruzwa#} zweifelhafte Lesart.
+154494 new <div n="p">— Mit {#ati#}, {#a/tikruzwa#} zweifelhafte Lesart.
+;
+; key = kruS, L = 31948,  {#apa , °kruzwa#} -> {#apa#}, {#°kruzwa#}
+154499 old <div n="p">— Mit {#apa , °kruzwa#} {%bescholten , schmachvoll.%}
+154499 new <div n="p">— Mit {#apa#}, {#°kruzwa#} {%bescholten , schmachvoll.%}
+;
+; key = kruS, L = 31948,  {#samA , °kruzwa#} -> {#samA#}, {#°kruzwa#}
+154511 old <div n="p">— Mit {#samA , °kruzwa#} {%geschmäht.%}
+154511 new <div n="p">— Mit {#samA#}, {#°kruzwa#} {%geschmäht.%}
+;
+; key = klid, L = 32111,  {#A , Aklinna#} -> {#A#}, {#Aklinna#}
+155343 old <div n="p">— Mit {#A , Aklinna#} {%von Mitleid bewegt%} (Herz).
+155343 new <div n="p">— Mit {#A#}, {#Aklinna#} {%von Mitleid bewegt%} (Herz).
+;
+; key = klid, L = 32111,  {#samA , °klinna#} -> {#samA#}, {#°klinna#}
+155344 old <div n="p">— Mit {#samA , °klinna#} {%feucht.%} {#vasu#} so v.a. {%Speise und Trank.%}
+155344 new <div n="p">— Mit {#samA#}, {#°klinna#} {%feucht.%} {#vasu#} so v.a. {%Speise und Trank.%}
+;
+; key = klid, L = 32111,  {#upa , °klinna#} -> {#upa#}, {#°klinna#}
+155346 old <div n="p">— Mit {#upa , °klinna#}
+155346 new <div n="p">— Mit {#upa#}, {#°klinna#}
+;
+; key = klid, L = 32111,  {#pari , °klinna#} -> {#pari#}, {#°klinna#}
+155350 old <div n="p">— Mit {#pari , °klinna#} {%über und über feucht , — nass.%}
+155350 new <div n="p">— Mit {#pari#}, {#°klinna#} {%über und über feucht , — nass.%}
+;
+; key = klid, L = 32111,  {#vi , viklinna#} -> {#vi#}, {#viklinna#}
+155356 old <div n="p">— Mit {#vi , viklinna#}
+155356 new <div n="p">— Mit {#vi#}, {#viklinna#}
+;
+; key = klid, L = 32111,  {#sam , saMklinna#} -> {#sam#}, {#saMklinna#}
+155361 old <div n="p">— Mit {#sam , saMklinna#} {%befeuchtet , erweicht.%}
+155361 new <div n="p">— Mit {#sam#}, {#saMklinna#} {%befeuchtet , erweicht.%}
+;
+; key = kliS, L = 32121,  {#samud , samutklizwa#} -> {#samud#}, {#samutklizwa#}
+155419 old <div n="p">— Mit {#samud , samutklizwa#} {%in einen unbehaglichen oder krankhaften Zustand versetzt%} <ls>CARAKA.6,4.</ls>
+155419 new <div n="p">— Mit {#samud#}, {#samutklizwa#} {%in einen unbehaglichen oder krankhaften Zustand versetzt%} <ls>CARAKA.6,4.</ls>
+;
+; key = kliS, L = 32121,  {#vi , viklizwa#} -> {#vi#}, {#viklizwa#}
+155427 old <div n="p">— Mit {#vi , viklizwa#} {%verletzt , zu Schanden gemacht.%} <ab>Vgl.</ab> {#viklizwa#}.
+155427 new <div n="p">— Mit {#vi#}, {#viklizwa#} {%verletzt , zu Schanden gemacht.%} <ab>Vgl.</ab> {#viklizwa#}.
+;
+; key = kzan, L = 32288,  {#up , °kzata#} -> {#up#}, {#°kzata#}
+156292 old <div n="p">— Mit {#up , °kzata#} {%verwundet , verletzt.%}
+156292 new <div n="p">— Mit {#up#}, {#°kzata#} {%verwundet , verletzt.%}
+;
+; key = kzan, L = 32288,  {#pari , °kzata#} -> {#pari#}, {#°kzata#}
+156293 old <div n="p">— Mit {#pari , °kzata#}
+156293 new <div n="p">— Mit {#pari#}, {#°kzata#}
+;
+; key = kzan, L = 32288,  {#vi , °kzata#} -> {#vi#}, {#°kzata#}
+156298 old <div n="p">— Mit {#vi , °kzata#} {%verwundet , verletzt.%}
+156298 new <div n="p">— Mit {#vi#}, {#°kzata#} {%verwundet , verletzt.%}
+;
+; key = kzan, L = 32288,  {#aBivi , °kzata#} -> {#aBivi#}, {#°kzata#}
+156299 old <div n="p">— Mit {#aBivi , °kzata#} <ab>dass.</ab>
+156299 new <div n="p">— Mit {#aBivi#}, {#°kzata#} <ab>dass.</ab>
+;
+; key = kzan, L = 32288,  {#parivi , °kzata#} -> {#parivi#}, {#°kzata#}
+156300 old <div n="p">— Mit {#parivi , °kzata#} <ab>dass.</ab>
+156300 new <div n="p">— Mit {#parivi#}, {#°kzata#} <ab>dass.</ab>
+;
+; key = kzA, L = 32406,  {#pari , °kzARa#} -> {#pari#}, {#°kzARa#}
+156958 old <div n="p">— Mit {#pari , °kzARa#} {%verkohlt.%}
+156958 new <div n="p">— Mit {#pari#}, {#°kzARa#} {%verkohlt.%}
+;
+; key = kzi, L = 32481,  {#nu , °kzIyate#} -> {#nu#}, {#°kzIyate#}
+157334 old <div n="p">— Mit {#nu , °kzIyate#} {%nach und nach schwinden.%}
+157334 new <div n="p">— Mit {#nu#}, {#°kzIyate#} {%nach und nach schwinden.%}
+;
+; key = kzi, L = 32481,  {#ava , °kziRoti#} -> {#ava#}, {#°kziRoti#}
+157338 old <div n="p">— Mit {#ava , °kziRoti#} {%wegschaffen , entfernen.%}
+157338 new <div n="p">— Mit {#ava#}, {#°kziRoti#} {%wegschaffen , entfernen.%}
+;
+; key = kzi, L = 32481,  {#upa , °kzIyate#} -> {#upa#}, {#°kzIyate#}
+157339 old <div n="p">— Mit {#upa , °kzIyate#} {%abnehmen , aufgezehrt werden.%}
+157339 new <div n="p">— Mit {#upa#}, {#°kzIyate#} {%abnehmen , aufgezehrt werden.%}
+;
+; key = kzi, L = 32481,  {#nis , °kziRo/ti#} -> {#nis#}, {#°kziRo/ti#}
+157343 old <div n="p">— Mit {#nis , °kziRo/ti#} {%vernichten , wegschaffen%} (eine Krankheit).
+157343 new <div n="p">— Mit {#nis#}, {#°kziRo/ti#} {%vernichten , wegschaffen%} (eine Krankheit).
+;
+; key = kzi, L = 32481,  {#vi , °kziRAti#} -> {#vi#}, {#°kziRAti#}
+157354 old <div n="p">— Mit {#vi , °kziRAti#} {%versehren , mindern , verderben , vernichten.%}
+157354 new <div n="p">— Mit {#vi#}, {#°kziRAti#} {%versehren , mindern , verderben , vernichten.%}
+;
+; key = kzip, L = 32538,  {#ati , °kzipta#} -> {#ati#}, {#°kzipta#}
+157643 old <div n="p">— Mit {#ati , °kzipta#} {%übergeschnellt%} , Bez. {%einer best. Form von Dislocation eines Gelenks%} <ls>WISE.190.</ls>
+157643 new <div n="p">— Mit {#ati#}, {#°kzipta#} {%übergeschnellt%} , Bez. {%einer best. Form von Dislocation eines Gelenks%} <ls>WISE.190.</ls>
+;
+; key = kzip, L = 32538,  {#prod , protkzipta#} -> {#prod#}, {#protkzipta#}
+157708 old <div n="p">— Mit {#prod , protkzipta#} (so zu lesen st. {#prokzita#}) {%geworfelt%} <ls>BHĀVAPR.2,16.</ls>
+157708 new <div n="p">— Mit {#prod#}, {#protkzipta#} (so zu lesen st. {#prokzita#}) {%geworfelt%} <ls>BHĀVAPR.2,16.</ls>
+;
+; key = kzIb, L = 32588,  {#pra , °kzIbita#} -> {#pra#}, {#°kzIbita#}
+158031 old <div n="p">— Mit {#pra , °kzIbita#} oder {#°kzIvita#}. <ab>Vgl.</ab> {#kzInay#}.
+158031 new <div n="p">— Mit {#pra#}, {#°kzIbita#} oder {#°kzIvita#}. <ab>Vgl.</ab> {#kzInay#}.
+;
+; key = kzu, L = 32716,  {#ava , °kzuta#} -> {#ava#}, {#°kzuta#}
+158604 old <div n="p">— Mit {#ava , °kzuta#} {%worauf man geniest hat.%}
+158604 new <div n="p">— Mit {#ava#}, {#°kzuta#} {%worauf man geniest hat.%}
+;
+; key = Kac, L = 33207,  {#ud , utKacita#} -> {#ud#}, {#utKacita#}
+161004 old <div n="p">— Mit {#ud , utKacita#} {%durchwunden — , durchzogen von%} (<ab>Instr.</ab> oder im Comp. vorangehend).
+161004 new <div n="p">— Mit {#ud#}, {#utKacita#} {%durchwunden — , durchzogen von%} (<ab>Instr.</ab> oder im Comp. vorangehend).
+;
+; key = Kac, L = 33207,  {#pari , °Kacita#} -> {#pari#}, {#°Kacita#}
+161005 old <div n="p">— Mit {#pari , °Kacita#} {%belegt — , bestreut mit%} (im Comp. vorangehend) <ls>KĀRAṆḌ.44,17.64,22.87,1.</ls>
+161005 new <div n="p">— Mit {#pari#}, {#°Kacita#} {%belegt — , bestreut mit%} (im Comp. vorangehend) <ls>KĀRAṆḌ.44,17.64,22.87,1.</ls>
+;
+; key = gad, L = 34408,  {#vi , °gadita#} -> {#vi#}, {#°gadita#}
+167083 old <div n="p">— Mit {#vi , °gadita#} {%weit verbreitet , bekannt.%} {#nigadita#} <ab>v.l.</ab>
+167083 new <div n="p">— Mit {#vi#}, {#°gadita#} {%weit verbreitet , bekannt.%} {#nigadita#} <ab>v.l.</ab>
+;
+; key = gaD, L = 34456,  {#A , A/gaDita#} -> {#A#}, {#A/gaDita#}
+167308 old <div n="p">— Mit {#A , A/gaDita#} {%angeklammert.%}
+167308 new <div n="p">— Mit {#A#}, {#A/gaDita#} {%angeklammert.%}
+;
+; key = gaD, L = 34456,  {#pari , pa/rigaDita#} -> {#pari#}, {#pa/rigaDita#}
+167309 old <div n="p">— Mit {#pari , pa/rigaDita#} {%umklammert.%}
+167309 new <div n="p">— Mit {#pari#}, {#pa/rigaDita#} {%umklammert.%}
+;
+; key = gam, L = 34676,  {#acCa , acCA#} -> {#acCa#}, {#acCA#}
+168496 old <div n="p">— Mit {#acCa , acCA#}
+168496 new <div n="p">— Mit {#acCa#}, {#acCA#}
+;
+; key = gam, L = 34676,  {#aDyava , °gata#} -> {#aDyava#}, {#°gata#}
+168588 old <div n="p">— Mit {#aDyava , °gata#} <ls>Ind.St.10,318.</ls> fehlerhaft für {#vyapagata#} ; <ab>vgl.</ab> <ab>Comm.</ab> zu <ls>SŪRYAS.7,20,</ls> b. 21 , a.
+168588 new <div n="p">— Mit {#aDyava#}, {#°gata#} <ls>Ind.St.10,318.</ls> fehlerhaft für {#vyapagata#} ; <ab>vgl.</ab> <ab>Comm.</ab> zu <ls>SŪRYAS.7,20,</ls> b. 21 , a.
+;
+; key = gam, L = 34676,  {#samanvA , °gata#} -> {#samanvA#}, {#°gata#}
+168623 old <div n="p">— Mit {#samanvA , °gata#} (buddh.) {%begleitet von , versehen mit%} (instr. oder im Comp. vorangehend) <ls>LALIT.10,10.15,6.184,6.</ls> <ls>KĀRAṆḌ.41,24.52,17.</ls>
+168623 new <div n="p">— Mit {#samanvA#}, {#°gata#} (buddh.) {%begleitet von , versehen mit%} (instr. oder im Comp. vorangehend) <ls>LALIT.10,10.15,6.184,6.</ls> <ls>KĀRAṆḌ.41,24.52,17.</ls>
+;
+; key = gam, L = 34676,  {#samudA , °gata#} -> {#samudA#}, {#°gata#}
+168631 old <div n="p">— Mit {#samudA , °gata#} am Ende eines Comp. etwa {%hervorragend in.%}
+168631 new <div n="p">— Mit {#samudA#}, {#°gata#} am Ende eines Comp. etwa {%hervorragend in.%}
+;
+; key = gam, L = 34676,  {#aByupA , °gata#} -> {#aByupA#}, {#°gata#}
+168638 old <div n="p">— Mit {#aByupA , °gata#} {%gekommen zu oder in.%} {#vyasanAya#} so v.a. {%Unglück verheissend genaht%} (Schicksal) <ls>R.GORR.2,20,9.</ls>
+168638 new <div n="p">— Mit {#aByupA#}, {#°gata#} {%gekommen zu oder in.%} {#vyasanAya#} so v.a. {%Unglück verheissend genaht%} (Schicksal) <ls>R.GORR.2,20,9.</ls>
+;
+; key = gam, L = 34676,  {#paryupA , °gata#} -> {#paryupA#}, {#°gata#}
+168639 old <div n="p">— Mit {#paryupA , °gata#} <ab>Pl.</ab> {%um Jmd herum stehend.%}
+168639 new <div n="p">— Mit {#paryupA#}, {#°gata#} <ab>Pl.</ab> {%um Jmd herum stehend.%}
+;
+; key = gam, L = 34676,  {#pravi , °gata#} -> {#pravi#}, {#°gata#}
+168787 old <div n="p">— Mit {#pravi , °gata#} {%verschwunden , gewichen.%}
+168787 new <div n="p">— Mit {#pravi#}, {#°gata#} {%verschwunden , gewichen.%}
+;
+; key = gar, L = 34731,  {#*api , *°gArga#} -> {#*api#}, {#*°gArga#}
+169123 old <div n="p">— Mit {#*api , *°gArga#} gelobt. {%gepriesen.%}
+169123 new <div n="p">— Mit {#*api#}, {#*°gArga#} gelobt. {%gepriesen.%}
+;
+; key = gar, L = 34732,  {#*samud , *samudgIrRa#} -> {#*samud#}, {#*samudgIrRa#}
+169176 old <div n="p">— Mit {#*samud , *samudgIrRa#} = {#samudgata#}.
+169176 new <div n="p">— Mit {#*samud#}, {#*samudgIrRa#} = {#samudgata#}.
+;
+; key = garh, L = 35007,  {#ava , °garhita#} -> {#ava#}, {#°garhita#}
+170528 old <div n="p">— Mit {#ava , °garhita#} {%verachtet.%} vl. {#garhita#}
+170528 new <div n="p">— Mit {#ava#}, {#°garhita#} {%verachtet.%} vl. {#garhita#}
+;
+; key = gal, L = 35015,  {#samA , °galita#} -> {#samA#}, {#°galita#}
+170588 old <div n="p">— Mit {#samA , °galita#} {%zusammengestürzt.%}
+170588 new <div n="p">— Mit {#samA#}, {#°galita#} {%zusammengestürzt.%}
+;
+; key = gal, L = 35015,  {#nis , nirgalita#} -> {#nis#}, {#nirgalita#}
+170593 old <div n="p">— Mit {#nis , nirgalita#}
+170593 new <div n="p">— Mit {#nis#}, {#nirgalita#}
+;
+; key = gal, L = 35015,  {#pari , °galita#} -> {#pari#}, {#°galita#}
+170597 old <div n="p">— Mit {#pari , °galita#}
+170597 new <div n="p">— Mit {#pari#}, {#°galita#}
+;
+; key = gavez, L = 35130,  {#pari , °gavezamARa#} -> {#pari#}, {#°gavezamARa#}
+171149 old <div n="p">— Mit {#pari , °gavezamARa#} {%über all suchend%} <ls>LALIT.150,12.</ls>
+171149 new <div n="p">— Mit {#pari#}, {#°gavezamARa#} {%über all suchend%} <ls>LALIT.150,12.</ls>
+;
+; key = gA, L = 35160,  {#acCa , acCA#} -> {#acCa#}, {#acCA#}
+171338 old <div n="p">— Mit {#acCa , acCA#} {%kommen — , hingehen zu.%} mit vorangehende {#A#} und {#pra#} <ab>dass.</ab>
+171338 new <div n="p">— Mit {#acCa#}, {#acCA#} {%kommen — , hingehen zu.%} mit vorangehende {#A#} und {#pra#} <ab>dass.</ab>
+;
+; key = gA, L = 35162,  {#ava , avagIta#} -> {#ava#}, {#avagIta#}
+171458 old <div n="p">— Mit {#ava , avagIta#}
+171458 new <div n="p">— Mit {#ava#}, {#avagIta#}
+;
+; key = gA, L = 35162,  {#vipra , °gIta#} -> {#vipra#}, {#°gIta#}
+171483 old <div n="p">— Mit {#vipra , °gIta#} {%worüber die Meinungen getheilt sind%} <ab>Comm.</ab> zu <ls>JAIM.2,3,3</ls> (S. 173 , Z.8).
+171483 new <div n="p">— Mit {#vipra#}, {#°gIta#} {%worüber die Meinungen getheilt sind%} <ab>Comm.</ab> zu <ls>JAIM.2,3,3</ls> (S. 173 , Z.8).
+;
+; key = gAh, L = 35409,  {#samA , °gAQatara#} -> {#samA#}, {#°gAQatara#}
+172740 old <div n="p">— Mit {#samA , °gAQatara#} {%sehr heftig , — intensiv.%} {#duHKa#} <ls>KĀRAṆḌ.25,13.</ls>
+172740 new <div n="p">— Mit {#samA#}, {#°gAQatara#} {%sehr heftig , — intensiv.%} {#duHKa#} <ls>KĀRAṆḌ.25,13.</ls>
+;
+; key = gu, L = 35588,  {#vi , °gUna#} -> {#vi#}, {#°gUna#}
+173602 old <div n="p">— Mit {#vi , °gUna#}.
+173602 new <div n="p">— Mit {#vi#}, {#°gUna#}.
+;
+; key = guRay, L = 35732,  {#anu , °guRita#} -> {#anu#}, {#°guRita#}
+174317 old <div n="p">— Mit {#anu , °guRita#}
+174317 new <div n="p">— Mit {#anu#}, {#°guRita#}
+;
+; key = guRay, L = 35732,  {#pari , °guRita#} -> {#pari#}, {#°guRita#}
+174320 old <div n="p">— Mit {#pari , °guRita#}
+174320 new <div n="p">— Mit {#pari#}, {#°guRita#}
+;
+; key = guRW, L = 35816,  {#samava , °guRWita#} -> {#samava#}, {#°guRWita#}
+174715 old <div n="p">— Mit {#samava , °guRWita#} {%gehüllt%} in (<ab>Acc.</ab>).
+174715 new <div n="p">— Mit {#samava#}, {#°guRWita#} {%gehüllt%} in (<ab>Acc.</ab>).
+;
+; key = guRW, L = 35816,  {#A , AguRWita#} -> {#A#}, {#AguRWita#}
+174716 old <div n="p">— Mit {#A , AguRWita#} <ab>dass.</ab> mit <ab>Acc.</ab>
+174716 new <div n="p">— Mit {#A#}, {#AguRWita#} <ab>dass.</ab> mit <ab>Acc.</ab>
+;
+; key = guRW, L = 35816,  {#pari , °guRWita#} -> {#pari#}, {#°guRWita#}
+174717 old <div n="p">— Mit {#pari , °guRWita#} <ab>dass.</ab> mit <ab>Instr.</ab> <ls>R.GORR.2,17,24.</ls>
+174717 new <div n="p">— Mit {#pari#}, {#°guRWita#} <ab>dass.</ab> mit <ab>Instr.</ab> <ls>R.GORR.2,17,24.</ls>
+;
+; key = gup, L = 35860,  {#aDi , °gupta#} -> {#aDi#}, {#°gupta#}
+174934 old <div n="p">— Mit {#aDi , °gupta#} {%beschützt von%} (im Comp. vorangehend).
+174934 new <div n="p">— Mit {#aDi#}, {#°gupta#} {%beschützt von%} (im Comp. vorangehend).
+;
+; key = gup, L = 35860,  {#anu , °gupta#} -> {#anu#}, {#°gupta#}
+174935 old <div n="p">— Mit {#anu , °gupta#}
+174935 new <div n="p">— Mit {#anu#}, {#°gupta#}
+;
+; key = gup, L = 35860,  {#aBi , °gupta#} -> {#aBi#}, {#°gupta#}
+174938 old <div n="p">— Mit {#aBi , °gupta#} {%behütet , beschützt , bewahrt.%}
+174938 new <div n="p">— Mit {#aBi#}, {#°gupta#} {%behütet , beschützt , bewahrt.%}
+;
+; key = gup, L = 35860,  {#upa , °gupta#} -> {#upa#}, {#°gupta#}
+174939 old <div n="p">— Mit {#upa , °gupta#} {%versteckt , verborgen.%}
+174939 new <div n="p">— Mit {#upa#}, {#°gupta#} {%versteckt , verborgen.%}
+;
+; key = gup, L = 35860,  {#sam , saMgupta#} -> {#sam#}, {#saMgupta#}
+174946 old <div n="p">— Mit {#sam , saMgupta#}
+174946 new <div n="p">— Mit {#sam#}, {#saMgupta#}
+;
+; key = gup, L = 35860,  {#aBisam , °saMgupta#} -> {#aBisam#}, {#°saMgupta#}
+174949 old <div n="p">— Mit {#aBisam , °saMgupta#} {%gehütet , beschützt.%}
+174949 new <div n="p">— Mit {#aBisam#}, {#°saMgupta#} {%gehütet , beschützt.%}
+;
+; key = guh, L = 36035,  {#*pari , *°gUQa#} -> {#*pari#}, {#*°gUQa#}
+175816 old <div n="p">— Mit {#*pari , *°gUQa#}.
+175816 new <div n="p">— Mit {#*pari#}, {#*°gUQa#}.
+;
+; key = guh, L = 36035,  {#vi , °gUQa#} -> {#vi#}, {#°gUQa#}
+175817 old <div n="p">— Mit {#vi , °gUQa#}
+175817 new <div n="p">— Mit {#vi#}, {#°gUQa#}
+;
+; key = guh, L = 36035,  {#*sam , *saMgUQa#} -> {#*sam#}, {#*saMgUQa#}
+175820 old <div n="p">— Mit {#*sam , *saMgUQa#} = {#saMkalita#}.
+175820 new <div n="p">— Mit {#*sam#}, {#*saMgUQa#} = {#saMkalita#}.
+;
+; key = graT, L = 37263,  {#anu , °graTita#} -> {#anu#}, {#°graTita#}
+181722 old <div n="p">— Mit {#anu , °graTita#} {%verknotet , fest.%}
+181722 new <div n="p">— Mit {#anu#}, {#°graTita#} {%verknotet , fest.%}
+;
+; key = graT, L = 37263,  {#sam , sa/MgraTita#} -> {#sam#}, {#sa/MgraTita#}
+181737 old <div n="p">— Mit {#sam , sa/MgraTita#} {%verknotet , zusammengebunden.%}
+181737 new <div n="p">— Mit {#sam#}, {#sa/MgraTita#} {%verknotet , zusammengebunden.%}
+;
+; key = gras, L = 37319,  {#*aBi , *°grasta#} -> {#*aBi#}, {#*°grasta#}
+182320 old <div n="p">— Mit {#*aBi , *°grasta#} = {#aBipanna#}.
+182320 new <div n="p">— Mit {#*aBi#}, {#*°grasta#} = {#aBipanna#}.
+;
+; key = glA, L = 37625,  {#pari , °glAna#} -> {#pari#}, {#°glAna#}
+183861 old <div n="p">— Mit {#pari , °glAna#}
+183861 new <div n="p">— Mit {#pari#}, {#°glAna#}
+;
+; key = glA, L = 37625,  {#aBipari , °glAna#} -> {#aBipari#}, {#°glAna#}
+183864 old <div n="p">— Mit {#aBipari , °glAna#} {%erschöpft , mitgenommen.%}
+183864 new <div n="p">— Mit {#aBipari#}, {#°glAna#} {%erschöpft , mitgenommen.%}
+;
+; key = Gaww, L = 37713,  {#vi °GawwamAna#} -> {#vi#}{# °GawwamAna#}
+184377 old <div n="p">— Mit {#vi °GawwamAna#} (wohl {#°GawamAna#} zu lesen) {%zerbrechend%} <ls>PRASANNAR.66,8.</ls>
+184377 new <div n="p">— Mit {#vi#}{# °GawwamAna#} (wohl {#°GawamAna#} zu lesen) {%zerbrechend%} <ls>PRASANNAR.66,8.</ls>
+;
+; key = Gar, L = 37829,  {#aBi , aBi/Gfta#} -> {#aBi#}, {#aBi/Gfta#}
+184979 old <div n="p">— Mit {#aBi , aBi/Gfta#}
+184979 new <div n="p">— Mit {#aBi#}, {#aBi/Gfta#}
+;
+; key = Gar, L = 37829,  {#vi , vi/Gfta#} -> {#vi#}, {#vi/Gfta#}
+184994 old <div n="p">— Mit {#vi , vi/Gfta#} {%beträufelt.%}
+184994 new <div n="p">— Mit {#vi#}, {#vi/Gfta#} {%beträufelt.%}
+;
+; key = Garz, L = 37879,  {#vi , °Gfzwa#} -> {#vi#}, {#°Gfzwa#}
+185256 old <div n="p">— Mit {#vi , °Gfzwa#} {%zerrieben , aufgerieben , wund.%}
+185256 new <div n="p">— Mit {#vi#}, {#°Gfzwa#} {%zerrieben , aufgerieben , wund.%}
+;
+; key = GAtay, L = 37904,  {#aBi , SarABiGAtita#} -> {#aBi#}, {#SarABiGAtita#}
+185418 old <div n="p">— Mit {#aBi , SarABiGAtita#} {%von Pfeilen getroffen.%}
+185418 new <div n="p">— Mit {#aBi#}, {#SarABiGAtita#} {%von Pfeilen getroffen.%}
+;
+; key = Guw, L = 37929,  {#ava , °Gowita#} -> {#ava#}, {#°Gowita#}
+185549 old <div n="p">— Mit {#ava , °Gowita#} etwa {%gepolstert.%}
+185549 new <div n="p">— Mit {#ava#}, {#°Gowita#} etwa {%gepolstert.%}
+;
+; key = Guz, L = 37964,  {#vyA , °Guzwa#} -> {#vyA#}, {#°Guzwa#}
+185724 old <div n="p">— Mit {#vyA , °Guzwa#} {%laut ertönend.%}
+185724 new <div n="p">— Mit {#vyA#}, {#°Guzwa#} {%laut ertönend.%}
+;
+; key = GUrR, L = 37976,  {#vyA , vini#} -> {#vyA#}, {#vini#}
+185805 old <div n="p">— Mit {#vyA , vini#} (<ls>MBH.8,90,40</ls>) und {#pari#} <ab>dass.</ab>
+185805 new <div n="p">— Mit {#vyA#}, {#vini#} (<ls>MBH.8,90,40</ls>) und {#pari#} <ab>dass.</ab>
+;
+; key = cak, L = 38182,  {#ud , uccakanti#} -> {#ud#}, {#uccakanti#}
+186896 old <div n="p">— Mit {#ud , uccakanti#} = {#svArUQaM paSyanti#} <ab>Comm.</ab> — {#uccakita#} {%erschrocken aufblickend%} <ls>KĀD.2,74,24.137,5.</ls>
+186896 new <div n="p">— Mit {#ud#}, {#uccakanti#} = {#svArUQaM paSyanti#} <ab>Comm.</ab> — {#uccakita#} {%erschrocken aufblickend%} <ls>KĀD.2,74,24.137,5.</ls>
+;
+; key = cak, L = 38182,  {#pra , °cakita#} -> {#pra#}, {#°cakita#}
+186897 old <div n="p">— Mit {#pra , °cakita#} {%zitternd , erschrocken.%}
+186897 new <div n="p">— Mit {#pra#}, {#°cakita#} {%zitternd , erschrocken.%}
+;
+; key = cam, L = 39162,  {#A , AcAmati#} -> {#A#}, {#AcAmati#}
+191827 old <div n="p">— Mit {#A , AcAmati#}
+191827 new <div n="p">— Mit {#A#}, {#AcAmati#}
+;
+; key = cam, L = 39162,  {#anvA , °cAmati#} -> {#anvA#}, {#°cAmati#}
+191835 old <div n="p">— Mit {#anvA , °cAmati#} {%wieder den Mund ausspülen.%}
+191835 new <div n="p">— Mit {#anvA#}, {#°cAmati#} {%wieder den Mund ausspülen.%}
+;
+; key = cam, L = 39162,  {#paryA , °cAnta#} -> {#paryA#}, {#°cAnta#}
+191836 old <div n="p">— Mit {#paryA , °cAnta#} in Verbindung mit {#anna#} {%Speise , nach der sich Jmd früher als die Andern den Mund gespült hat.%}
+191836 new <div n="p">— Mit {#paryA#}, {#°cAnta#} in Verbindung mit {#anna#} {%Speise , nach der sich Jmd früher als die Andern den Mund gespült hat.%}
+;
+; key = cam, L = 39162,  {#samA , °camya#} -> {#samA#}, {#°camya#}
+191837 old <div n="p">— Mit {#samA , °camya#} {%Wasser Schlürfend.%}
+191837 new <div n="p">— Mit {#samA#}, {#°camya#} {%Wasser Schlürfend.%}
+;
+; key = cam, L = 39162,  {#*vi , °camati#} -> {#*vi#}, {#°camati#}
+191838 old <div n="p">— Mit {#*vi , °camati#}.
+191838 new <div n="p">— Mit {#*vi#}, {#°camati#}.
+;
+; key = carc, L = 39316,  {#vi , °carcita#} -> {#vi#}, {#°carcita#}
+192862 old <div n="p">— Mit {#vi , °carcita#} {%aufgetragen%} (eine Salbe auf , mit <ab>Loc.</ab>).
+192862 new <div n="p">— Mit {#vi#}, {#°carcita#} {%aufgetragen%} (eine Salbe auf , mit <ab>Loc.</ab>).
+;
+; key = cal, L = 39426,  {#*saMpra , *°calita#} -> {#*saMpra#}, {#*°calita#}
+193466 old <div n="p">— Mit {#*saMpra , *°calita#} {%heftig bebend.%}
+193466 new <div n="p">— Mit {#*saMpra#}, {#*°calita#} {%heftig bebend.%}
+;
+; key = ci, L = 39789,  {#anu , °cita#} -> {#anu#}, {#°cita#}
+195307 old <div n="p">— Mit {#anu , °cita#} {%deer Länge nach besetzt mit%} (<ab>Instr.</ab>).
+195307 new <div n="p">— Mit {#anu#}, {#°cita#} {%deer Länge nach besetzt mit%} (<ab>Instr.</ab>).
+;
+; key = ci, L = 39789,  {#parisam , °saMcita#} -> {#parisam#}, {#°saMcita#}
+195378 old <div n="p">— Mit {#parisam , °saMcita#} {%eingesammelt , angehäuft.%}
+195378 new <div n="p">— Mit {#parisam#}, {#°saMcita#} {%eingesammelt , angehäuft.%}
+;
+; key = ci, L = 39790,  {#aBinis , aBiniScita#} -> {#aBinis#}, {#aBiniScita#}
+195395 old <div n="p">— Mit {#aBinis , aBiniScita#}
+195395 new <div n="p">— Mit {#aBinis#}, {#aBiniScita#}
+;
+; key = citray, L = 40058,  {#ud , uccitrita#} -> {#ud#}, {#uccitrita#}
+196790 old <div n="p">— Mit {#ud , uccitrita#} {%reich geschmückt — , — versehen mit%} (<ab>Instr.</ab>) <ls>VIKRAMĀṄKAC.12,28.</ls>
+196790 new <div n="p">— Mit {#ud#}, {#uccitrita#} {%reich geschmückt — , — versehen mit%} (<ab>Instr.</ab>) <ls>VIKRAMĀṄKAC.12,28.</ls>
+;
+; key = cint, L = 40181,  {#vyA , °cintayat#} -> {#vyA#}, {#°cintayat#}
+197414 old <div n="p">— Mit {#vyA , °cintayat#} <ls>PAÑCAT.104,16</ls> fehlerhaft
+197414 new <div n="p">— Mit {#vyA#}, {#°cintayat#} <ls>PAÑCAT.104,16</ls> fehlerhaft
+;
+; key = cUrRay, L = 40545,  {#vini , °curRita#} -> {#vini#}, {#°curRita#}
+199272 old <div n="p">— Mit {#vini , °curRita#} <ls>MBH.8,4665</ls> fehlerhaft für {#°GUrRita#}.
+199272 new <div n="p">— Mit {#vini#}, {#°curRita#} <ls>MBH.8,4665</ls> fehlerhaft für {#°GUrRita#}.
+;
+; key = Cad, L = 40881,  {#samaBi , °cCanna#} -> {#samaBi#}, {#°cCanna#}
+201075 old <div n="p">— Mit {#samaBi , °cCanna#} {%bedeckt mit%} (<ab>Instr.</ab>).
+201075 new <div n="p">— Mit {#samaBi#}, {#°cCanna#} {%bedeckt mit%} (<ab>Instr.</ab>).
+;
+; key = Cad, L = 40881,  {#ava , °cCanna#} -> {#ava#}, {#°cCanna#}
+201076 old <div n="p">— Mit {#ava , °cCanna#}
+201076 new <div n="p">— Mit {#ava#}, {#°cCanna#}
+;
+; key = Cad, L = 40881,  {#samava , °cCanna#} -> {#samava#}, {#°cCanna#}
+201083 old <div n="p">— Mit {#samava , °cCanna#} {%verdeckt , verhüllt.%}
+201083 new <div n="p">— Mit {#samava#}, {#°cCanna#} {%verdeckt , verhüllt.%}
+;
+; key = Cad, L = 40881,  {#ud , ucCanna#} -> {#ud#}, {#ucCanna#}
+201096 old <div n="p">— Mit {#ud , ucCanna#} <ls>SUŚR.2,395,10.</ls> <ls>MUDRĀR.130,12(193,9)</ls> fehlerhaft oder <is n="1">prākritisch</is> für {#utsanna#}.
+201096 new <div n="p">— Mit {#ud#}, {#ucCanna#} <ls>SUŚR.2,395,10.</ls> <ls>MUDRĀR.130,12(193,9)</ls> fehlerhaft oder <is n="1">prākritisch</is> für {#utsanna#}.
+;
+; key = Cad, L = 40881,  {#samud , samucCanna#} -> {#samud#}, {#samucCanna#}
+201099 old <div n="p">— Mit {#samud , samucCanna#} = {#samutsanna#} {%zu Nichte geworden.%}
+201099 new <div n="p">— Mit {#samud#}, {#samucCanna#} = {#samutsanna#} {%zu Nichte geworden.%}
+;
+; key = Cad, L = 40881,  {#upa , °cCanna#} -> {#upa#}, {#°cCanna#}
+201100 old <div n="p">— Mit {#upa , °cCanna#}
+201100 new <div n="p">— Mit {#upa#}, {#°cCanna#}
+;
+; key = Cad, L = 40881,  {#pari , °cCanna#} -> {#pari#}, {#°cCanna#}
+201104 old <div n="p">— Mit {#pari , °cCanna#}
+201104 new <div n="p">— Mit {#pari#}, {#°cCanna#}
+;
+; key = Cad, L = 40881,  {#pra , pracCanna#} -> {#pra#}, {#pracCanna#}
+201109 old <div n="p">— Mit {#pra , pracCanna#}
+201109 new <div n="p">— Mit {#pra#}, {#pracCanna#}
+;
+; key = Cad, L = 40881,  {#vipra , °cCanna#} -> {#vipra#}, {#°cCanna#}
+201118 old <div n="p">— Mit {#vipra , °cCanna#} {%verborgen , geheim.%}
+201118 new <div n="p">— Mit {#vipra#}, {#°cCanna#} {%verborgen , geheim.%}
+;
+; key = Cad, L = 40881,  {#prati , °cCanna#} -> {#prati#}, {#°cCanna#}
+201119 old <div n="p">— Mit {#prati , °cCanna#}
+201119 new <div n="p">— Mit {#prati#}, {#°cCanna#}
+;
+; key = Cad, L = 40881,  {#sam , saMCanna#} -> {#sam#}, {#saMCanna#}
+201124 old <div n="p">— Mit {#sam , saMCanna#}
+201124 new <div n="p">— Mit {#sam#}, {#saMCanna#}
+;
+; key = Cid, L = 41118,  {#ati , °cCinna#} -> {#ati#}, {#°cCinna#}
+202288 old <div n="p">— Mit {#ati , °cCinna#} {%zu stark aufgeschnitten%} <ls>SUŚR.2,19,1.</ls> {%zu stark zerhauen , — verwundet%} <ls>MBH.12,96,15.</ls>
+202288 new <div n="p">— Mit {#ati#}, {#°cCinna#} {%zu stark aufgeschnitten%} <ls>SUŚR.2,19,1.</ls> {%zu stark zerhauen , — verwundet%} <ls>MBH.12,96,15.</ls>
+;
+; key = Cur, L = 41173,  {#A , AcCurita#} -> {#A#}, {#AcCurita#}
+202634 old <div n="p">— Mit {#A , AcCurita#} {%bekleidet mit%} (<ab>Instr.</ab> <ls>KATHĀS.17,35.</ls>
+202634 new <div n="p">— Mit {#A#}, {#AcCurita#} {%bekleidet mit%} (<ab>Instr.</ab> <ls>KATHĀS.17,35.</ls>
+;
+; key = jakz, L = 41215,  {#*pra , °jagDya#} -> {#*pra#}, {#°jagDya#}
+202903 old <div n="p">— Mit {#*pra , °jagDya#} <ab>Absol.</ab>
+202903 new <div n="p">— Mit {#*pra#}, {#°jagDya#} <ab>Absol.</ab>
+;
+; key = jakz, L = 41215,  {#prati , pra/tijagDa#} -> {#prati#}, {#pra/tijagDa#}
+202904 old <div n="p">— Mit {#prati , pra/tijagDa#} {%genossen%} <ls>MAITR.S.1,4,10.</ls> = <ls>KĀṬH.32,7.</ls>
+202904 new <div n="p">— Mit {#prati#}, {#pra/tijagDa#} {%genossen%} <ls>MAITR.S.1,4,10.</ls> = <ls>KĀṬH.32,7.</ls>
+;
+; key = jakz, L = 41215,  {#vi , °jagDa#} -> {#vi#}, {#°jagDa#}
+202905 old <div n="p">— Mit {#vi , °jagDa#} {%aufgefressen.%}
+202905 new <div n="p">— Mit {#vi#}, {#°jagDa#} {%aufgefressen.%}
+;
+; key = jan, L = 41470,  {#apa , °jAta#} -> {#apa#}, {#°jAta#}
+204248 old <div n="p">— Mit {#apa , °jAta#} {%aus der Art geschlagen , missrathen%} (Sohn).
+204248 new <div n="p">— Mit {#apa#}, {#°jAta#} {%aus der Art geschlagen , missrathen%} (Sohn).
+;
+; key = jan, L = 41470,  {#nis , nirjAta#} -> {#nis#}, {#nirjAta#}
+204290 old <div n="p">— Mit {#nis , nirjAta#} {%zum Vorschein gekommen , da seiend%} ; am Ende eines Comp. in verstellter Ordnung.
+204290 new <div n="p">— Mit {#nis#}, {#nirjAta#} {%zum Vorschein gekommen , da seiend%} ; am Ende eines Comp. in verstellter Ordnung.
+;
+; key = jan, L = 41470,  {#pari , pa/rijAta#} -> {#pari#}, {#pa/rijAta#}
+204291 old <div n="p">— Mit {#pari , pa/rijAta#}
+204291 new <div n="p">— Mit {#pari#}, {#pa/rijAta#}
+;
+; key = jan, L = 41470,  {#apapra , °jAtA#} -> {#apapra#}, {#°jAtA#}
+204309 old <div n="p">— Mit {#apapra , °jAtA#} {%die eine Fehlgeburt gemacht hat.%}
+204309 new <div n="p">— Mit {#apapra#}, {#°jAtA#} {%die eine Fehlgeburt gemacht hat.%}
+;
+; key = jan, L = 41470,  {#aBisam , °saMjAta#} -> {#aBisam#}, {#°saMjAta#}
+204335 old <div n="p">— Mit {#aBisam , °saMjAta#} {%entstanden.%}
+204335 new <div n="p">— Mit {#aBisam#}, {#°saMjAta#} {%entstanden.%}
+;
+; key = jan, L = 41470,  {#pratisam , °saMjAta#} -> {#pratisam#}, {#°saMjAta#}
+204337 old <div n="p">— Mit {#pratisam , °saMjAta#} {%entstanden.%}
+204337 new <div n="p">— Mit {#pratisam#}, {#°saMjAta#} {%entstanden.%}
+;
+; key = jar, L = 41878,  {#pra , °jIryati#} -> {#pra#}, {#°jIryati#}
+206427 old <div n="p">— Mit {#pra , °jIryati#} {%verdaut werden.%} {#°jIrRa#} {%verdaut%} <ls>CARAKA.1,15.</ls>
+206427 new <div n="p">— Mit {#pra#}, {#°jIryati#} {%verdaut werden.%} {#°jIrRa#} {%verdaut%} <ls>CARAKA.1,15.</ls>
+;
+; key = jar, L = 41878,  {#sam , saMjIryati#} -> {#sam#}, {#saMjIryati#}
+206428 old <div n="p">— Mit {#sam , saMjIryati#} {%zusammen alt werden%} <ls>MAITR.S.1,8,4.</ls>
+206428 new <div n="p">— Mit {#sam#}, {#saMjIryati#} {%zusammen alt werden%} <ls>MAITR.S.1,8,4.</ls>
+;
+; key = ji, L = 42736,  {#pratyaBi , °jita#} -> {#pratyaBi#}, {#°jita#}
+210596 old <div n="p">— Mit {#pratyaBi , °jita#} <ls>GOP.BR.2,2,7</ls> fehlerhaft für {#°cita#}.
+210596 new <div n="p">— Mit {#pratyaBi#}, {#°jita#} <ls>GOP.BR.2,2,7</ls> fehlerhaft für {#°cita#}.
+;
+; key = juz, L = 43157,  {#nis , nirjuzwa#} -> {#nis#}, {#nirjuzwa#}
+212801 old <div n="p">— Mit {#nis , nirjuzwa#} {%besucht — , bewohnt von%} (<ab>Instr.</ab>).
+212801 new <div n="p">— Mit {#nis#}, {#nirjuzwa#} {%besucht — , bewohnt von%} (<ab>Instr.</ab>).
+;
+; key = juz, L = 43157,  {#pra , °juzwa#} -> {#pra#}, {#°juzwa#}
+212802 old <div n="p">— Mit {#pra , °juzwa#} {%Gefallen , findend an%} (<ab>Loc.</ab>).
+212802 new <div n="p">— Mit {#pra#}, {#°juzwa#} {%Gefallen , findend an%} (<ab>Loc.</ab>).
+;
+; key = juz, L = 43157,  {#sam , saMjuzwa#} -> {#sam#}, {#saMjuzwa#}
+212807 old <div n="p">— Mit {#sam , saMjuzwa#} {%besucht — , bewohnt — , erfüllt von%} (<ab>Instr.</ab> oder im Comp. vorangehend).
+212807 new <div n="p">— Mit {#sam#}, {#saMjuzwa#} {%besucht — , bewohnt — , erfüllt von%} (<ab>Instr.</ab> oder im Comp. vorangehend).
+;
+; key = jyA, L = 43453,  {#*upa , °jyAya#} -> {#*upa#}, {#°jyAya#}
+214367 old <div n="p">— Mit {#*upa , °jyAya#}.
+214367 new <div n="p">— Mit {#*upa#}, {#°jyAya#}.
+;
+; key = jyA, L = 43453,  {#*pra , °jyAya#} -> {#*pra#}, {#°jyAya#}
+214369 old <div n="p">— Mit {#*pra , °jyAya#}.
+214369 new <div n="p">— Mit {#*pra#}, {#°jyAya#}.
+;
+; key = jval, L = 43647,  {#apa , °jvalitam#} -> {#apa#}, {#°jvalitam#}
+215376 old <div n="p">— Mit {#apa , °jvalitam#} <ab>Adv.</ab> {%bei Licht%} <ls>ĀPAST.ŚR.15,20,14.</ls>
+215376 new <div n="p">— Mit {#apa#}, {#°jvalitam#} <ab>Adv.</ab> {%bei Licht%} <ls>ĀPAST.ŚR.15,20,14.</ls>
+;
+; key = Jaw, L = 43687,  {#ud , ujJawita#} -> {#ud#}, {#ujJawita#}
+215621 old <div n="p">— Mit {#ud , ujJawita#} {%in Verwirrung gebracht.%}
+215621 new <div n="p">— Mit {#ud#}, {#ujJawita#} {%in Verwirrung gebracht.%}
+;
+; key = waNkay, L = 43805,  {#ud , uwwaNkita#} -> {#ud#}, {#uwwaNkita#}
+216225 old <div n="p">— Mit {#ud , uwwaNkita#} {%gestempelt , gekennzeichnet ; Eindrücke zeigend von%} (im Comp. vorangehend) <ls>VIKRAMĀṄKAC.18,53.</ls>
+216225 new <div n="p">— Mit {#ud#}, {#uwwaNkita#} {%gestempelt , gekennzeichnet ; Eindrücke zeigend von%} (im Comp. vorangehend) <ls>VIKRAMĀṄKAC.18,53.</ls>
+;
+; key = waNkay, L = 43805,  {#vi , °waNkita#} -> {#vi#}, {#°waNkita#}
+216227 old <div n="p">— Mit {#vi , °waNkita#} {%gestempelt — , gekennzeichnet — , geschmückt mit%} (<ab>Instr.</ab> oder im Comp. vorangehend).
+216227 new <div n="p">— Mit {#vi#}, {#°waNkita#} {%gestempelt — , gekennzeichnet — , geschmückt mit%} (<ab>Instr.</ab> oder im Comp. vorangehend).
+;
+; key = tan, L = 44363,  {#ati , °tata#} -> {#ati#}, {#°tata#}
+219033 old <div n="p">— Mit {#ati , °tata#} {%der sich sehr breit macht , sehr übermüthig.%}
+219033 new <div n="p">— Mit {#ati#}, {#°tata#} {%der sich sehr breit macht , sehr übermüthig.%}
+;
+; key = tan, L = 44363,  {#pravi , °tata#} -> {#pravi#}, {#°tata#}
+219107 old <div n="p">— Mit {#pravi , °tata#}
+219107 new <div n="p">— Mit {#pravi#}, {#°tata#}
+;
+; key = tap, L = 44564,  {#vinis , vinizwapta#} -> {#vinis#}, {#vinizwapta#}
+220212 old <div n="p">— Mit {#vinis , vinizwapta#} {%gar gebraten , geröstet.%}
+220212 new <div n="p">— Mit {#vinis#}, {#vinizwapta#} {%gar gebraten , geröstet.%}
+;
+; key = tap, L = 44564,  {#aBipra , °tapta#} -> {#aBipra#}, {#°tapta#}
+220244 old <div n="p">— Mit {#aBipra , °tapta#}
+220244 new <div n="p">— Mit {#aBipra#}, {#°tapta#}
+;
+; key = tap, L = 44564,  {#asaMpra , °tapta#} -> {#asaMpra#}, {#°tapta#}
+220247 old <div n="p">— Mit {#asaMpra , °tapta#} {%Schmerzen leidend , in schlimmer Lage sich befindend.%}
+220247 new <div n="p">— Mit {#asaMpra#}, {#°tapta#} {%Schmerzen leidend , in schlimmer Lage sich befindend.%}
+;
+; key = tap, L = 44564,  {#pravi , °tapta#} -> {#pravi#}, {#°tapta#}
+220259 old <div n="p">— Mit {#pravi , °tapta#} {%durchglüht.%}
+220259 new <div n="p">— Mit {#pravi#}, {#°tapta#} {%durchglüht.%}
+;
+; key = tap, L = 44564,  {#atisam , atisaMtapta#} -> {#atisam#}, {#atisaMtapta#}
+220277 old <div n="p">— Mit {#atisam , atisaMtapta#} {%überaus betrübt.%}
+220277 new <div n="p">— Mit {#atisam#}, {#atisaMtapta#} {%überaus betrübt.%}
+;
+; key = tam, L = 44680,  {#ava , a/vatAnta#} -> {#ava#}, {#a/vatAnta#}
+220889 old <div n="p">— Mit {#ava , a/vatAnta#} {%ohnmächtig.%}
+220889 new <div n="p">— Mit {#ava#}, {#a/vatAnta#} {%ohnmächtig.%}
+;
+; key = tam, L = 44680,  {#ni , °tAnta#} -> {#ni#}, {#°tAnta#}
+220896 old <div n="p">— Mit {#ni , °tAnta#} {%ausserordentlich , bedeutend%} ; {#°m#} und {#nitAnta°#} <ab>Adv.</ab> {%in hohem Grade , überaus , sehr , heftig , ganz und gar , durchaus.%}
+220896 new <div n="p">— Mit {#ni#}, {#°tAnta#} {%ausserordentlich , bedeutend%} ; {#°m#} und {#nitAnta°#} <ab>Adv.</ab> {%in hohem Grade , überaus , sehr , heftig , ganz und gar , durchaus.%}
+;
+; key = tarp, L = 44959,  {#aBi , °tfpta#} -> {#aBi#}, {#°tfpta#}
+222591 old <div n="p">— Mit {#aBi , °tfpta#} {%satt , befriedigt , gelabt%} ; die Ergänzung im <ab>Instr.</ab> oder im Comp. vorangehend.
+222591 new <div n="p">— Mit {#aBi#}, {#°tfpta#} {%satt , befriedigt , gelabt%} ; die Ergänzung im <ab>Instr.</ab> oder im Comp. vorangehend.
+;
+; key = tarp, L = 44959,  {#ni/#} -> {#ni#}{#/#}
+222596 old <div n="p">— Mit {#ni/#} ( {#tfmpati#} <ls>ṚV.8,70,10.</ls> Vielleicht ist {#na/#} st. {#ni/#} zu lesen.
+222596 new <div n="p">— Mit {#ni#}{#/#} ( {#tfmpati#} <ls>ṚV.8,70,10.</ls> Vielleicht ist {#na/#} st. {#ni#}{#/#} zu lesen.
+;
+; key = tarp, L = 44959,  {#pari , °tfpta#} -> {#pari#}, {#°tfpta#}
+222597 old <div n="p">— Mit {#pari , °tfpta#} {%vollkommen befriedigt.%}
+222597 new <div n="p">— Mit {#pari#}, {#°tfpta#} {%vollkommen befriedigt.%}
+;
+; key = tarz, L = 44974,  {#pari , °tfzita#} -> {#pari#}, {#°tfzita#}
+222680 old <div n="p">— Mit {#pari , °tfzita#} {%heftig schmachtend nach.%} {#Darma°#} <ls>KĀRAṆḌ.80,13.</ls>
+222680 new <div n="p">— Mit {#pari#}, {#°tfzita#} {%heftig schmachtend nach.%} {#Darma°#} <ls>KĀRAṆḌ.80,13.</ls>
+;
+; key = tAy, L = 45373,  {#sam , saMtAyya/mAna#} -> {#sam#}, {#saMtAyya/mAna#}
+224705 old <div n="p">— Mit {#sam , saMtAyya/mAna#} {%sich ausbreitend , — darauf legend.%}
+224705 new <div n="p">— Mit {#sam#}, {#saMtAyya/mAna#} {%sich ausbreitend , — darauf legend.%}
+;
+; key = tij, L = 45709,  {#ni , ni/tikta#} -> {#ni#}, {#ni/tikta#}
+226408 old <div n="p">— Mit {#ni , ni/tikta#} {%concitatus.%}
+226408 new <div n="p">— Mit {#ni#}, {#ni/tikta#} {%concitatus.%}
+;
+; key = tud, L = 46250,  {#anu , °tunna#} -> {#anu#}, {#°tunna#}
+229098 old <div n="p">— Mit {#anu , °tunna#} {%wiederholt gestossen.%}
+229098 new <div n="p">— Mit {#anu#}, {#°tunna#} {%wiederholt gestossen.%}
+;
+; key = tud, L = 46250,  {#ava , °tunna#} -> {#ava#}, {#°tunna#}
+229099 old <div n="p">— Mit {#ava , °tunna#} {%abgestossen%} <ls>CARAKA.2,1.</ls>
+229099 new <div n="p">— Mit {#ava#}, {#°tunna#} {%abgestossen%} <ls>CARAKA.2,1.</ls>
+;
+; key = tump, L = 46287,  {#pra , °stumpati#} -> {#pra#}, {#°stumpati#}
+229310 old <div n="p">— Mit {#pra , °stumpati#} {%mit den Hörnern stossen.%}
+229310 new <div n="p">— Mit {#pra#}, {#°stumpati#} {%mit den Hörnern stossen.%}
+;
+; key = tyaj, L = 47188,  {#ni , ni/yakta#} -> {#ni#}, {#ni/yakta#}
+233575 old <div n="p">— Mit {#ni , ni/yakta#} {%heraustreiben , verjagen.%}
+233575 new <div n="p">— Mit {#ni#}, {#ni/yakta#} {%heraustreiben , verjagen.%}
+;
+; key = tras, L = 47279,  {#ava , °trasta#} -> {#ava#}, {#°trasta#}
+234048 old <div n="p">— Mit {#ava , °trasta#} {%erschrocken.%} <ab>v.l.</ab> {#apaDvasta#}.
+234048 new <div n="p">— Mit {#ava#}, {#°trasta#} {%erschrocken.%} <ab>v.l.</ab> {#apaDvasta#}.
+;
+; key = tras, L = 47279,  {#ud , uttrasta#} -> {#ud#}, {#uttrasta#}
+234049 old <div n="p">— Mit {#ud , uttrasta#} {%erschrocken.%}
+234049 new <div n="p">— Mit {#ud#}, {#uttrasta#} {%erschrocken.%}
+;
+; key = tras, L = 47279,  {#samud , samuttrasta#} -> {#samud#}, {#samuttrasta#}
+234052 old <div n="p">— Mit {#samud , samuttrasta#} {%erschrocken.%}
+234052 new <div n="p">— Mit {#samud#}, {#samuttrasta#} {%erschrocken.%}
+;
+; key = tras, L = 47279,  {#pari , °trasta#} -> {#pari#}, {#°trasta#}
+234056 old <div n="p">— Mit {#pari , °trasta#} {%erschrocken.%}
+234056 new <div n="p">— Mit {#pari#}, {#°trasta#} {%erschrocken.%}
+;
+; key = tras, L = 47279,  {#aBisam , °saMtrasta#} -> {#aBisam#}, {#°saMtrasta#}
+234063 old <div n="p">— Mit {#aBisam , °saMtrasta#} {%erschrocken.%}
+234063 new <div n="p">— Mit {#aBisam#}, {#°saMtrasta#} {%erschrocken.%}
+;
+; key = tvakz, L = 48195,  {#pra , pratvakzARa/#} -> {#pra#}, {#pratvakzARa/#}
+238447 old <div n="p">— Mit {#pra , pratvakzARa/#} {%überwiegend kräftig oder überlegen.%}
+238447 new <div n="p">— Mit {#pra#}, {#pratvakzARa/#} {%überwiegend kräftig oder überlegen.%}
+;
+; key = daMS, L = 48352,  {#aBisam , aBi/ sa/MdazwO#} -> {#aBisam#}, {#aBi/ sa/MdazwO#}
+239207 old <div n="p">— Mit {#aBisam , aBi/ sa/MdazwO#} {%zusammengebunden , zusammenschnürt.%}
+239207 new <div n="p">— Mit {#aBisam#}, {#aBi/ sa/MdazwO#} {%zusammengebunden , zusammenschnürt.%}
+;
+; key = daMh, L = 48389,  {#ati , °daMhIH#} -> {#ati#}, {#°daMhIH#}
+239401 old <div n="p">— Mit {#ati , °daMhIH#}
+239401 new <div n="p">— Mit {#ati#}, {#°daMhIH#}
+;
+; key = dar, L = 49037,  {#vyava , °dIrRa#} -> {#vyava#}, {#°dIrRa#}
+242548 old <div n="p">— Mit {#vyava , °dIrRa#} {%geborsten , zersprungen.%} {#(manas)#}.
+242548 new <div n="p">— Mit {#vyava#}, {#°dIrRa#} {%geborsten , zersprungen.%} {#(manas)#}.
+;
+; key = dar, L = 49037,  {#ud , uddIrRa#} -> {#ud#}, {#uddIrRa#}
+242553 old <div n="p">— Mit {#ud , uddIrRa#} <ls>BENF.Chr.185,2</ls> fehlerhaft für {#udIrRa#} ; <ab>vgl.</ab> <ls>DAŚAK.(1925).2,22,7.</ls>
+242553 new <div n="p">— Mit {#ud#}, {#uddIrRa#} <ls>BENF.Chr.185,2</ls> fehlerhaft für {#udIrRa#} ; <ab>vgl.</ab> <ls>DAŚAK.(1925).2,22,7.</ls>
+;
+; key = dar, L = 49038,  {#A , Adriyate#} -> {#A#}, {#Adriyate#}
+242593 old <div n="p">— Mit {#A , Adriyate#} und {#°te#} (metrisch)
+242593 new <div n="p">— Mit {#A#}, {#Adriyate#} und {#°te#} (metrisch)
+;
+; key = dar, L = 49038,  {#samA , °dfta#} -> {#samA#}, {#°dfta#}
+242603 old <div n="p">— Mit {#samA , °dfta#}
+242603 new <div n="p">— Mit {#samA#}, {#°dfta#}
+;
+; key = darp, L = 49082,  {#samud , samuddfpta#} -> {#samud#}, {#samuddfpta#}
+242858 old <div n="p">— Mit {#samud , samuddfpta#} {%Uebermüthig.%}
+242858 new <div n="p">— Mit {#samud#}, {#samuddfpta#} {%Uebermüthig.%}
+;
+; key = darS, L = 49141,  {#pratyA , °dfSyante#} -> {#pratyA#}, {#°dfSyante#}
+243198 old <div n="p">— Mit {#pratyA , °dfSyante#} <ls>Ind.St.8,343</ls> fehlerhaft für {#°diSyante#}.
+243198 new <div n="p">— Mit {#pratyA#}, {#°dfSyante#} <ls>Ind.St.8,343</ls> fehlerhaft für {#°diSyante#}.
+;
+; key = darS, L = 49141,  {#aByud , aByuddfzwa#} -> {#aByud#}, {#aByuddfzwa#}
+243201 old <div n="p">— Mit {#aByud , aByuddfzwa#} {%darüber sichtbar geworden.%}
+243201 new <div n="p">— Mit {#aByud#}, {#aByuddfzwa#} {%darüber sichtbar geworden.%}
+;
+; key = darh, L = 49183,  {#ud (u/ddfMha)#} -> {#ud#}{# (u/ddfMha)#}
+243539 old <div n="p">— Mit {#ud (u/ddfMha)#} {%fest aufrichten.%}
+243539 new <div n="p">— Mit {#ud#}{# (u/ddfMha)#} {%fest aufrichten.%}
+;
+; key = darh, L = 49183,  {#anUd (anU/ddfMheyus)#} -> {#anUd#}{# (anU/ddfMheyus)#}
+243540 old <div n="p">— Mit {#anUd (anU/ddfMheyus)#}. {%hinhalten — , hinziehen bis%} ( {#A#}).
+243540 new <div n="p">— Mit {#anUd#}{# (anU/ddfMheyus)#}. {%hinhalten — , hinziehen bis%} ( {#A#}).
+;
+; key = das, L = 49467,  {#sam , saMdadasva/Ms#} -> {#sam#}, {#saMdadasva/Ms#}
+244892 old <div n="p">— Mit {#sam , saMdadasva/Ms#} {%verlöschend.%}
+244892 new <div n="p">— Mit {#sam#}, {#saMdadasva/Ms#} {%verlöschend.%}
+;
+; key = dA, L = 49511,  {#*pariRi , °dadAti#} -> {#*pariRi#}, {#°dadAti#}
+245338 old <div n="p">— Mit {#*pariRi , °dadAti#}.
+245338 new <div n="p">— Mit {#*pariRi#}, {#°dadAti#}.
+;
+; key = dA, L = 49511,  {#*praRi , °dadAti#} -> {#*praRi#}, {#°dadAti#}
+245339 old <div n="p">— Mit {#*praRi , °dadAti#}.
+245339 new <div n="p">— Mit {#*praRi#}, {#°dadAti#}.
+;
+; key = dA, L = 49513,  {#*pariRI , °dyati#} -> {#*pariRI#}, {#°dyati#}
+245420 old <div n="p">— Mit {#*pariRI , °dyati#}.
+245420 new <div n="p">— Mit {#*pariRI#}, {#°dyati#}.
+;
+; key = dA, L = 49513,  {#*praRi , °dyati#} -> {#*praRi#}, {#°dyati#}
+245421 old <div n="p">— Mit {#*praRi , °dyati#}.
+245421 new <div n="p">— Mit {#*praRi#}, {#°dyati#}.
+;
+; key = dA, L = 49513,  {#pari , parItta#} -> {#pari#}, {#parItta#}
+245423 old <div n="p">— Mit {#pari , parItta#} {%beschnitten , so v.a. begrenzt%} (buddh.).
+245423 new <div n="p">— Mit {#pari#}, {#parItta#} {%beschnitten , so v.a. begrenzt%} (buddh.).
+;
+; key = dA, L = 49515,  {#pariRi , °dayate#} -> {#pariRi#}, {#°dayate#}
+245446 old <div n="p">— Mit {#pariRi , °dayate#}.
+245446 new <div n="p">— Mit {#pariRi#}, {#°dayate#}.
+;
+; key = dA, L = 49515,  {#praRi , °dayate#} -> {#praRi#}, {#°dayate#}
+245447 old <div n="p">— Mit {#praRi , °dayate#}.
+245447 new <div n="p">— Mit {#praRi#}, {#°dayate#}.
+;
+; key = dA, L = 49517,  {#ava , °dAta#} -> {#ava#}, {#°dAta#}
+245456 old <div n="p">— Mit {#ava , °dAta#}
+245456 new <div n="p">— Mit {#ava#}, {#°dAta#}
+;
+; key = dA, L = 49517,  {#paryava , °dAta#} -> {#paryava#}, {#°dAta#}
+245459 old <div n="p">— Mit {#paryava , °dAta#}
+245459 new <div n="p">— Mit {#paryava#}, {#°dAta#}
+;
+; key = dA, L = 49517,  {#vyava , °dAyate#} -> {#vyava#}, {#°dAyate#}
+245463 old <div n="p">— Mit {#vyava , °dAyate#} {%sich hell verbreiten.%} {#°dAta#} (<lex>f.</lex> {#I#}) {%glänzend weiss%} <ls>TAITT.ĀR.1,9,1.17,1.2.</ls>
+245463 new <div n="p">— Mit {#vyava#}, {#°dAyate#} {%sich hell verbreiten.%} {#°dAta#} (<lex>f.</lex> {#I#}) {%glänzend weiss%} <ls>TAITT.ĀR.1,9,1.17,1.2.</ls>
+;
+; key = diS, L = 50420,  {#nirA , °dizwa#} -> {#nirA#}, {#°dizwa#}
+249795 old <div n="p">— Mit {#nirA , °dizwa#} {%ausbezahlt.%}
+249795 new <div n="p">— Mit {#nirA#}, {#°dizwa#} {%ausbezahlt.%}
+;
+; key = dih, L = 50444,  {#anu , °digDa#} -> {#anu#}, {#°digDa#}
+250043 old <div n="p">— Mit {#anu , °digDa#} {%überzogen — , belegt mit%} (im Comp. vorangehend) <ls>CARAKA.6,18.</ls>
+250043 new <div n="p">— Mit {#anu#}, {#°digDa#} {%überzogen — , belegt mit%} (im Comp. vorangehend) <ls>CARAKA.6,18.</ls>
+;
+; key = dih, L = 50444,  {#A , AdigDa#} -> {#A#}, {#AdigDa#}
+250048 old <div n="p">— Mit {#A , AdigDa#} {%bestrichen — , besalbt — , beschmiert mit%} (im Comp. vorangehend).
+250048 new <div n="p">— Mit {#A#}, {#AdigDa#} {%bestrichen — , besalbt — , beschmiert mit%} (im Comp. vorangehend).
+;
+; key = dih, L = 50444,  {#upa , upadigDa#} -> {#upa#}, {#upadigDa#}
+250050 old <div n="p">— Mit {#upa , upadigDa#}
+250050 new <div n="p">— Mit {#upa#}, {#upadigDa#}
+;
+; key = dih, L = 50444,  {#ni , ni/digDa#} -> {#ni#}, {#ni/digDa#}
+250053 old <div n="p">— Mit {#ni , ni/digDa#} {%klebend an%} (<ab>Loc.</ab>)
+250053 new <div n="p">— Mit {#ni#}, {#ni/digDa#} {%klebend an%} (<ab>Loc.</ab>)
+;
+; key = dih, L = 50444,  {#*nis , nirdigDa#} -> {#*nis#}, {#nirdigDa#}
+250055 old <div n="p">— Mit {#*nis , nirdigDa#} {%fett%} (Gegensatz mager).
+250055 new <div n="p">— Mit {#*nis#}, {#nirdigDa#} {%fett%} (Gegensatz mager).
+;
+; key = dI, L = 50450,  {#upa , °dAya#} -> {#upa#}, {#°dAya#}
+250105 old <div n="p">— Mit {#upa , °dAya#}. {#pra , °dAya#}.
+250105 new <div n="p">— Mit {#upa#}, {#°dAya#}. {#pra , °dAya#}.
+;
+; key = dIkz, L = 50452,  {#sam , saMdIkzita#} -> {#sam#}, {#saMdIkzita#}
+250118 old <div n="p">— Mit {#sam , saMdIkzita#} {%zusammen — , mit Andern sich geweiht habend.%}
+250118 new <div n="p">— Mit {#sam#}, {#saMdIkzita#} {%zusammen — , mit Andern sich geweiht habend.%}
+;
+; key = dIDi, L = 50489,  {#ni , ni/dIDyat#} -> {#ni#}, {#ni/dIDyat#}
+250316 old <div n="p">— Mit {#ni , ni/dIDyat#} <ls>VS.6,20.</ls> (<ab>vgl.</ab> <ls>KĀŚ.</ls> zu <ls>P.6,1,119</ls>) = {#nihita#}(!) nach <ls>MAHĪDH.</ls> Statt dessen {#ni/deDyat#} <ls>TS.1,3,10,1</ls> ; <ab>vgl.</ab> auch <ls>MAITR.S.1,2,17.</ls>
+250316 new <div n="p">— Mit {#ni#}, {#ni/dIDyat#} <ls>VS.6,20.</ls> (<ab>vgl.</ab> <ls>KĀŚ.</ls> zu <ls>P.6,1,119</ls>) = {#nihita#}(!) nach <ls>MAHĪDH.</ls> Statt dessen {#ni/deDyat#} <ls>TS.1,3,10,1</ls> ; <ab>vgl.</ab> auch <ls>MAITR.S.1,2,17.</ls>
+;
+; key = dIp, L = 50512,  {#ati , °dIpta#} -> {#ati#}, {#°dIpta#}
+250443 old <div n="p">— Mit {#ati , °dIpta#} {%stark flammend , heftig brennend.%}
+250443 new <div n="p">— Mit {#ati#}, {#°dIpta#} {%stark flammend , heftig brennend.%}
+;
+; key = dIp, L = 50512,  {#A , AdIpta#} -> {#A#}, {#AdIpta#}
+250448 old <div n="p">— Mit {#A , AdIpta#} {%flammend , in Brand stehend , strahlend.%}
+250448 new <div n="p">— Mit {#A#}, {#AdIpta#} {%flammend , in Brand stehend , strahlend.%}
+;
+; key = dIp, L = 50512,  {#upA , upA/dIpta#} -> {#upA#}, {#upA/dIpta#}
+250450 old <div n="p">— Mit {#upA , upA/dIpta#} {%flammend , brennend.%}
+250450 new <div n="p">— Mit {#upA#}, {#upA/dIpta#} {%flammend , brennend.%}
+;
+; key = dIp, L = 50512,  {#sapra , °dIpta#} -> {#sapra#}, {#°dIpta#}
+250465 old <div n="p">— Mit {#sapra , °dIpta#} {%in Flammen stehend.%}
+250465 new <div n="p">— Mit {#sapra#}, {#°dIpta#} {%in Flammen stehend.%}
+;
+; key = dIp, L = 50512,  {#prati , °dIpta#} -> {#prati#}, {#°dIpta#}
+250467 old <div n="p">— Mit {#prati , °dIpta#} {%entgegenflammend.%}
+250467 new <div n="p">— Mit {#prati#}, {#°dIpta#} {%entgegenflammend.%}
+;
+; key = dIp, L = 50512,  {#sa/MdIpta#} -> {#sa#}{#/MdIpta#}
+250470 old <div n="p">— Mit {#sa/MdIpta#} {%flammen.%} {#sa/MdIpta#} {%flammend , in Flammen stehend , anfachen , anfeuern.%}
+250470 new <div n="p">— Mit {#sa#}{#/MdIpta#} {%flammen.%} {#sa#}{#/MdIpta#} {%flammend , in Flammen stehend , anfachen , anfeuern.%}
+;
+; key = durmanAy, L = 51308,  {#pari , °durmanAyita#} -> {#pari#}, {#°durmanAyita#}
+254323 old <div n="p">— Mit {#pari , °durmanAyita#} {%überaus betrübt.%}
+254323 new <div n="p">— Mit {#pari#}, {#°durmanAyita#} {%überaus betrübt.%}
+;
+; key = duz, L = 51552,  {#aBi , °duzwa#} -> {#aBi#}, {#°duzwa#}
+255478 old <div n="p">— Mit {#aBi , °duzwa#} {%verunreinigt.%}
+255478 new <div n="p">— Mit {#aBi#}, {#°duzwa#} {%verunreinigt.%}
+;
+; key = duz, L = 51552,  {#vipra , °duzwa#} -> {#vipra#}, {#°duzwa#}
+255490 old <div n="p">— Mit {#vipra , °duzwa#}
+255490 new <div n="p">— Mit {#vipra#}, {#°duzwa#}
+;
+; key = duh, L = 51746,  {#aByava , °dugDa#} -> {#aByava#}, {#°dugDa#}
+256389 old <div n="p">— Mit {#aByava , °dugDa#} {%worauf Milch gemolken ist%} <ls>KAUŚ.32.</ls>
+256389 new <div n="p">— Mit {#aByava#}, {#°dugDa#} {%worauf Milch gemolken ist%} <ls>KAUŚ.32.</ls>
+;
+; key = dUzay, L = 51892,  {#upa°dUzita#} -> {#upa#}{#°dUzita#}
+257086 old <div n="p">— Mit {#upa°dUzita#} {%mit einem Makel behaftet.%}
+257086 new <div n="p">— Mit {#upa#}{#°dUzita#} {%mit einem Makel behaftet.%}
+;
+; key = dUzay, L = 51892,  {#pratipra , °dUzita#} -> {#pratipra#}, {#°dUzita#}
+257092 old <div n="p">— Mit {#pratipra , °dUzita#} {%verunreinigt.%}
+257092 new <div n="p">— Mit {#pratipra#}, {#°dUzita#} {%verunreinigt.%}
+;
+; key = dyu, L = 53169,  {#pra , °dyOti#} -> {#pra#}, {#°dyOti#}
+263051 old <div n="p">— Mit {#pra , °dyOti#} als Umschreibung von {#iyaspate#} <ls>SĀY.</ls> zu <ls>ŚAT.BR.2,2,3,10.</ls>
+263051 new <div n="p">— Mit {#pra#}, {#°dyOti#} als Umschreibung von {#iyaspate#} <ls>SĀY.</ls> zu <ls>ŚAT.BR.2,2,3,10.</ls>
+;
+; key = drA, L = 53397,  {#vi , °drARa#} -> {#vi#}, {#°drARa#}
+264193 old <div n="p">— Mit {#vi , °drARa#} {%aus dem Schlafe erwachend%} (?).
+264193 new <div n="p">— Mit {#vi#}, {#°drARa#} {%aus dem Schlafe erwachend%} (?).
+;
+; key = dru, L = 53447,  {#A/pra/#} -> {#A#}{#/pra/#}
+264509 old <div n="p">— Mit {#A/pra/#} {%herbeilaufen.%}
+264509 new <div n="p">— Mit {#A#}{#/pra/#} {%herbeilaufen.%}
+;
+; key = dru, L = 53447,  {#aBivi , °druta#} -> {#aBivi#}, {#°druta#}
+264523 old <div n="p">— Mit {#aBivi , °druta#}
+264523 new <div n="p">— Mit {#aBivi#}, {#°druta#}
+;
+; key = dru, L = 53447,  {#pravi , °druta#} -> {#pravi#}, {#°druta#}
+264526 old <div n="p">— Mit {#pravi , °druta#} {%auseinander gelaufen , geflohen.%}
+264526 new <div n="p">— Mit {#pravi#}, {#°druta#} {%auseinander gelaufen , geflohen.%}
+;
+; key = dviz, L = 54133,  {#sam , saMdvizwa#} -> {#sam#}, {#saMdvizwa#}
+267723 old <div n="p">— Mit {#sam , saMdvizwa#} {%angefeindet , gehasst.%}
+267723 new <div n="p">— Mit {#sam#}, {#saMdvizwa#} {%angefeindet , gehasst.%}
+;
+; key = Dar, L = 54596,  {#pari , °Dfta#} -> {#pari#}, {#°Dfta#}
+270112 old <div n="p">— Mit {#pari , °Dfta#} {%im Mutterleibe getragen.%}
+270112 new <div n="p">— Mit {#pari#}, {#°Dfta#} {%im Mutterleibe getragen.%}
+;
+; key = DA, L = 55032,  {#ati , a/tihita#} -> {#ati#}, {#a/tihita#}
+272337 old <div n="p">— Mit {#ati , a/tihita#} {%beseitigt.%}
+272337 new <div n="p">— Mit {#ati#}, {#a/tihita#} {%beseitigt.%}
+;
+; key = DA, L = 55032,  {#aByava , °hita#} -> {#aByava#}, {#°hita#}
+272398 old <div n="p">— Mit {#aByava , °hita#} {%niedergeschlagen%} (Staub) ; nach dem <ab>Comm.</ab> {%aufgewirbelt.%}
+272398 new <div n="p">— Mit {#aByava#}, {#°hita#} {%niedergeschlagen%} (Staub) ; nach dem <ab>Comm.</ab> {%aufgewirbelt.%}
+;
+; key = DA, L = 55032,  {#upAva , upA/vahita#} -> {#upAva#}, {#upA/vahita#}
+272399 old <div n="p">— Mit {#upAva , upA/vahita#} {%daneben gesteckt , — gelegt.%}
+272399 new <div n="p">— Mit {#upAva#}, {#upA/vahita#} {%daneben gesteckt , — gelegt.%}
+;
+; key = DA, L = 55032,  {#udA , udA/hitatara#} -> {#udA#}, {#udA/hitatara#}
+272453 old <div n="p">— Mit {#udA , udA/hitatara#} {%ein wenig erhöht.%}
+272453 new <div n="p">— Mit {#udA#}, {#udA/hitatara#} {%ein wenig erhöht.%}
+;
+; key = DA, L = 55032,  {#prA , pra/#} -> {#prA#}, {#pra/#}
+272473 old <div n="p">— Mit {#prA , pra/#} — {#A/hitaH#} {%hingeführt zu%} (<ab>Loc.</ab>) <ls>ṚV.9,64,19.</ls>
+272473 new <div n="p">— Mit {#prA#}, {#pra/#} — {#A/hitaH#} {%hingeführt zu%} (<ab>Loc.</ab>) <ls>ṚV.9,64,19.</ls>
+;
+; key = DA, L = 55032,  {#anusamA , °hita#} -> {#anusamA#}, {#°hita#}
+272499 old <div n="p">— Mit {#anusamA , °hita#} {%vollkommen gesammelt , fest auf einen Punkt gerichtet.%}
+272499 new <div n="p">— Mit {#anusamA#}, {#°hita#} {%vollkommen gesammelt , fest auf einen Punkt gerichtet.%}
+;
+; key = DA, L = 55032,  {#aBisamA , °hita#} -> {#aBisamA#}, {#°hita#}
+272500 old <div n="p">— Mit {#aBisamA , °hita#} {%verbunden — , vereinigt mit%} (<ab>Instr.</ab>).
+272500 new <div n="p">— Mit {#aBisamA#}, {#°hita#} {%verbunden — , vereinigt mit%} (<ab>Instr.</ab>).
+;
+; key = DA, L = 55032,  {#vinis , vinirDAya#} -> {#vinis#}, {#vinirDAya#}
+272613 old <div n="p">— Mit {#vinis , vinirDAya#} <ls>Ind.St.9,32</ls> fehlerhaft für {#viniDArya#}.
+272613 new <div n="p">— Mit {#vinis#}, {#vinirDAya#} <ls>Ind.St.9,32</ls> fehlerhaft für {#viniDArya#}.
+;
+; key = DAv, L = 55352,  {#nis , nirDOta#} -> {#nis#}, {#nirDOta#}
+274460 old <div n="p">— Mit {#nis , nirDOta#} {%abgewaschen , weggewaschen , gereinigt.%}
+274460 new <div n="p">— Mit {#nis#}, {#nirDOta#} {%abgewaschen , weggewaschen , gereinigt.%}
+;
+; key = DI, L = 55413,  {#ni , ni/DIta#} -> {#ni#}, {#ni/DIta#}
+274774 old <div n="p">— Mit {#ni , ni/DIta#} <ls>VS.6,20</ls> dem Sinne nach so v.a. {#niDita#} = {#nihita#} von 1. {#DA#}.
+274774 new <div n="p">— Mit {#ni#}, {#ni/DIta#} <ls>VS.6,20</ls> dem Sinne nach so v.a. {#niDita#} = {#nihita#} von 1. {#DA#}.
+;
+; key = DU, L = 55514,  {#samA , °DUta#} -> {#samA#}, {#°DUta#}
+275340 old <div n="p">— Mit {#samA , °DUta#} {%auseinander gesprengt.%}
+275340 new <div n="p">— Mit {#samA#}, {#°DUta#} {%auseinander gesprengt.%}
+;
+; key = DU, L = 55514,  {#pravinis , pravinirDUta#} -> {#pravinis#}, {#pravinirDUta#}
+275368 old <div n="p">— Mit {#pravinis , pravinirDUta#} {%hingeschleudert.%}
+275368 new <div n="p">— Mit {#pravinis#}, {#pravinirDUta#} {%hingeschleudert.%}
+;
+; key = DUpay, L = 55539,  {#anu , a/nuDUpita#} -> {#anu#}, {#a/nuDUpita#}
+275515 old <div n="p">— Mit {#anu , a/nuDUpita#} {%aufgeblasen , hochmüthig.%}
+275515 new <div n="p">— Mit {#anu#}, {#a/nuDUpita#} {%aufgeblasen , hochmüthig.%}
+;
+; key = DUpay, L = 55539,  {#ava , °DUpita#} -> {#ava#}, {#°DUpita#}
+275516 old <div n="p">— Mit {#ava , °DUpita#} {%beräuchert.%}
+275516 new <div n="p">— Mit {#ava#}, {#°DUpita#} {%beräuchert.%}
+;
+; key = DUpay, L = 55539,  {#nis , nirDUpita#} -> {#nis#}, {#nirDUpita#}
+275525 old <div n="p">— Mit {#nis , nirDUpita#} {%beräuchert.%} <ls>LALIT.186,11.226,1.249,1.</ls>
+275525 new <div n="p">— Mit {#nis#}, {#nirDUpita#} {%beräuchert.%} <ls>LALIT.186,11.226,1.249,1.</ls>
+;
+; key = DUpay, L = 55539,  {#pra , praDUpita#} -> {#pra#}, {#praDUpita#}
+275526 old <div n="p">— Mit {#pra , praDUpita#}
+275526 new <div n="p">— Mit {#pra#}, {#praDUpita#}
+;
+; key = DUmay, L = 55577,  {#A , ADUmita#} -> {#A#}, {#ADUmita#}
+275720 old <div n="p">— Mit {#A , ADUmita#} {%umnebelt.%}
+275720 new <div n="p">— Mit {#A#}, {#ADUmita#} {%umnebelt.%}
+;
+; key = DUmay, L = 55577,  {#pra , praDUmita#} -> {#pra#}, {#praDUmita#}
+275721 old <div n="p">— Mit {#pra , praDUmita#}
+275721 new <div n="p">— Mit {#pra#}, {#praDUmita#}
+;
+; key = DUlay, L = 55682,  {#ava , °DUlita#} -> {#ava#}, {#°DUlita#}
+276224 old <div n="p">— Mit {#ava , °DUlita#} <ab>dass.</ab> <ls>ebend.4,39.</ls>
+276224 new <div n="p">— Mit {#ava#}, {#°DUlita#} <ab>dass.</ab> <ls>ebend.4,39.</ls>
+;
+; key = DyA, L = 55874,  {#prati , pratiDyAtaM mayA#} -> {#prati#}, {#pratiDyAtaM mayA#}
+277240 old <div n="p">— Mit {#prati , pratiDyAtaM mayA#} mit <ab>Infin.</ab> {%ich bin auf den Gedanken gekommen zu.%} {#praDyAtaM#} <ab>v.l.</ab>
+277240 new <div n="p">— Mit {#prati#}, {#pratiDyAtaM mayA#} mit <ab>Infin.</ab> {%ich bin auf den Gedanken gekommen zu.%} {#praDyAtaM#} <ab>v.l.</ab>
+;
+; key = DvaMs, L = 56004,  {#A , ADvasta#} -> {#A#}, {#ADvasta#}
+277893 old <div n="p">— Mit {#A , ADvasta#} {%überzogen , bedeckt.%}
+277893 new <div n="p">— Mit {#A#}, {#ADvasta#} {%überzogen , bedeckt.%}
+;
+; key = DvaMs, L = 56004,  {#samud , °samudDvasta#} -> {#samud#}, {#°samudDvasta#}
+277896 old <div n="p">— Mit {#samud , °samudDvasta#} {%überzogen mit.%}
+277896 new <div n="p">— Mit {#samud#}, {#°samudDvasta#} {%überzogen mit.%}
+;
+; key = DvaMs, L = 56004,  {#pari , °Dvasta#} -> {#pari#}, {#°Dvasta#}
+277904 old <div n="p">— Mit {#pari , °Dvasta#}
+277904 new <div n="p">— Mit {#pari#}, {#°Dvasta#}
+;
+; key = DvaMs, L = 56004,  {#prati , °Dvasta#} -> {#prati#}, {#°Dvasta#}
+277915 old <div n="p">— Mit {#prati , °Dvasta#} {%herunterhängend%} <ls>MBH.12,97,26.100,36.</ls>
+277915 new <div n="p">— Mit {#prati#}, {#°Dvasta#} {%herunterhängend%} <ls>MBH.12,97,26.100,36.</ls>
+;
+; key = DvaMs, L = 56004,  {#pravi , °Dvasta#} -> {#pravi#}, {#°Dvasta#}
+277925 old <div n="p">— Mit {#pravi , °Dvasta#}
+277925 new <div n="p">— Mit {#pravi#}, {#°Dvasta#}
+;
+; key = nad, L = 56444,  {#pari , *°Radati , yadidaM parinadya vE#} -> {#pari#}, {#*°Radati , yadidaM parinadya vE#}
+280039 old <div n="p">— Mit {#pari , *°Radati , yadidaM parinadya vE#} <ls>MBH.6,2356</ls> fehlerhaft für {#yadyeva matiradyvaH#}.
+280039 new <div n="p">— Mit {#pari#}, {#*°Radati , yadidaM parinadya vE#} <ls>MBH.6,2356</ls> fehlerhaft für {#yadyeva matiradyvaH#}.
+;
+; key = nad, L = 56444,  {#pra , °Radati#} -> {#pra#}, {#°Radati#}
+280040 old <div n="p">— Mit {#pra , °Radati#} {%ertönen , zu brüllen — , zu schreien beginnen.%} {#praRadita#} {%summend.%}
+280040 new <div n="p">— Mit {#pra#}, {#°Radati#} {%ertönen , zu brüllen — , zu schreien beginnen.%} {#praRadita#} {%summend.%}
+;
+; key = nam, L = 56698,  {#upAva , °nata#} -> {#upAva#}, {#°nata#}
+281499 old <div n="p">— Mit {#upAva , °nata#} {%eingebogen%} <ls>ĀPAST.ŚR.7,1,17.</ls>
+281499 new <div n="p">— Mit {#upAva#}, {#°nata#} {%eingebogen%} <ls>ĀPAST.ŚR.7,1,17.</ls>
+;
+; key = nam, L = 56698,  {#aByud , aByunnata#} -> {#aByud#}, {#aByunnata#}
+281510 old <div n="p">— Mit {#aByud , aByunnata#} {%emporgerichtet , in die Höhe gehend , gewölbt.%}
+281510 new <div n="p">— Mit {#aByud#}, {#aByunnata#} {%emporgerichtet , in die Höhe gehend , gewölbt.%}
+;
+; key = nam, L = 56698,  {#samaByud , samaByunnata#} -> {#samaByud#}, {#samaByunnata#}
+281511 old <div n="p">— Mit {#samaByud , samaByunnata#} {%aufgezogen%} (Wolken).
+281511 new <div n="p">— Mit {#samaByud#}, {#samaByunnata#} {%aufgezogen%} (Wolken).
+;
+; key = nam, L = 56698,  {#prod , pronnata#} -> {#prod#}, {#pronnata#}
+281512 old <div n="p">— Mit {#prod , pronnata#} {%stark hervorragend , sehr hoch ; überlegen%} , — {%an%} (im Comp. vorangehend).
+281512 new <div n="p">— Mit {#prod#}, {#pronnata#} {%stark hervorragend , sehr hoch ; überlegen%} , — {%an%} (im Comp. vorangehend).
+;
+; key = nam, L = 56698,  {#samupa , °nata#} -> {#samupa#}, {#°nata#}
+281531 old <div n="p">— Mit {#samupa , °nata#} {%sich eingestellt habend%} <ls>HARṢAC.117.5.</ls>
+281531 new <div n="p">— Mit {#samupa#}, {#°nata#} {%sich eingestellt habend%} <ls>HARṢAC.117.5.</ls>
+;
+; key = nam, L = 56698,  {#nis , nirRata (nirnata#} -> {#nis#}, {#nirRata (nirnata#}
+281535 old <div n="p">— Mit {#nis , nirRata (nirnata#} fehlerhaft)
+281535 new <div n="p">— Mit {#nis#}, {#nirRata (nirnata#} fehlerhaft)
+;
+; key = nam, L = 56698,  {#vipari , °Rata#} -> {#vipari#}, {#°Rata#}
+281552 old <div n="p">— Mit {#vipari , °Rata#} {%verändert%} <ab>Comm.</ab> zu <ls>ĀPAST.ŚR.1,18,5.</ls>
+281552 new <div n="p">— Mit {#vipari#}, {#°Rata#} {%verändert%} <ab>Comm.</ab> zu <ls>ĀPAST.ŚR.1,18,5.</ls>
+;
+; key = nart, L = 56961,  {#saMpra , °nftta#} -> {#saMpra#}, {#°nftta#}
+282815 old <div n="p">— Mit {#saMpra , °nftta#} {%der zu tanzen angefangen hat.%}
+282815 new <div n="p">— Mit {#saMpra#}, {#°nftta#} {%der zu tanzen angefangen hat.%}
+;
+; key = nard, L = 56975,  {#*pra , °nardati#} -> {#*pra#}, {#°nardati#}
+282903 old <div n="p">— Mit {#*pra , °nardati#}.
+282903 new <div n="p">— Mit {#*pra#}, {#°nardati#}.
+;
+; key = naS, L = 57246,  {#nis , nirnazwa#} -> {#nis#}, {#nirnazwa#}
+284172 old <div n="p">— Mit {#nis , nirnazwa#} {%verloren gegangen , verschwunden.%}
+284172 new <div n="p">— Mit {#nis#}, {#nirnazwa#} {%verloren gegangen , verschwunden.%}
+;
+; key = naS, L = 57246,  {#*pari , RaSyati , °nazwa#} -> {#*pari#}, {#RaSyati , °nazwa#}
+284174 old <div n="p">— Mit {#*pari , RaSyati , °nazwa#}
+284174 new <div n="p">— Mit {#*pari#}, {#RaSyati , °nazwa#}
+;
+; key = naS, L = 57246,  {#sam , saMnazwa#} -> {#sam#}, {#saMnazwa#}
+284205 old <div n="p">— Mit {#sam , saMnazwa#} {%zu Grunde gegangen.%}
+284205 new <div n="p">— Mit {#sam#}, {#saMnazwa#} {%zu Grunde gegangen.%}
+;
+; key = nah, L = 57318,  {#anu , a/nunadDa#} -> {#anu#}, {#a/nunadDa#}
+284524 old <div n="p">— Mit {#anu , a/nunadDa#} {%befestigt mit%} (<ab>Instr.</ab>) <ls>MAITR.S.4,5,7.</ls>
+284524 new <div n="p">— Mit {#anu#}, {#a/nunadDa#} {%befestigt mit%} (<ab>Instr.</ab>) <ls>MAITR.S.4,5,7.</ls>
+;
+; key = nah, L = 57318,  {#aBi , °nadDa#} -> {#aBi#}, {#°nadDa#}
+284534 old <div n="p">— Mit {#aBi , °nadDa#} {%verbunden , zugebunden%} (Auge).
+284534 new <div n="p">— Mit {#aBi#}, {#°nadDa#} {%verbunden , zugebunden%} (Auge).
+;
+; key = nah, L = 57318,  {#vyA , °naDa#} -> {#vyA#}, {#°naDa#}
+284547 old <div n="p">— Mit {#vyA , °naDa#} {%eingelegt , eingefügt%} <ls>HARIV.2,63,96.</ls>
+284547 new <div n="p">— Mit {#vyA#}, {#°naDa#} {%eingelegt , eingefügt%} <ls>HARIV.2,63,96.</ls>
+;
+; key = nah, L = 57318,  {#samud , samunnadDa#} -> {#samud#}, {#samunnadDa#}
+284558 old <div n="p">— Mit {#samud , samunnadDa#}
+284558 new <div n="p">— Mit {#samud#}, {#samunnadDa#}
+;
+; key = nah, L = 57318,  {#ni , ni/nadDa#} -> {#ni#}, {#ni/nadDa#}
+284566 old <div n="p">— Mit {#ni , ni/nadDa#} {%festgebunden an%} (<ab>Loc.</ab>).
+284566 new <div n="p">— Mit {#ni#}, {#ni/nadDa#} {%festgebunden an%} (<ab>Loc.</ab>).
+;
+; key = nah, L = 57318,  {#vi , vi/nadDa#} -> {#vi#}, {#vi/nadDa#}
+284573 old <div n="p">— Mit {#vi , vi/nadDa#} {%losgebunden.%}
+284573 new <div n="p">— Mit {#vi#}, {#vi/nadDa#} {%losgebunden.%}
+;
+; key = nah, L = 57318,  {#upasam , upasa/MnadDa#} -> {#upasam#}, {#upasa/MnadDa#}
+284592 old <div n="p">— Mit {#upasam , upasa/MnadDa#} {%beigebunden , angebunden.%}
+284592 new <div n="p">— Mit {#upasam#}, {#upasa/MnadDa#} {%beigebunden , angebunden.%}
+;
+; key = nI, L = 60495,  {#a/vA#} -> {#a#}{#/vA#}
+300139 old <div n="p">— Mit {#a/vA#}
+300139 new <div n="p">— Mit {#a#}{#/vA#}
+;
+; key = nI, L = 60495,  {#vipari , °RIta#} -> {#vipari#}, {#°RIta#}
+300257 old <div n="p">— Mit {#vipari , °RIta#} {%dessen Platz mit dem eines Andern vertauscht ist.%}
+300257 new <div n="p">— Mit {#vipari#}, {#°RIta#} {%dessen Platz mit dem eines Andern vertauscht ist.%}
+;
+; key = nI, L = 60495,  {#aBivi , °nIta#} -> {#aBivi#}, {#°nIta#}
+300306 old <div n="p">— Mit {#aBivi , °nIta#} {%unterwiesen , unterrichtet — , bewandert in%} (<ab>Loc.</ab>) <ls>GAUT.</ls>
+300306 new <div n="p">— Mit {#aBivi#}, {#°nIta#} {%unterwiesen , unterrichtet — , bewandert in%} (<ab>Loc.</ab>) <ls>GAUT.</ls>
+;
+; key = nu, L = 60826,  {#anu , °nUta#} -> {#anu#}, {#°nUta#}
+301982 old <div n="p">— Mit {#anu , °nUta#} fraglich , da der Commentar anders trennt ( {#nu uta#}).
+301982 new <div n="p">— Mit {#anu#}, {#°nUta#} fraglich , da der Commentar anders trennt ( {#nu uta#}).
+;
+; key = nud, L = 60834,  {#ati , a/tinutta#} -> {#ati#}, {#a/tinutta#}
+302024 old <div n="p">— Mit {#ati , a/tinutta#} {%vorübergetrieben.%}
+302024 new <div n="p">— Mit {#ati#}, {#a/tinutta#} {%vorübergetrieben.%}
+;
+; key = nud, L = 60834,  {#aBi , °nunna#} -> {#aBi#}, {#°nunna#}
+302033 old <div n="p">— Mit {#aBi , °nunna#} {%gestossen , gedrängt.%}
+302033 new <div n="p">— Mit {#aBi#}, {#°nunna#} {%gestossen , gedrängt.%}
+;
+; key = nud, L = 60834,  {#upa , °nunna#} -> {#upa#}, {#°nunna#}
+302040 old <div n="p">— Mit {#upa , °nunna#} {%herangetrieben.%}
+302040 new <div n="p">— Mit {#upa#}, {#°nunna#} {%herangetrieben.%}
+;
+; key = pat, L = 62448,  {#pra/ = a/nu#} -> {#pra#}{#/ = a/nu#}
+309884 old <div n="p">— Mit {#pra/ = a/nu#} {%hinfliegen%} <ls>ṚV.6,63,6.</ls>
+309884 new <div n="p">— Mit {#pra#}{#/ = a/nu#} {%hinfliegen%} <ls>ṚV.6,63,6.</ls>
+;
+; key = pat, L = 62448,  {#vi/-a/nu#} -> {#vi#}{#/-a/nu#}
+309885 old <div n="p">— Mit {#vi/-a/nu#} {%davonfliegen nach%} (<ab>Acc.</ab>) <ls>AV.7,43,1.</ls>
+309885 new <div n="p">— Mit {#vi#}{#/-a/nu#} {%davonfliegen nach%} (<ab>Acc.</ab>) <ls>AV.7,43,1.</ls>
+;
+; key = pat, L = 62448,  {#A/ - u/pa#} -> {#A#}{#/ - u/pa#}
+309945 old <div n="p">— Mit {#A/ - u/pa#} {%hinzufliegen zu%} (<ab>Acc.</ab>) <ls>ṚV.5,78,1.</ls>
+309945 new <div n="p">— Mit {#A#}{#/ - u/pa#} {%hinzufliegen zu%} (<ab>Acc.</ab>) <ls>ṚV.5,78,1.</ls>
+;
+; key = pad, L = 62713,  {#paryava , °panna#} -> {#paryava#}, {#°panna#}
+311447 old <div n="p">— Mit {#paryava , °panna#} {%zusammengestürzt , zu Nichte geworden.%}
+311447 new <div n="p">— Mit {#paryava#}, {#°panna#} {%zusammengestürzt , zu Nichte geworden.%}
+;
+; key = pad, L = 62713,  {#prod , protpanna#} -> {#prod#}, {#protpanna#}
+311497 old <div n="p">— Mit {#prod , protpanna#} {%entstanden.%}
+311497 new <div n="p">— Mit {#prod#}, {#protpanna#} {%entstanden.%}
+;
+; key = pad, L = 62713,  {#pratyud , pratyutpanna#} -> {#pratyud#}, {#pratyutpanna#}
+311499 old <div n="p">— Mit {#pratyud , pratyutpanna#}
+311499 new <div n="p">— Mit {#pratyud#}, {#pratyutpanna#}
+;
+; key = pad, L = 62713,  {#adDyupa , °panna#} -> {#adDyupa#}, {#°panna#}
+311536 old <div n="p">— Mit {#adDyupa , °panna#} {%sinnlich%} (von Menschen) <ls>ŚĪLĀṄKA.1,304.</ls>
+311536 new <div n="p">— Mit {#adDyupa#}, {#°panna#} {%sinnlich%} (von Menschen) <ls>ŚĪLĀṄKA.1,304.</ls>
+;
+; key = pad, L = 62713,  {#pratyupa , °panna = pratyutpanna#} -> {#pratyupa#}, {#°panna = pratyutpanna#}
+311541 old <div n="p">— Mit {#pratyupa , °panna = pratyutpanna#} {%im Augenblick da seiend , gegenwärtig.%}
+311541 new <div n="p">— Mit {#pratyupa#}, {#°panna = pratyutpanna#} {%im Augenblick da seiend , gegenwärtig.%}
+;
+; key = par, L = 63141,  {#ava , °avapUrRa#} -> {#ava#}, {#°avapUrRa#}
+313982 old <div n="p">— Mit {#ava , °avapUrRa#} {%voll von , angefüllt mit.%} — {#evAvapUryate#} <ls>BṚH.ĀR.UP.1,5,14.</ls> Druckfehler für {#evA (eva-A) ca pU#}
+313982 new <div n="p">— Mit {#ava#}, {#°avapUrRa#} {%voll von , angefüllt mit.%} — {#evAvapUryate#} <ls>BṚH.ĀR.UP.1,5,14.</ls> Druckfehler für {#evA (eva-A) ca pU#}
+;
+; key = par, L = 63141,  {#samA , °pUryate#} -> {#samA#}, {#°pUryate#}
+314002 old <div n="p">— Mit {#samA , °pUryate#} {%sich füllen mit , voll werden von%} (instr.) {#samApUrRa#} {%vollganz%} (Jahr).
+314002 new <div n="p">— Mit {#samA#}, {#°pUryate#} {%sich füllen mit , voll werden von%} (instr.) {#samApUrRa#} {%vollganz%} (Jahr).
+;
+; key = par, L = 63141,  {#nis , nizpUrta#} -> {#nis#}, {#nizpUrta#}
+314010 old <div n="p">— Mit {#nis , nizpUrta#} {%ausgegossen%} <ls>MBH.7,59,16.</ls>
+314010 new <div n="p">— Mit {#nis#}, {#nizpUrta#} {%ausgegossen%} <ls>MBH.7,59,16.</ls>
+;
+; key = par, L = 63141,  {#saMpari , °pUrRa#} -> {#saMpari#}, {#°pUrRa#}
+314027 old <div n="p">— Mit {#saMpari , °pUrRa#}
+314027 new <div n="p">— Mit {#saMpari#}, {#°pUrRa#}
+;
+; key = par, L = 63141,  {#aBipra (°pUryate)#} -> {#aBipra#}{# (°pUryate)#}
+314041 old <div n="p">— Mit {#aBipra (°pUryate)#} {%sich füllen.%}
+314041 new <div n="p">— Mit {#aBipra#}{# (°pUryate)#} {%sich füllen.%}
+;
+; key = par, L = 63142,  {#pra/ a/ti#} -> {#pra#}{#/ a/ti#}
+314090 old <div n="p">— Mit {#pra/ a/ti#} {%hinüberschaffen über%} <ls>ṚV.1,174,9.</ls> = <ls>6,20.12.</ls>
+314090 new <div n="p">— Mit {#pra#}{#/ a/ti#} {%hinüberschaffen über%} <ls>ṚV.1,174,9.</ls> = <ls>6,20.12.</ls>
+;
+; key = par, L = 63143,  {#A , ApfRoti#} -> {#A#}, {#ApfRoti#}
+314105 old <div n="p">— Mit {#A , ApfRoti#} {%sich beschäftigen mit , nachgehen%} ; mit <ab>Dat.</ab> {#Apfta#} {%beschäftigt.%} -Mit. {#vyA , °priyate#} und {#°pfRute#} {%beschäftigt sein mit%} ( {#°arTam#} ). {#vyApfta#} {%beschäftigt mit%} oder {%bei%} (<ab>Loc.</ab> , {#°arTam , hetos#} oder im Comp. vorangehend) <ls>296,13.</ls>
+314105 new <div n="p">— Mit {#A#}, {#ApfRoti#} {%sich beschäftigen mit , nachgehen%} ; mit <ab>Dat.</ab> {#Apfta#} {%beschäftigt.%} -Mit. {#vyA , °priyate#} und {#°pfRute#} {%beschäftigt sein mit%} ( {#°arTam#} ). {#vyApfta#} {%beschäftigt mit%} oder {%bei%} (<ab>Loc.</ab> , {#°arTam , hetos#} oder im Comp. vorangehend) <ls>296,13.</ls>
+;
+; key = parc, L = 64624,  {#nis , nizpfkta#} -> {#nis#}, {#nizpfkta#}
+321322 old <div n="p">— Mit {#nis , nizpfkta#} {%der sich von Etwas befreit hat , an Etwas nicht hängt%} <ls>MBH.3,181,14.</ls>
+321322 new <div n="p">— Mit {#nis#}, {#nizpfkta#} {%der sich von Etwas befreit hat , an Etwas nicht hängt%} <ls>MBH.3,181,14.</ls>
+;
+; key = paS, L = 65135,  {#aBipra (pra/-aBi/#} -> {#aBipra#}{# (pra/-aBi/#}
+323930 old <div n="p">— Mit {#aBipra (pra/-aBi/#}). {%hinausschauen auf , sich umsehen nach.%}
+323930 new <div n="p">— Mit {#aBipra#}{# (pra/-aBi/#}). {%hinausschauen auf , sich umsehen nach.%}
+;
+; key = pA, L = 65309,  {#ud , utpibante#} -> {#ud#}, {#utpibante#}
+324804 old <div n="p">— Mit {#ud , utpibante#} <ls>ŚAT.BR.5,2,4,7.11.</ls> fehlerhaft für {#utpipateH#} <ab>vgl.</ab> 5 , {#pA#}.
+324804 new <div n="p">— Mit {#ud#}, {#utpibante#} <ls>ŚAT.BR.5,2,4,7.11.</ls> fehlerhaft für {#utpipateH#} <ab>vgl.</ab> 5 , {#pA#}.
+;
+; key = pASay, L = 66642,  {#ava , °pASita#} -> {#ava#}, {#°pASita#}
+331427 old <div n="p">— Mit {#ava , °pASita#} {%umwunden , umschlungen%} <ls>R.7,6,59.</ls>
+331427 new <div n="p">— Mit {#ava#}, {#°pASita#} {%umwunden , umschlungen%} <ls>R.7,6,59.</ls>
+;
+; key = piRqay, L = 66862,  {#ava , °piRqita#} -> {#ava#}, {#°piRqita#}
+332653 old <div n="p">— Mit {#ava , °piRqita#} {%als Kügelchen niedergefallen.%}
+332653 new <div n="p">— Mit {#ava#}, {#°piRqita#} {%als Kügelchen niedergefallen.%}
+;
+; key = piRqay, L = 66862,  {#ud , utpiRqita#} -> {#ud#}, {#utpiRqita#}
+332654 old <div n="p">— Mit {#ud , utpiRqita#} {%geschwollen%} <ls>CARAKA.2,7.(</ls> {#utpiRqana#} gedr.).
+332654 new <div n="p">— Mit {#ud#}, {#utpiRqita#} {%geschwollen%} <ls>CARAKA.2,7.(</ls> {#utpiRqana#} gedr.).
+;
+; key = piRqay, L = 66862,  {#pari , °piRqita#} -> {#pari#}, {#°piRqita#}
+332655 old <div n="p">— Mit {#pari , °piRqita#} {%zusammengeballt%} <ls>MAHĀVĪRAC.79,8.Bhāvapr.2,152.</ls>
+332655 new <div n="p">— Mit {#pari#}, {#°piRqita#} {%zusammengeballt%} <ls>MAHĀVĪRAC.79,8.Bhāvapr.2,152.</ls>
+;
+; key = piS, L = 67164,  {#vi , °piMSati = vipuzyati ; °piSita = vikasita#} -> {#vi#}, {#°piMSati = vipuzyati ; °piSita = vikasita#}
+334088 old <div n="p">— Mit {#vi , °piMSati = vipuzyati ; °piSita = vikasita#} oder {#vinihita#} {%als Schmuck angebracht.%}
+334088 new <div n="p">— Mit {#vi#}, {#°piMSati = vipuzyati ; °piSita = vikasita#} oder {#vinihita#} {%als Schmuck angebracht.%}
+;
+; key = piz, L = 67218,  {#ud , utpizwa#} -> {#ud#}, {#utpizwa#}
+334359 old <div n="p">— Mit {#ud , utpizwa#}
+334359 new <div n="p">— Mit {#ud#}, {#utpizwa#}
+;
+; key = piz, L = 67218,  {#samud , samutpizwa#} -> {#samud#}, {#samutpizwa#}
+334362 old <div n="p">— Mit {#samud , samutpizwa#} {%herausgequetscht.%}
+334362 new <div n="p">— Mit {#samud#}, {#samutpizwa#} {%herausgequetscht.%}
+;
+; key = pI, L = 67262,  {#ud , utpIna#} -> {#ud#}, {#utpIna#}
+334590 old <div n="p">— Mit {#ud , utpIna#} {%angeschwollen.%}
+334590 new <div n="p">— Mit {#ud#}, {#utpIna#} {%angeschwollen.%}
+;
+; key = puYjay, L = 67546,  {#ava °puYjita#} -> {#ava#}{# °puYjita#}
+336064 old <div n="p">— Mit {#ava °puYjita#} {%auf einen Haufen gebracht , zusammengekehrt.%}
+336064 new <div n="p">— Mit {#ava#}{# °puYjita#} {%auf einen Haufen gebracht , zusammengekehrt.%}
+;
+; key = puw, L = 67556,  {#pari , °puwyate#} -> {#pari#}, {#°puwyate#}
+336111 old <div n="p">— Mit {#pari , °puwyate#} {%sich schälen.%}
+336111 new <div n="p">— Mit {#pari#}, {#°puwyate#} {%sich schälen.%}
+;
+; key = puw, L = 67556,  {#sam saMpuwita#} -> {#sam#}{# saMpuwita#}
+336112 old <div n="p">— Mit {#sam saMpuwita#} (Könnte auch aus {#saMpuwa#} entstanden sein) {%zusammengefügt%} <ab>Comm.</ab> zu <ls>BHĀG.P.ed.Bomb.6,8,6.</ls>
+336112 new <div n="p">— Mit {#sam#}{# saMpuwita#} (Könnte auch aus {#saMpuwa#} entstanden sein) {%zusammengefügt%} <ab>Comm.</ab> zu <ls>BHĀG.P.ed.Bomb.6,8,6.</ls>
+;
+; key = puz, L = 68482,  {#pari , °puzwa#} -> {#pari#}, {#°puzwa#}
+340522 old <div n="p">— Mit {#pari , °puzwa#}
+340522 new <div n="p">— Mit {#pari#}, {#°puzwa#}
+;
+; key = puz, L = 68482,  {#vi , °puzwa#} -> {#vi#}, {#°puzwa#}
+340527 old <div n="p">— Mit {#vi , °puzwa#} {%schlecht genährt , ausgehungert%} <ls>Spr.53,18.</ls>
+340527 new <div n="p">— Mit {#vi#}, {#°puzwa#} {%schlecht genährt , ausgehungert%} <ls>Spr.53,18.</ls>
+;
+; key = pU, L = 68750,  {#ni ni/pUta#} -> {#ni#}{# ni/pUta#}
+341923 old <div n="p">— Mit {#ni ni/pUta#} {%durchgeseiht , geläutert auf.%}
+341923 new <div n="p">— Mit {#ni#}{# ni/pUta#} {%durchgeseiht , geläutert auf.%}
+;
+; key = praC, L = 70585,  {#samA (°pfcCya#} -> {#samA#}{# (°pfcCya#}
+350829 old <div n="p">— Mit {#samA (°pfcCya#}) <ab>dass.</ab>
+350829 new <div n="p">— Mit {#samA#}{# (°pfcCya#}) <ab>dass.</ab>
+;
+; key = praT, L = 72194,  {#sam , saMpraTita#} -> {#sam#}, {#saMpraTita#}
+358566 old <div n="p">— Mit {#sam , saMpraTita#} {%allgemein bekannt , — berühmt.%}
+358566 new <div n="p">— Mit {#sam#}, {#saMpraTita#} {%allgemein bekannt , — berühmt.%}
+;
+; key = prI, L = 74820,  {#pari , pa/riprIta#} -> {#pari#}, {#pa/riprIta#}
+371536 old <div n="p">— Mit {#pari , pa/riprIta#}
+371536 new <div n="p">— Mit {#pari#}, {#pa/riprIta#}
+;
+; key = prI, L = 74820,  {#sam , saMprIyate#} -> {#sam#}, {#saMprIyate#}
+371540 old <div n="p">— Mit {#sam , saMprIyate#} {%befriedigt — , vergnügt — , froh sein , seine Freude haben an%} (<ab>Loc.</ab> oder <ab>Abl.</ab>). {#saMprIta#} {%befriedigen , vergnügt , froh.%}
+371540 new <div n="p">— Mit {#sam#}, {#saMprIyate#} {%befriedigt — , vergnügt — , froh sein , seine Freude haben an%} (<ab>Loc.</ab> oder <ab>Abl.</ab>). {#saMprIta#} {%befriedigen , vergnügt , froh.%}
+;
+; key = plu, L = 75194,  {#samate , rajasA samatiplutA#} -> {#samate#}, {#rajasA samatiplutA#}
+373407 old <div n="p">— Mit {#samate , rajasA samatiplutA#} {%menstruirend%} <ls>AV.JYOT.12,9.</ls>
+373407 new <div n="p">— Mit {#samate#}, {#rajasA samatiplutA#} {%menstruirend%} <ls>AV.JYOT.12,9.</ls>
+;
+; key = plu, L = 75194,  {#pari , °pluta#} -> {#pari#}, {#°pluta#}
+373446 old <div n="p">— Mit {#pari , °pluta#} {%umringt.%}
+373446 new <div n="p">— Mit {#pari#}, {#°pluta#} {%umringt.%}
+;
+; key = plu, L = 75194,  {#aBipari , °pluta#} -> {#aBipari#}, {#°pluta#}
+373486 old <div n="p">— Mit {#aBipari , °pluta#} {%übergossen , heimgesucht , erfüllt%} ; das Womit oder Wovon im <ab>Instr.</ab> (<ls>CARAKA.5,6</ls>) oder im Comp. vorangehend. {#rajasABipariplutA#} so v.a. {%die Regeln habend.%}
+373486 new <div n="p">— Mit {#aBipari#}, {#°pluta#} {%übergossen , heimgesucht , erfüllt%} ; das Womit oder Wovon im <ab>Instr.</ab> (<ls>CARAKA.5,6</ls>) oder im Comp. vorangehend. {#rajasABipariplutA#} so v.a. {%die Regeln habend.%}
+;
+; key = pluz, L = 75201,  {#nis , nizpluzwa#} -> {#nis#}, {#nizpluzwa#}
+373566 old <div n="p">— Mit {#nis , nizpluzwa#} {%verbrannt.%}
+373566 new <div n="p">— Mit {#nis#}, {#nizpluzwa#} {%verbrannt.%}
+;
+; key = pluz, L = 75201,  {#vi , vipluzwa#} -> {#vi#}, {#vipluzwa#}
+373567 old <div n="p">— Mit {#vi , vipluzwa#} {%versengt , verbrannt%} <ls>VP.4,2,12.</ls>
+373567 new <div n="p">— Mit {#vi#}, {#vipluzwa#} {%versengt , verbrannt%} <ls>VP.4,2,12.</ls>
+;
+; key = baMh, L = 75595,  {#ava , baMhayate#} -> {#ava#}, {#baMhayate#}
+375500 old <div n="p">— Mit {#ava , baMhayate#} {%erutus , aufgedeckt%} <ls>ĀPAST.ŚR.2,2,2.</ls>
+375500 new <div n="p">— Mit {#ava#}, {#baMhayate#} {%erutus , aufgedeckt%} <ls>ĀPAST.ŚR.2,2,2.</ls>
+;
+; key = banD, L = 75768,  {#saMni , °badDa#} -> {#saMni#}, {#°badDa#}
+376357 old <div n="p">— Mit {#saMni , °badDa#}
+376357 new <div n="p">— Mit {#saMni#}, {#°badDa#}
+;
+; key = buD, L = 77335,  {#aBivi (°buDyate#} -> {#aBivi#}{# (°buDyate#}
+384193 old <div n="p">— Mit {#aBivi (°buDyate#}) {%gewahren , inne werden , erfahren.%}
+384193 new <div n="p">— Mit {#aBivi#}{# (°buDyate#}) {%gewahren , inne werden , erfahren.%}
+;
+; key = Bakz, L = 78380,  {#upa , °Bakzita#} -> {#upa#}, {#°Bakzita#}
+389190 old <div n="p">— Mit {#upa , °Bakzita#} {%verzehrt.%}
+389190 new <div n="p">— Mit {#upa#}, {#°Bakzita#} {%verzehrt.%}
+;
+; key = BaYj, L = 78555,  {#pari , °Bagna#} -> {#pari#}, {#°Bagna#}
+390139 old <div n="p">— Mit {#pari , °Bagna#}
+390139 new <div n="p">— Mit {#pari#}, {#°Bagna#}
+;
+; key = BaYj, L = 78555,  {#saMpra , °Bagna#} -> {#saMpra#}, {#°Bagna#}
+390146 old <div n="p">— Mit {#saMpra , °Bagna#} {%zersprengt , geschlagen%} (ein Heer.)
+390146 new <div n="p">— Mit {#saMpra#}, {#°Bagna#} {%zersprengt , geschlagen%} (ein Heer.)
+;
+; key = Barts, L = 78974,  {#ud , udaBatrsaTa#} -> {#ud#}, {#udaBatrsaTa#}
+392313 old <div n="p">— Mit {#ud , udaBatrsaTa#} <ls>AV.20,134,1.</ls> (Handschrr.) und {#udaBartsata#} <ls>ŚĀṄKH.ŚR.12,23,1.</ls>
+392313 new <div n="p">— Mit {#ud#}, {#udaBatrsaTa#} <ls>AV.20,134,1.</ls> (Handschrr.) und {#udaBartsata#} <ls>ŚĀṄKH.ŚR.12,23,1.</ls>
+;
+; key = Barts, L = 78974,  {#ni , °Bartsyant#} -> {#ni#}, {#°Bartsyant#}
+392314 old <div n="p">— Mit {#ni , °Bartsyant#} <ls>PAÑCAT.220,2</ls> fehlerhaft für {#nirBa°#} ; <ab>vgl.</ab> <ls>ed.Bomb.4,18,4.</ls>
+392314 new <div n="p">— Mit {#ni#}, {#°Bartsyant#} <ls>PAÑCAT.220,2</ls> fehlerhaft für {#nirBa°#} ; <ab>vgl.</ab> <ls>ed.Bomb.4,18,4.</ls>
+;
+; key = BA, L = 79236,  {#A vi#} -> {#A#}{# vi#}
+393636 old <div n="p">— Mit {#A vi#} {%erglänzen%} <ls>ṚV.2,8,4.</ls> — {#agnirivAviBAti#} <ls>HARIV.13100</ls> fehlerhaft für {#agnirivAvaBAti#}.
+393636 new <div n="p">— Mit {#A#}{# vi#} {%erglänzen%} <ls>ṚV.2,8,4.</ls> — {#agnirivAviBAti#} <ls>HARIV.13100</ls> fehlerhaft für {#agnirivAvaBAti#}.
+;
+; key = BU, L = 80202,  {#pra-ati#} -> {#pra#}{#-ati#}
+398794 old <div n="p">— Mit {#pra-ati#} {%in hohem Grade hervorragen über , — übertreffen%} ; mit <ab>Acc.</ab> <ls>MAITR.S.1,5,4</ls>
+398794 new <div n="p">— Mit {#pra#}{#-ati#} {%in hohem Grade hervorragen über , — übertreffen%} ; mit <ab>Acc.</ab> <ls>MAITR.S.1,5,4</ls>
+;
+; key = Bram, L = 81180,  {#upasam , upasaMBrAnta#} -> {#upasam#}, {#upasaMBrAnta#}
+404004 old <div n="p">— Mit {#upasam , upasaMBrAnta#}
+404004 new <div n="p">— Mit {#upasam#}, {#upasaMBrAnta#}
+;
+; key = majj, L = 81590,  {#vini , °magna#} -> {#vini#}, {#°magna#}
+406052 old <div n="p">— Mit {#vini , °magna#} {%untergetaucht , gebadet in%} (<ab>Loc.</ab>) Mit {#saMni#} {%untersinken , versinken.%}
+406052 new <div n="p">— Mit {#vini#}, {#°magna#} {%untergetaucht , gebadet in%} (<ab>Loc.</ab>) Mit {#saMni#} {%untersinken , versinken.%}
+;
+; key = maRq, L = 81845,  {#pari , °maRqita#} -> {#pari#}, {#°maRqita#}
+407304 old <div n="p">— Mit {#pari , °maRqita#} {%rings herum geschmückt.%}
+407304 new <div n="p">— Mit {#pari#}, {#°maRqita#} {%rings herum geschmückt.%}
+;
+; key = maT, L = 82071,  {#aDi , agnim#} -> {#aDi#}, {#agnim#}
+408481 old <div n="p">— Mit {#aDi , agnim#} {%Feuer durch Reibung erzeugen.%}
+408481 new <div n="p">— Mit {#aDi#}, {#agnim#} {%Feuer durch Reibung erzeugen.%}
+;
+; key = mad, L = 82097,  {#vipra , °matta#} -> {#vipra#}, {#°matta#}
+408720 old <div n="p">— Mit {#vipra , °matta#} wohl {%nicht versäumt.%}
+408720 new <div n="p">— Mit {#vipra#}, {#°matta#} wohl {%nicht versäumt.%}
+;
+; key = mad, L = 82097,  {#saMpra , °matta#} -> {#saMpra#}, {#°matta#}
+408721 old <div n="p">— Mit {#saMpra , °matta#}
+408721 new <div n="p">— Mit {#saMpra#}, {#°matta#}
+;
+; key = man, L = 82767,  {#pratyA , °manati#} -> {#pratyA#}, {#°manati#}
+412127 old <div n="p">— Mit {#pratyA , °manati#} <ab>s.u.</ab> {#mnA#}.
+412127 new <div n="p">— Mit {#pratyA#}, {#°manati#} <ab>s.u.</ab> {#mnA#}.
+;
+; key = man, L = 82767,  {#samA , °manati#} -> {#samA#}, {#°manati#}
+412128 old <div n="p">— Mit {#samA , °manati#} <ab>s.u.</ab> {#nmA#}.
+412128 new <div n="p">— Mit {#samA#}, {#°manati#} <ab>s.u.</ab> {#nmA#}.
+;
+; key = man, L = 82767,  {#anusam , anusaMmata#} -> {#anusam#}, {#anusaMmata#}
+412161 old <div n="p">— Mit {#anusam , anusaMmata#} {%gebilligt — , gutgeheissen von%} (<ab>Instr.</ab>).
+412161 new <div n="p">— Mit {#anusam#}, {#anusaMmata#} {%gebilligt — , gutgeheissen von%} (<ab>Instr.</ab>).
+;
+; key = man, L = 82767,  {#aBisam , aBisaMnata#} -> {#aBisam#}, {#aBisaMnata#}
+412162 old <div n="p">— Mit {#aBisam , aBisaMnata#} {%geehrt — , geschätzt von%} (im Comp. vorangehend).
+412162 new <div n="p">— Mit {#aBisam#}, {#aBisaMnata#} {%geehrt — , geschätzt von%} (im Comp. vorangehend).
+;
+; key = marS, L = 83763,  {#u/popa#} -> {#u#}{#/popa#}
+417326 old <div n="p">— Mit {#u/popa#} {#pa/rA#} {%dreist anfassen.%}
+417326 new <div n="p">— Mit {#u#}{#/popa#} {#pa/rA#} {%dreist anfassen.%}
+;
+; key = mA, L = 85533,  {#pravinis , °nmmirmita#} -> {#pravinis#}, {#°nmmirmita#}
+425984 old <div n="p">— Mit {#pravinis , °nmmirmita#} {%verfertigt aus%} (im Comp. vorangehend) <ls>Ind.St.14,385.</ls>
+425984 new <div n="p">— Mit {#pravinis#}, {#°nmmirmita#} {%verfertigt aus%} (im Comp. vorangehend) <ls>Ind.St.14,385.</ls>
+;
+; key = muc, L = 87422,  {#saMprati , °mukta#} -> {#saMprati#}, {#°mukta#}
+435615 old <div n="p">— Mit {#saMprati , °mukta#} {%gebunden , gefesselt.%}
+435615 new <div n="p">— Mit {#saMprati#}, {#°mukta#} {%gebunden , gefesselt.%}
+;
+; key = muz, L = 87690,  {#saMpra , °muzita#} -> {#saMpra#}, {#°muzita#}
+437012 old <div n="p">— Mit {#saMpra , °muzita#} {%hingerissen%}
+437012 new <div n="p">— Mit {#saMpra#}, {#°muzita#} {%hingerissen%}
+;
+; key = muz, L = 87690,  {#vi , °muzayant#} -> {#vi#}, {#°muzayant#}
+437013 old <div n="p">— Mit {#vi , °muzayant#} {%raubend%} , so v.a. {%zu Nichte machend. {#vimuzwa#} geraubt , zu Nichte gemacht.%}
+437013 new <div n="p">— Mit {#vi#}, {#°muzayant#} {%raubend%} , so v.a. {%zu Nichte machend. {#vimuzwa#} geraubt , zu Nichte gemacht.%}
+;
+; key = muh, L = 87763,  {#vyati , °mUQa#} -> {#vyati#}, {#°mUQa#}
+437391 old <div n="p">— Mit {#vyati , °mUQa#} {%überaus verwirrt.%}
+437391 new <div n="p">— Mit {#vyati#}, {#°mUQa#} {%überaus verwirrt.%}
+;
+; key = mnA, L = 89261,  {#pratyA (°mnAyus)#} -> {#pratyA#}{# (°mnAyus)#}
+444770 old <div n="p">— Mit {#pratyA (°mnAyus)#} {%wieder hersagen.%}
+444770 new <div n="p">— Mit {#pratyA#}{# (°mnAyus)#} {%wieder hersagen.%}
+;
+; key = mreq, L = 89278,  {#upani , °mrEqatE#} -> {#upani#}, {#°mrEqatE#}
+444876 old <div n="p">— Mit {#upani , °mrEqatE#} {%erfreuen , beglücken.%}
+444876 new <div n="p">— Mit {#upani#}, {#°mrEqatE#} {%erfreuen , beglücken.%}
+;
+; key = yat, L = 89668,  {#anvA , anvA/yatta#} -> {#anvA#}, {#anvA/yatta#}
+446834 old <div n="p">— Mit {#anvA , anvA/yatta#} {%betheiligt bei , verbunden mit , in Beziehung stehend zu , abhängig von , beruhend — , sich erstreckend auf , vorhanden in%} oder {%bei%} ; mit <ab>Loc.</ab> oder <ab>Acc.</ab>
+446834 new <div n="p">— Mit {#anvA#}, {#anvA/yatta#} {%betheiligt bei , verbunden mit , in Beziehung stehend zu , abhängig von , beruhend — , sich erstreckend auf , vorhanden in%} oder {%bei%} ; mit <ab>Loc.</ab> oder <ab>Acc.</ab>
+;
+; key = yat, L = 89668,  {#samA , °yatta#} -> {#samA#}, {#°yatta#}
+446839 old <div n="p">— Mit {#samA , °yatta#} {%beruhend auf , abhängig von%} (<ab>Loc.</ab>).
+446839 new <div n="p">— Mit {#samA#}, {#°yatta#} {%beruhend auf , abhängig von%} (<ab>Loc.</ab>).
+;
+; key = yat, L = 89668,  {#aBisam , °saMyatta#} -> {#aBisam#}, {#°saMyatta#}
+446870 old <div n="p">— Mit {#aBisam , °saMyatta#} {%besorgt , gelenkt%} (Rosse).
+446870 new <div n="p">— Mit {#aBisam#}, {#°saMyatta#} {%besorgt , gelenkt%} (Rosse).
+;
+; key = yam, L = 90246,  {#paryA , °yata#} -> {#paryA#}, {#°yata#}
+449646 old <div n="p">— Mit {#paryA , °yata#} {%überaus lang.%}
+449646 new <div n="p">— Mit {#paryA#}, {#°yata#} {%überaus lang.%}
+;
+; key = yam, L = 90246,  {#(samA#} -> {##}{#(samA#}
+449657 old <div n="p">— Mit {#(samA#}
+449657 new <div n="p">— Mit {##}{#(samA#}
+;
+; key = yam, L = 90246,  {#aByud , aByudyata#} -> {#aByud#}, {#aByudyata#}
+449682 old <div n="p">— Mit {#aByud , aByudyata#}
+449682 new <div n="p">— Mit {#aByud#}, {#aByudyata#}
+;
+; key = yam, L = 90246,  {#pratini , °yata#} -> {#pratini#}, {#°yata#}
+449743 old <div n="p">— Mit {#pratini , °yata#} {%für jeden einzelnen Fall besonders bestimmt , je anders bestimmt , je ein anderer%} <ls>KAP.5,6.6,14.</ls> <ls>ŚAṂK.zu</ls> <ls>BĀDAR.2,1,18.</ls>
+449743 new <div n="p">— Mit {#pratini#}, {#°yata#} {%für jeden einzelnen Fall besonders bestimmt , je anders bestimmt , je ein anderer%} <ls>KAP.5,6.6,14.</ls> <ls>ŚAṂK.zu</ls> <ls>BĀDAR.2,1,18.</ls>
+;
+; key = yas, L = 90603,  {#samA , °yasta#} -> {#samA#}, {#°yasta#}
+451519 old <div n="p">— Mit {#samA , °yasta#} {%hart bedrängt.%}
+451519 new <div n="p">— Mit {#samA#}, {#°yasta#} {%hart bedrängt.%}
+;
+; key = yas, L = 90603,  {#ni , °yasya#} -> {#ni#}, {#°yasya#}
+451521 old <div n="p">— Mit {#ni , °yasya#} <ls>MBH.9,358</ls> fehlerhaft für {#°yamya#}.
+451521 new <div n="p">— Mit {#ni#}, {#°yasya#} <ls>MBH.9,358</ls> fehlerhaft für {#°yamya#}.
+;
+; key = yA, L = 90611,  {#sa/ma/nupra/#} -> {#sa#}{#/ma/nupra/#}
+451758 old <div n="p">— Mit {#sa/ma/nupra/#} {%seines Weges gehen%} <ls>MAITR.S.2,12,4(148,1).</ls>
+451758 new <div n="p">— Mit {#sa#}{#/ma/nupra/#} {%seines Weges gehen%} <ls>MAITR.S.2,12,4(148,1).</ls>
+;
+; key = yuC, L = 91091,  {#nirA(?)#} -> {#nirA#}{#(?)#}
+454227 old <div n="p">— Mit {#nirA(?)#} <ls>ŚĀṄKH.ŚR.12,22,3.</ls>
+454227 new <div n="p">— Mit {#nirA#}{#(?)#} <ls>ŚĀṄKH.ŚR.12,22,3.</ls>
+;
+; key = raj, L = 92058,  {#anu , °rajyati , °te , °raYjati#} -> {#anu#}, {#°rajyati , °te , °raYjati#}
+459329 old <div n="p">— Mit {#anu , °rajyati , °te , °raYjati#} u.s.w. fehlerhaft für {#°rajyati#} u.s.w.)
+459329 new <div n="p">— Mit {#anu#}, {#°rajyati , °te , °raYjati#} u.s.w. fehlerhaft für {#°rajyati#} u.s.w.)
+;
+; key = raj, L = 92058,  {#apa , °rajyate#} -> {#apa#}, {#°rajyate#}
+459342 old <div n="p">— Mit {#apa , °rajyate#}
+459342 new <div n="p">— Mit {#apa#}, {#°rajyate#}
+;
+; key = raj, L = 92058,  {#aBi , °rajyate#} -> {#aBi#}, {#°rajyate#}
+459348 old <div n="p">— Mit {#aBi , °rajyate#}
+459348 new <div n="p">— Mit {#aBi#}, {#°rajyate#}
+;
+; key = raj, L = 92058,  {#samaBi , °rajyate#} -> {#samaBi#}, {#°rajyate#}
+459354 old <div n="p">— Mit {#samaBi , °rajyate#} {%roth erscheinen , funkeln.%}
+459354 new <div n="p">— Mit {#samaBi#}, {#°rajyate#} {%roth erscheinen , funkeln.%}
+;
+; key = raj, L = 92058,  {#vi , °rajyati , °te#} -> {#vi#}, {#°rajyati , °te#}
+459367 old <div n="p">— Mit {#vi , °rajyati , °te#}
+459367 new <div n="p">— Mit {#vi#}, {#°rajyati , °te#}
+;
+; key = raj, L = 92058,  {#aBisam , °aBisaMrakta#} -> {#aBisam#}, {#°aBisaMrakta#}
+459386 old <div n="p">— Mit {#aBisam , °aBisaMrakta#} {%hängend an , ergeben.%}
+459386 new <div n="p">— Mit {#aBisam#}, {#°aBisaMrakta#} {%hängend an , ergeben.%}
+;
+; key = raB, L = 92713,  {#vyA , °rabDa#} -> {#vyA#}, {#°rabDa#}
+462605 old <div n="p">— Mit {#vyA , °rabDa#} {%von verschiedenen Seiten erfasst , — festgehalten.%}
+462605 new <div n="p">— Mit {#vyA#}, {#°rabDa#} {%von verschiedenen Seiten erfasst , — festgehalten.%}
+;
+; key = lI, L = 96287,  {#ava (°lIyate)#} -> {#ava#}{# (°lIyate)#}
+481664 old <div n="p">— Mit {#ava (°lIyate)#}
+481664 new <div n="p">— Mit {#ava#}{# (°lIyate)#}
+;
+; key = lI, L = 96287,  {#pra (°lIyate)#} -> {#pra#}{# (°lIyate)#}
+481687 old <div n="p">— Mit {#pra (°lIyate)#}
+481687 new <div n="p">— Mit {#pra#}{# (°lIyate)#}
+;
+; key = lI, L = 96287,  {#vi (°lIyate , °lilyus , °lIya , *°lAya)#} -> {#vi#}{# (°lIyate , °lilyus , °lIya , *°lAya)#}
+481699 old <div n="p">— Mit {#vi (°lIyate , °lilyus , °lIya , *°lAya)#} [Fußnote: *Wäre bis auf das {#la#} ein regelmässige Imperfect von {#ay#} , {#ayate#} mit {#nis#}]
+481699 new <div n="p">— Mit {#vi#}{# (°lIyate , °lilyus , °lIya , *°lAya)#} [Fußnote: *Wäre bis auf das {#la#} ein regelmässige Imperfect von {#ay#} , {#ayate#} mit {#nis#}]
+;
+; key = luW, L = 96351,  {#parinis (°luWati)#} -> {#parinis#}{# (°luWati)#}
+482054 old <div n="p">— Mit {#parinis (°luWati)#} {%herabrollen.%}
+482054 new <div n="p">— Mit {#parinis#}{# (°luWati)#} {%herabrollen.%}
+;
+; key = luW, L = 96351,  {#vi (°luWati)#} -> {#vi#}{# (°luWati)#}
+482057 old <div n="p">— Mit {#vi (°luWati)#}
+482057 new <div n="p">— Mit {#vi#}{# (°luWati)#}
+;
+; key = lup, L = 96376,  {#pravi , °lupta#} -> {#pravi#}, {#°lupta#}
+482278 old <div n="p">— Mit {#pravi , °lupta#} {%verschwunden , entfernt , zu Nichte geworden.%}
+482278 new <div n="p">— Mit {#pravi#}, {#°lupta#} {%verschwunden , entfernt , zu Nichte geworden.%}
+;
+; key = lul, L = 96397,  {#aBi , °lulita#} -> {#aBi#}, {#°lulita#}
+482426 old <div n="p">— Mit {#aBi , °lulita#} {%berührt , woran Etwas streift.%}
+482426 new <div n="p">— Mit {#aBi#}, {#°lulita#} {%berührt , woran Etwas streift.%}
+;
+; key = lU, L = 96408,  {#°vyati#} -> {##}{#°vyati#}
+482492 old <div n="p">— Mit {#°vyati#}
+482492 new <div n="p">— Mit {##}{#°vyati#}
+;
+; key = lU, L = 96408,  {#nyA , °lUna#} -> {#nyA#}, {#°lUna#}
+482500 old <div n="p">— Mit {#nyA , °lUna#} {%abgeschnitten%} <ls>HARIV.2,109,54.</ls> <ab>v.l.</ab> {#vyAlUna#}
+482500 new <div n="p">— Mit {#nyA#}, {#°lUna#} {%abgeschnitten%} <ls>HARIV.2,109,54.</ls> <ab>v.l.</ab> {#vyAlUna#}
+;
+; key = lU, L = 96408,  {#vyA , °lUna#} -> {#vyA#}, {#°lUna#}
+482501 old <div n="p">— Mit {#vyA , °lUna#} <ab>dass.</ab>
+482501 new <div n="p">— Mit {#vyA#}, {#°lUna#} <ab>dass.</ab>
+;
+; key = lU, L = 96408,  {#pari , °lUna#} -> {#pari#}, {#°lUna#}
+482504 old <div n="p">— Mit {#pari , °lUna#} {%abgeschnitten , abgetrennt%} <ls>CAṆḌAK.29,5.</ls>
+482504 new <div n="p">— Mit {#pari#}, {#°lUna#} {%abgeschnitten , abgetrennt%} <ls>CAṆḌAK.29,5.</ls>
+;
+; key = lU, L = 96408,  {#vipra , °lUna#} -> {#vipra#}, {#°lUna#}
+482506 old <div n="p">— Mit {#vipra , °lUna#} {%abgeschnitten , abgepflückt.%}
+482506 new <div n="p">— Mit {#vipra#}, {#°lUna#} {%abgeschnitten , abgepflückt.%}
+;
+; key = valh, L = 99212,  {#pra (°valhya)#} -> {#pra#}{# (°valhya)#}
+498181 old <div n="p">— Mit {#pra (°valhya)#} <ab>dass.</ab> {#pravalhita#} {%räthselhaft.%}
+498181 new <div n="p">— Mit {#pra#}{# (°valhya)#} <ab>dass.</ab> {#pravalhita#} {%räthselhaft.%}
+;
+; key = vaS, L = 99220,  {#A , #} -> {#A#}, {##}
+498233 old <div n="p">— Mit {#A , #} hierher wohl {#OSAna/#} {%begehrt.%}
+498233 new <div n="p">— Mit {#A#}, {##} hierher wohl {#OSAna/#} {%begehrt.%}
+;
+; key = vas, L = 99302,  {#sam) , #} -> {#sam#}{#) , #}
+498695 old <div n="p">— Mit {#sam) , #} <ab>Pass.</ab> {#uzyate#} ;
+498695 new <div n="p">— Mit {#sam#}{#) , #} <ab>Pass.</ab> {#uzyate#} ;
+;
+; key = virAga, L = 104016,  {#nAnA°#} -> {#nAnA#}{#°#}
+522712 old <div n="p">— Mit {#nAnA°#} und {#nAnAvarRa°#}.
+522712 new <div n="p">— Mit {#nAnA#}{#°#} und {#nAnAvarRa°#}.
+;
+; key = virAvin, L = 104058,  {#mahArAva°#} -> {#mahArAva#}{#°#}
+522935 old <div n="p">— Mit {#mahArAva°#}.
+522935 new <div n="p">— Mit {#mahArAva#}{#°#}.
+;
+; key = viS, L = 104497,  {#prati , #} -> {#prati#}, {##}
+525436 old <div n="p">— Mit {#prati , #} ein <ab>adv.</ab> Comp.
+525436 new <div n="p">— Mit {#prati#}, {##} ein <ab>adv.</ab> Comp.
+;
+; key = viSiKAntara, L = 104590,  {#anu-car#} -> {#anu#}{#-car#}
+526151 old <div n="p">— Mit {#anu-car#} {%die Strasse ablaufen%} <ls>CARAKA.1,29.</ls> <ab>Acc.</ab> <ab>Pl.</ab>
+526151 new <div n="p">— Mit {#anu#}{#-car#} {%die Strasse ablaufen%} <ls>CARAKA.1,29.</ls> <ab>Acc.</ab> <ab>Pl.</ab>
+;
+; key = viSiKAntara, L = 104590,  {#ati-pat#} -> {#ati#}{#-pat#}
+526152 old <div n="p">— Mit {#ati-pat#} {%die Strassen durchlaufen%} <ls>ŚIŚ.15,104(70).</ls>
+526152 new <div n="p">— Mit {#ati#}{#-pat#} {%die Strassen durchlaufen%} <ls>ŚIŚ.15,104(70).</ls>
+;
+; key = viz, L = 105113,  {#pravi (pravI)#} -> {#pravi#}{# (pravI)#}
+528702 old <div n="p">— Mit {#pravi (pravI)#} <ab>Desid.</ab> in {#pravIvivikz#}.
+528702 new <div n="p">— Mit {#pravi#}{# (pravI)#} <ab>Desid.</ab> in {#pravIvivikz#}.
+;
+; key = vI, L = 105876,  {#upA (A/ - u/pa)#} -> {#upA#}{# (A/ - u/pa)#}
+532443 old <div n="p">— Mit {#upA (A/ - u/pa)#} {%zu Hülfe kommen.%}
+532443 new <div n="p">— Mit {#upA#}{# (A/ - u/pa)#} {%zu Hülfe kommen.%}
+;
+; key = vI, L = 105878,  {#ud , u/dvIta#} -> {#ud#}, {#u/dvIta#}
+532467 old <div n="p">— Mit {#ud , u/dvIta#} {%hinausgetrieben , weggejagt.%}
+532467 new <div n="p">— Mit {#ud#}, {#u/dvIta#} {%hinausgetrieben , weggejagt.%}
+;
+; key = vI, L = 105880,  {#A (vevIran#} -> {#A#}{# (vevIran#}
+532477 old <div n="p">— Mit {#A (vevIran#}) {%trepidare , verzagen oder Leid empfinden.%} <ab>Vgl.</ab> {#AvI/#}.
+532477 new <div n="p">— Mit {#A#}{# (vevIran#}) {%trepidare , verzagen oder Leid empfinden.%} <ab>Vgl.</ab> {#AvI/#}.
+;
+; key = vyaD, L = 108331,  {#vyati , °vidDa#} -> {#vyati#}, {#°vidDa#}
+544550 old <div n="p">— Mit {#vyati , °vidDa#}
+544550 new <div n="p">— Mit {#vyati#}, {#°vidDa#}
+;
+; key = vyaD, L = 108331,  {#vyapa , °vidDa#} -> {#vyapa#}, {#°vidDa#}
+544578 old <div n="p">— Mit {#vyapa , °vidDa#}
+544578 new <div n="p">— Mit {#vyapa#}, {#°vidDa#}
+;
+; key = vyaD, L = 108331,  {#ud , udvidDa#} -> {#ud#}, {#udvidDa#}
+544611 old <div n="p">— Mit {#ud , udvidDa#} {%erhoben , hoch , sich hoch in die Lüfte erhebend%} <ls>LALIT.361,4.5.</ls>
+544611 new <div n="p">— Mit {#ud#}, {#udvidDa#} {%erhoben , hoch , sich hoch in die Lüfte erhebend%} <ls>LALIT.361,4.5.</ls>
+;
+; key = SaNk, L = 109491,  {#vyati , vyatiSaNkita#} -> {#vyati#}, {#vyatiSaNkita#}
+550410 old <div n="p">— Mit {#vyati , vyatiSaNkita#} mit vorangehendem {#miTyA#}
+550410 new <div n="p">— Mit {#vyati#}, {#vyatiSaNkita#} mit vorangehendem {#miTyA#}
+;
+; key = Sabday, L = 110251,  {#ati , °Sabdita#} -> {#ati#}, {#°Sabdita#}
+554180 old <div n="p">— Mit {#ati , °Sabdita#} <ls>CARAKA.5,12</ls> fehlerhaft für {#aBi°#}.
+554180 new <div n="p">— Mit {#ati#}, {#°Sabdita#} <ls>CARAKA.5,12</ls> fehlerhaft für {#aBi°#}.
+;
+; key = Sabday, L = 110251,  {#vi , viSabdita#} -> {#vi#}, {#viSabdita#}
+554188 old <div n="p">— Mit {#vi , viSabdita#} {%benannt , bezeichnet.%}
+554188 new <div n="p">— Mit {#vi#}, {#viSabdita#} {%benannt , bezeichnet.%}
+;
+; key = Sam, L = 110319,  {#ava , avaSAnta#} -> {#ava#}, {#avaSAnta#}
+554511 old <div n="p">— Mit {#ava , avaSAnta#} {%erlöschen.%}
+554511 new <div n="p">— Mit {#ava#}, {#avaSAnta#} {%erlöschen.%}
+;
+; key = Sam, L = 110319,  {#vyava , vya/vaSAnta#} -> {#vyava#}, {#vya/vaSAnta#}
+554512 old <div n="p">— Mit {#vyava , vya/vaSAnta#} <ab>dass.</ab> <ls>MAITR.S.1,8,6(123,12)</ls> = <ls>ĀPAST.ŚR.6,9,2.</ls>
+554512 new <div n="p">— Mit {#vyava#}, {#vya/vaSAnta#} <ab>dass.</ab> <ls>MAITR.S.1,8,6(123,12)</ls> = <ls>ĀPAST.ŚR.6,9,2.</ls>
+;
+; key = Sam, L = 110319,  {#aByupa , °SAnta#} -> {#aByupa#}, {#°SAnta#}
+554530 old <div n="p">— Mit {#aByupa , °SAnta#} {%gestillt , abgekühlt.%}
+554530 new <div n="p">— Mit {#aByupa#}, {#°SAnta#} {%gestillt , abgekühlt.%}
+;
+; key = Sam, L = 110319,  {#ni , niSAnta#} -> {#ni#}, {#niSAnta#}
+554535 old <div n="p">— Mit {#ni , niSAnta#}
+554535 new <div n="p">— Mit {#ni#}, {#niSAnta#}
+;
+; key = Sam, L = 110319,  {#saMpra , saMpraSAnta#} -> {#saMpra#}, {#saMpraSAnta#}
+554563 old <div n="p">— Mit {#saMpra , saMpraSAnta#} {%aufgehört , gewichen , geschwunden.%}
+554563 new <div n="p">— Mit {#saMpra#}, {#saMpraSAnta#} {%aufgehört , gewichen , geschwunden.%}
+;
+; key = Sar, L = 110496,  {#anu/#} -> {#anu#}{#/#}
+555524 old <div n="p">— Mit {#anu/#} in {#*anuSara#}.
+555524 new <div n="p">— Mit {#anu#}{#/#} in {#*anuSara#}.
+;
+; key = Sar, L = 110496,  {#pravi , °SIrRa#} -> {#pravi#}, {#°SIrRa#}
+555557 old <div n="p">— Mit {#pravi , °SIrRa#} {%zerfallen , abgefallen.%}
+555557 new <div n="p">— Mit {#pravi#}, {#°SIrRa#} {%zerfallen , abgefallen.%}
+;
+; key = SA, L = 111156,  {#nis niHSAna#} -> {#nis#}{# niHSAna#}
+558662 old <div n="p">— Mit {#nis niHSAna#} wohl fehlerhaft für {#niSyAna#} {%sich (sibi) wetzend.%}
+558662 new <div n="p">— Mit {#nis#}{# niHSAna#} wohl fehlerhaft für {#niSyAna#} {%sich (sibi) wetzend.%}
+;
+; key = SiYj, L = 112186,  {#A , ASiYjita#} -> {#A#}, {#ASiYjita#}
+563814 old <div n="p">— Mit {#A , ASiYjita#} {%klingend.%}
+563814 new <div n="p">— Mit {#A#}, {#ASiYjita#} {%klingend.%}
+;
+; key = Siz, L = 112826,  {#sam , sa/MSizwa#} -> {#sam#}, {#sa/MSizwa#}
+566808 old <div n="p">— Mit {#sam , sa/MSizwa#} {%übrig geblieben.%} {#saMSizanti#} (!) <ls>VAITĀN.30,17.</ls>
+566808 new <div n="p">— Mit {#sam#}, {#sa/MSizwa#} {%übrig geblieben.%} {#saMSizanti#} (!) <ls>VAITĀN.30,17.</ls>
+;
+; key = SuD, L = 113514,  {#sam , saMSudDa#} -> {#sam#}, {#saMSudDa#}
+570347 old <div n="p">— Mit {#sam , saMSudDa#}
+570347 new <div n="p">— Mit {#sam#}, {#saMSudDa#}
+;
+; key = SuD, L = 113514,  {#parisam , parisaMSudDa#} -> {#parisam#}, {#parisaMSudDa#}
+570360 old <div n="p">— Mit {#parisam , parisaMSudDa#} {%durchaus rein , — lauter.%}
+570360 new <div n="p">— Mit {#parisam#}, {#parisaMSudDa#} {%durchaus rein , — lauter.%}
+;
+; key = Scut, L = 114622,  {#A , A/Scutita#} -> {#A#}, {#A/Scutita#}
+575799 old <div n="p">— Mit {#A , A/Scutita#} {%hingeträufelt%} (intrans.).
+575799 new <div n="p">— Mit {#A#}, {#A/Scutita#} {%hingeträufelt%} (intrans.).
+;
+; key = SyA, L = 114670,  {#pra , pra/SIta#} -> {#pra#}, {#pra/SIta#}
+576039 old <div n="p">— Mit {#pra , pra/SIta#} {%fest gefroren.%}
+576039 new <div n="p">— Mit {#pra#}, {#pra/SIta#} {%fest gefroren.%}
+;
+; key = SyA, L = 114670,  {#*avasam , avasaMSIna#} -> {#*avasam#}, {#avasaMSIna#}
+576045 old <div n="p">— Mit {#*avasam , avasaMSIna#} und {#avasaMSyAna#}.
+576045 new <div n="p">— Mit {#*avasam#}, {#avasaMSIna#} und {#avasaMSyAna#}.
+;
+; key = SraT, L = 114803,  {#ni , niSraTya#} -> {#ni#}, {#niSraTya#}
+576702 old <div n="p">— Mit {#ni , niSraTya#} in einer Worterklärung ; erklärt durch {#nibaDya#}.
+576702 new <div n="p">— Mit {#ni#}, {#niSraTya#} in einer Worterklärung ; erklärt durch {#nibaDya#}.
+;
+; key = SramB, L = 114864,  {#ativi , °SrabDa#} -> {#ativi#}, {#°SrabDa#}
+577036 old <div n="p">— Mit {#ativi , °SrabDa#} {%voller Vertrauen zu%} (<ab>Loc.</ab>). {#°m#} <ab>Adv.</ab> {%ganz getrost , ohne alle Bedenken.%}
+577036 new <div n="p">— Mit {#ativi#}, {#°SrabDa#} {%voller Vertrauen zu%} (<ab>Loc.</ab>). {#°m#} <ab>Adv.</ab> {%ganz getrost , ohne alle Bedenken.%}
+;
+; key = SrA, L = 114929,  {#A , ASfta#} -> {#A#}, {#ASfta#}
+577362 old <div n="p">— Mit {#A , ASfta#} {%angekocht.%}
+577362 new <div n="p">— Mit {#A#}, {#ASfta#} {%angekocht.%}
+;
+; key = SrA, L = 114929,  {#pra , praSfta#} -> {#pra#}, {#praSfta#}
+577364 old <div n="p">— Mit {#pra , praSfta#} {%gekocht%} <ls>KAUŚ.30.</ls>
+577364 new <div n="p">— Mit {#pra#}, {#praSfta#} {%gekocht%} <ls>KAUŚ.30.</ls>
+;
+; key = Svas, L = 115799,  {#apa , °Svasiti#} -> {#apa#}, {#°Svasiti#}
+581841 old <div n="p">— Mit {#apa , °Svasiti#} als Erklärung von {#apAniti#}
+581841 new <div n="p">— Mit {#apa#}, {#°Svasiti#} als Erklärung von {#apAniti#}
+;
+; key = sad, L = 118430,  {#samava , °sanna#} -> {#samava#}, {#°sanna#}
+594936 old <div n="p">— Mit {#samava , °sanna#} {%in Noth — , in einer verzweifelten Lage seiend.%}
+594936 new <div n="p">— Mit {#samava#}, {#°sanna#} {%in Noth — , in einer verzweifelten Lage seiend.%}
+;
+; key = sad, L = 118430,  {#ni , °zIdati#} -> {#ni#}, {#°zIdati#}
+595063 old <div n="p">— Mit {#ni , °zIdati#}
+595063 new <div n="p">— Mit {#ni#}, {#°zIdati#}
+;
+; key = sad, L = 118430,  {#pari , °zIdati#} -> {#pari#}, {#°zIdati#}
+595094 old <div n="p">— Mit {#pari , °zIdati#}
+595094 new <div n="p">— Mit {#pari#}, {#°zIdati#}
+;
+; key = sad, L = 118430,  {#vipra , °sanna#} -> {#vipra#}, {#°sanna#}
+595125 old <div n="p">— Mit {#vipra , °sanna#} {%wieder zur Ruhe gekommen%} {#DAtavaH#} <ls>CARAKA.6,3.</ls>
+595125 new <div n="p">— Mit {#vipra#}, {#°sanna#} {%wieder zur Ruhe gekommen%} {#DAtavaH#} <ls>CARAKA.6,3.</ls>
+;
+; key = sad, L = 118430,  {#prati , °sIdati#} -> {#prati#}, {#°sIdati#}
+595132 old <div n="p">— Mit {#prati , °sIdati#} {%sich dagegen setzen , sich entsetzen.%}
+595132 new <div n="p">— Mit {#prati#}, {#°sIdati#} {%sich dagegen setzen , sich entsetzen.%}
+;
+; key = sad, L = 118430,  {#vi , °zIdati#} -> {#vi#}, {#°zIdati#}
+595133 old <div n="p">— Mit {#vi , °zIdati#}
+595133 new <div n="p">— Mit {#vi#}, {#°zIdati#}
+;
+; key = sad, L = 118430,  {#anuvi , °zaRRa#} -> {#anuvi#}, {#°zaRRa#}
+595138 old <div n="p">— Mit {#anuvi , °zaRRa#} {%gerichtet auf%}
+595138 new <div n="p">— Mit {#anuvi#}, {#°zaRRa#} {%gerichtet auf%}
+;
+; key = sad, L = 118430,  {#pravi , °zaRRa#} -> {#pravi#}, {#°zaRRa#}
+595141 old <div n="p">— Mit {#pravi , °zaRRa#} {%bestürzt , verzagt.%}
+595141 new <div n="p">— Mit {#pravi#}, {#°zaRRa#} {%bestürzt , verzagt.%}
+;
+; key = san, L = 118767,  {#aBi , aBi/zAta#} -> {#aBi#}, {#aBi/zAta#}
+596701 old <div n="p">— Mit {#aBi , aBi/zAta#} {%gewonnen , erobert.%}
+596701 new <div n="p">— Mit {#aBi#}, {#aBi/zAta#} {%gewonnen , erobert.%}
+;
+; key = saMDay, L = 119035,  {#ati , °saMDita#} -> {#ati#}, {#°saMDita#}
+598057 old <div n="p">— Mit {#ati , °saMDita#} {%betrogen , getäuscht.%}
+598057 new <div n="p">— Mit {#ati#}, {#°saMDita#} {%betrogen , getäuscht.%}
+;
+; key = saMDay, L = 119035,  {#prati , °saMDita#} -> {#prati#}, {#°saMDita#}
+598063 old <div n="p">— Mit {#prati , °saMDita#} {%befestigt , verstärkt.%}
+598063 new <div n="p">— Mit {#prati#}, {#°saMDita#} {%befestigt , verstärkt.%}
+;
+; key = sar, L = 121351,  {#ni , nisfta#} -> {#ni#}, {#nisfta#}
+609278 old <div n="p">— Mit {#ni , nisfta#} (metrisch für {#niHsfta#})
+609278 new <div n="p">— Mit {#ni#}, {#nisfta#} (metrisch für {#niHsfta#})
+;
+; key = sar, L = 121351,  {#vini , °sfta#} -> {#vini#}, {#°sfta#}
+609282 old <div n="p">— Mit {#vini , °sfta#} <ls>MĀRK.P.56,21</ls> fehlerhaft für {#viniHsfta#}. — {#nis#}
+609282 new <div n="p">— Mit {#vini#}, {#°sfta#} <ls>MĀRK.P.56,21</ls> fehlerhaft für {#viniHsfta#}. — {#nis#}
+;
+; key = sar, L = 121351,  {#samaBinis , °niHsfta#} -> {#samaBinis#}, {#°niHsfta#}
+609291 old <div n="p">— Mit {#samaBinis , °niHsfta#} {%herausgetreten — , hervorgekommen aus%} (<ab>Abl.</ab>).
+609291 new <div n="p">— Mit {#samaBinis#}, {#°niHsfta#} {%herausgetreten — , hervorgekommen aus%} (<ab>Abl.</ab>).
+;
+; key = sar, L = 121351,  {#anuvimis , °niHsfta#} -> {#anuvimis#}, {#°niHsfta#}
+609297 old <div n="p">— Mit {#anuvimis , °niHsfta#} {%der Reihe nach herausgekommen aus%} (<ab>Abl.</ab>).
+609297 new <div n="p">— Mit {#anuvimis#}, {#°niHsfta#} {%der Reihe nach herausgekommen aus%} (<ab>Abl.</ab>).
+;
+; key = sar, L = 121351,  {#atipra , °sfta#} -> {#atipra#}, {#°sfta#}
+609334 old <div n="p">— Mit {#atipra , °sfta#}
+609334 new <div n="p">— Mit {#atipra#}, {#°sfta#}
+;
+; key = sar, L = 121351,  {#aBipra , °sfta#} -> {#aBipra#}, {#°sfta#}
+609340 old <div n="p">— Mit {#aBipra , °sfta#} {%hingegeben , huldigend , obliegend%} (die Ergänzung im Comp. vorangehend)
+609340 new <div n="p">— Mit {#aBipra#}, {#°sfta#} {%hingegeben , huldigend , obliegend%} (die Ergänzung im Comp. vorangehend)
+;
+; key = sar, L = 121351,  {#pravi , °sfta#} -> {#pravi#}, {#°sfta#}
+609384 old <div n="p">— Mit {#pravi , °sfta#}
+609384 new <div n="p">— Mit {#pravi#}, {#°sfta#}
+;
+; key = sarj, L = 121556,  {#apa , °sfzwa#} -> {#apa#}, {#°sfzwa#}
+610517 old <div n="p">— Mit {#apa , °sfzwa#} {%sich zurückgezogen habend von%} (<ab>Abl.</ab>).
+610517 new <div n="p">— Mit {#apa#}, {#°sfzwa#} {%sich zurückgezogen habend von%} (<ab>Abl.</ab>).
+;
+; key = sarj, L = 121556,  {#nirupa , °sfzwa#} -> {#nirupa#}, {#°sfzwa#}
+610648 old <div n="p">— Mit {#nirupa , °sfzwa#} {%unbeschädigt.%}
+610648 new <div n="p">— Mit {#nirupa#}, {#°sfzwa#} {%unbeschädigt.%}
+;
+; key = sarj, L = 121556,  {#ni , nisfzwa#} -> {#ni#}, {#nisfzwa#}
+610650 old <div n="p">— Mit {#ni , nisfzwa#}
+610650 new <div n="p">— Mit {#ni#}, {#nisfzwa#}
+;
+; key = sarj, L = 121556,  {#saMni , °sfzwa#} -> {#saMni#}, {#°sfzwa#}
+610662 old <div n="p">— Mit {#saMni , °sfzwa#} {%Jmd%} (<ab>Dat.</ab>) {%anvertraut.%}
+610662 new <div n="p">— Mit {#saMni#}, {#°sfzwa#} {%Jmd%} (<ab>Dat.</ab>) {%anvertraut.%}
+;
+; key = sarj, L = 121556,  {#pari , pa/risfzwa#} -> {#pari#}, {#pa/risfzwa#}
+610673 old <div n="p">— Mit {#pari , pa/risfzwa#} {%umgossen , umfangen.%} Vielleicht {#pa/riSrizwa#} zu lesen. — {#parisfjya#} <ls>ŚĀK.(CH.).78,8</ls> fehlerhaft für {#parimfjya#}.
+610673 new <div n="p">— Mit {#pari#}, {#pa/risfzwa#} {%umgossen , umfangen.%} Vielleicht {#pa/riSrizwa#} zu lesen. — {#parisfjya#} <ls>ŚĀK.(CH.).78,8</ls> fehlerhaft für {#parimfjya#}.
+;
+; key = sarj, L = 121556,  {#anusam , anusaMsfzwa#} -> {#anusam#}, {#anusaMsfzwa#}
+610757 old <div n="p">— Mit {#anusam , anusaMsfzwa#} {%verbunden mit%} (<ab>Instr.</ab>).
+610757 new <div n="p">— Mit {#anusam#}, {#anusaMsfzwa#} {%verbunden mit%} (<ab>Instr.</ab>).
+;
+; key = sarj, L = 121556,  {#parisam , parisaMsfzwa#} -> {#parisam#}, {#parisaMsfzwa#}
+610766 old <div n="p">— Mit {#parisam , parisaMsfzwa#} {%von allen Seiten getroffen , — bescheinen.%}
+610766 new <div n="p">— Mit {#parisam#}, {#parisaMsfzwa#} {%von allen Seiten getroffen , — bescheinen.%}
+;
+; key = sarp, L = 121574,  {#samA samA/sfpta#} -> {#samA#}{# samA/sfpta#}
+610896 old <div n="p">— Mit {#samA samA/sfpta#} {%der sich verkriechen hat%} <ls>MAITR.S.(121,14).</ls>
+610896 new <div n="p">— Mit {#samA#}{# samA/sfpta#} {%der sich verkriechen hat%} <ls>MAITR.S.(121,14).</ls>
+;
+; key = sah, L = 122811,  {#pari , °zahate#} -> {#pari#}, {#°zahate#}
+616644 old <div n="p">— Mit {#pari , °zahate#} {%ertragen , aushalten , widerstehen%} <ls>BHAṬṬ.</ls>
+616644 new <div n="p">— Mit {#pari#}, {#°zahate#} {%ertragen , aushalten , widerstehen%} <ls>BHAṬṬ.</ls>
+;
+; key = sA, L = 123351,  {#aDyava , °set#} -> {#aDyava#}, {#°set#}
+619197 old <div n="p">— Mit {#aDyava , °set#} <ab>Potent.</ab> ; {#°asyata , °sAyIta#} und {#°sIyIta#} [<ls>MBH.12,214,9</ls> ] <ab>Med.</ab>; {#°sya#} neben {#°syAya#} <ab>Absol.</ab>)
+619197 new <div n="p">— Mit {#aDyava#}, {#°set#} <ab>Potent.</ab> ; {#°asyata , °sAyIta#} und {#°sIyIta#} [<ls>MBH.12,214,9</ls> ] <ab>Med.</ab>; {#°sya#} neben {#°syAya#} <ab>Absol.</ab>)
+;
+; key = sA, L = 123351,  {#nirava , °sita#} -> {#nirava#}, {#°sita#}
+619218 old <div n="p">— Mit {#nirava , °sita#} {%aus der Gemeinschaft verstossen.%} <ab>Vgl.</ab> {#a°#}
+619218 new <div n="p">— Mit {#nirava#}, {#°sita#} {%aus der Gemeinschaft verstossen.%} <ab>Vgl.</ab> {#a°#}
+;
+; key = sA, L = 123351,  {#vyava , °sAmi#} -> {#vyava#}, {#°sAmi#}
+619235 old <div n="p">— Mit {#vyava , °sAmi#} und {#°santi#} [mit der <ab>v.l.</ab> {#°syanti#}]Prates , ; {#°seyam , °set#} Potent ; {#°syati#} und {#°syati#} ; {#°sya#} Asol.)
+619235 new <div n="p">— Mit {#vyava#}, {#°sAmi#} und {#°santi#} [mit der <ab>v.l.</ab> {#°syanti#}]Prates , ; {#°seyam , °set#} Potent ; {#°syati#} und {#°syati#} ; {#°sya#} Asol.)
+;
+; key = sA, L = 123351,  {#pariRi , °zyati#} -> {#pariRi#}, {#°zyati#}
+619257 old <div n="p">— Mit {#pariRi , °zyati#}.
+619257 new <div n="p">— Mit {#pariRi#}, {#°zyati#}.
+;
+; key = sA, L = 123351,  {#praRi , °zyati#} -> {#praRi#}, {#°zyati#}
+619258 old <div n="p">— Mit {#praRi , °zyati#}.
+619258 new <div n="p">— Mit {#praRi#}, {#°zyati#}.
+;
+; key = sA, L = 123351,  {#pari , °zyati , °zita#} -> {#pari#}, {#°zyati , °zita#}
+619259 old <div n="p">— Mit {#pari , °zyati , °zita#}.
+619259 new <div n="p">— Mit {#pari#}, {#°zyati , °zita#}.
+;
+; key = su, L = 125604,  {#*nis , niHzuRoti#} -> {#*nis#}, {#niHzuRoti#}
+630268 old <div n="p">— Mit {#*nis , niHzuRoti#}.{##}
+630268 new <div n="p">— Mit {#*nis#}, {#niHzuRoti#}.{##}
+;
+; key = su, L = 125604,  {#*pari , °zuRoti#} -> {#*pari#}, {#°zuRoti#}
+630269 old <div n="p">— Mit {#*pari , °zuRoti#}
+630269 new <div n="p">— Mit {#*pari#}, {#°zuRoti#}
+;
+; key = sU, L = 128531,  {#aBi , °zuvati#} -> {#aBi#}, {#°zuvati#}
+644701 old <div n="p">— Mit {#aBi , °zuvati#}
+644701 new <div n="p">— Mit {#aBi#}, {#°zuvati#}
+;
+; key = sU, L = 128531,  {#pari°#} -> {#pari#}{#°#}
+644713 old <div n="p">— Mit {#pari°#} {#zOti#}
+644713 new <div n="p">— Mit {#pari#}{#°#} {#zOti#}
+;
+; key = sU, L = 128531,  {#pratipra , °suvate#} -> {#pratipra#}, {#°suvate#}
+644729 old <div n="p">— Mit {#pratipra , °suvate#} {%wieder erstatten%} <ab>Comm.</ab> zu <ls>ĀPAST.ŚR.10,4,13.15,12,12.</ls> {#°sUta#} {%wieder erstattet.%}
+644729 new <div n="p">— Mit {#pratipra#}, {#°suvate#} {%wieder erstatten%} <ab>Comm.</ab> zu <ls>ĀPAST.ŚR.10,4,13.15,12,12.</ls> {#°sUta#} {%wieder erstattet.%}
+;
+; key = sU, L = 128531,  {#vi , °zuvati#} -> {#vi#}, {#°zuvati#}
+644730 old <div n="p">— Mit {#vi , °zuvati#}.
+644730 new <div n="p">— Mit {#vi#}, {#°zuvati#}.
+;
+; key = sU, L = 128533,  {#anupra , °sUta#} -> {#anupra#}, {#°sUta#}
+644748 old <div n="p">— Mit {#anupra , °sUta#} {%darauf entstanden.%}
+644748 new <div n="p">— Mit {#anupra#}, {#°sUta#} {%darauf entstanden.%}
+;
+; key = sU, L = 128533,  {#aBipra , °sUta#} -> {#aBipra#}, {#°sUta#}
+644749 old <div n="p">— Mit {#aBipra , °sUta#} {%erzeugt , geboren.%}
+644749 new <div n="p">— Mit {#aBipra#}, {#°sUta#} {%erzeugt , geboren.%}
+;
+; key = sev, L = 129287,  {#prati , °sevate#} -> {#prati#}, {#°sevate#}
+648406 old <div n="p">— Mit {#prati , °sevate#} als Erklärung von {#juz#} mit {#prati#} <ls>SĀY.</ls> zu <ls>ṚV.3,33,8.</ls>
+648406 new <div n="p">— Mit {#prati#}, {#°sevate#} als Erklärung von {#juz#} mit {#prati#} <ls>SĀY.</ls> zu <ls>ṚV.3,33,8.</ls>
+;
+; key = sev, L = 129287,  {#vi , °zevate#} -> {#vi#}, {#°zevate#}
+648407 old <div n="p">— Mit {#vi , °zevate#}.
+648407 new <div n="p">— Mit {#vi#}, {#°zevate#}.
+;
+; key = sKal, L = 130342,  {#prati , °sKalita#} -> {#prati#}, {#°sKalita#}
+653516 old <div n="p">— Mit {#prati , °sKalita#} {%abgewehrt%} <ls>ŚIŚ.17,21.</ls>
+653516 new <div n="p">— Mit {#prati#}, {#°sKalita#} {%abgewehrt%} <ls>ŚIŚ.17,21.</ls>
+;
+; key = staB, L = 130430,  {#aBi  °zwaBnAti , °zwaBnoti#} -> {#aBi#}{#  °zwaBnAti , °zwaBnoti#}
+653974 old <div n="p">— Mit {#aBi  °zwaBnAti , °zwaBnoti#}.
+653974 new <div n="p">— Mit {#aBi#}{#  °zwaBnAti , °zwaBnoti#}.
+;
+; key = star, L = 130467,  {#anuvi , °stfta#} -> {#anuvi#}, {#°stfta#}
+654365 old <div n="p">— Mit {#anuvi , °stfta#} {%breit , umfangreich.%}
+654365 new <div n="p">— Mit {#anuvi#}, {#°stfta#} {%breit , umfangreich.%}
+;
+; key = stu, L = 130530,  {#ati , °zwOti#} -> {#ati#}, {#°zwOti#}
+654664 old <div n="p">— Mit {#ati , °zwOti#} {%mehr (über die Zahl) besingen.%}
+654664 new <div n="p">— Mit {#ati#}, {#°zwOti#} {%mehr (über die Zahl) besingen.%}
+;
+; key = stu, L = 130530,  {#anu , °zwOti#} -> {#anu#}, {#°zwOti#}
+654665 old <div n="p">— Mit {#anu , °zwOti#} {%beloben , laudibus persequi.%}
+654665 new <div n="p">— Mit {#anu#}, {#°zwOti#} {%beloben , laudibus persequi.%}
+;
+; key = stu, L = 130530,  {#aBi , °zwOti#} -> {#aBi#}, {#°zwOti#}
+654666 old <div n="p">— Mit {#aBi , °zwOti#} {%Lob richten an%} (<ab>Acc.</ab>) , {%preisen.%} Im Ritual speciell vom
+654666 new <div n="p">— Mit {#aBi#}, {#°zwOti#} {%Lob richten an%} (<ab>Acc.</ab>) , {%preisen.%} Im Ritual speciell vom
+;
+; key = stu, L = 130530,  {#ni , °zwOti#} -> {#ni#}, {#°zwOti#}
+654672 old <div n="p">— Mit {#ni , °zwOti#}. {#nizwavan#} <ls>MBH.12,360</ls> fehlerhaft für {#nizwanan#}
+654672 new <div n="p">— Mit {#ni#}, {#°zwOti#}. {#nizwavan#} <ls>MBH.12,360</ls> fehlerhaft für {#nizwanan#}
+;
+; key = stu, L = 130530,  {#pari , °zwOti#} -> {#pari#}, {#°zwOti#}
+654673 old <div n="p">— Mit {#pari , °zwOti#} {%loben , preisen.%} {#paristuvant#} fehlerhaft {#parizwuta#} {%besungen.%}
+654673 new <div n="p">— Mit {#pari#}, {#°zwOti#} {%loben , preisen.%} {#paristuvant#} fehlerhaft {#parizwuta#} {%besungen.%}
+;
+; key = stu, L = 130530,  {#saMpra , °stuta#} -> {#saMpra#}, {#°stuta#}
+654687 old <div n="p">— Mit {#saMpra , °stuta#} 1) = {#prastuta#} b)c) <ls>JĀTAKAM.23,10.2</ls>) mit <ab>Infin.</ab> {%der sich an Etwas gemacht hat.%}
+654687 new <div n="p">— Mit {#saMpra#}, {#°stuta#} 1) = {#prastuta#} b)c) <ls>JĀTAKAM.23,10.2</ls>) mit <ab>Infin.</ab> {%der sich an Etwas gemacht hat.%}
+;
+; key = stu, L = 130530,  {#vi , °zwOti#} -> {#vi#}, {#°zwOti#}
+654689 old <div n="p">— Mit {#vi , °zwOti#} {%Loblieder singen. {#vi/zwuta#} vielfach besungen.%}
+654689 new <div n="p">— Mit {#vi#}, {#°zwOti#} {%Loblieder singen. {#vi/zwuta#} vielfach besungen.%}
+;
+; key = stuB, L = 130563,  {#anu , °zwoBati#} -> {#anu#}, {#°zwoBati#}
+654853 old <div n="p">— Mit {#anu , °zwoBati#} {%nachträllern.%}
+654853 new <div n="p">— Mit {#anu#}, {#°zwoBati#} {%nachträllern.%}
+;
+; key = stuB, L = 130563,  {#aBi , °zwoBati#} -> {#aBi#}, {#°zwoBati#}
+654854 old <div n="p">— Mit {#aBi , °zwoBati#} {%hinzuträllern.%}
+654854 new <div n="p">— Mit {#aBi#}, {#°zwoBati#} {%hinzuträllern.%}
+;
+; key = stuB, L = 130563,  {#pari , °zwoBati#} -> {#pari#}, {#°zwoBati#}
+654858 old <div n="p">— Mit {#pari , °zwoBati#} {%umjauchzen%} u.s.w. {#parizwubDEqa#} <ls>ṢAḌV.BR.3,10.</ls>
+654858 new <div n="p">— Mit {#pari#}, {#°zwoBati#} {%umjauchzen%} u.s.w. {#parizwubDEqa#} <ls>ṢAḌV.BR.3,10.</ls>
+;
+; key = stuB, L = 130563,  {#prati , °zwoBati#} -> {#prati#}, {#°zwoBati#}
+654863 old <div n="p">— Mit {#prati , °zwoBati#} {%mit einem Schrei antworten , entgegenjauchzen%} u.s.w. ; mit <ab>Acc.</ab>
+654863 new <div n="p">— Mit {#prati#}, {#°zwoBati#} {%mit einem Schrei antworten , entgegenjauchzen%} u.s.w. ; mit <ab>Acc.</ab>
+;
+; key = stuB, L = 130563,  {#vi , °zwoBate#} -> {#vi#}, {#°zwoBate#}
+654864 old <div n="p">— Mit {#vi , °zwoBate#}.
+654864 new <div n="p">— Mit {#vi#}, {#°zwoBate#}.
+;
+; key = sTA, L = 130874,  {#vyati , °zWAs#} -> {#vyati#}, {#°zWAs#}
+656365 old <div n="p">— Mit {#vyati , °zWAs#} <ls>MBH.13,5785.fg.</ls> fehlerhaft für {#vyATizWAs#}.
+656365 new <div n="p">— Mit {#vyati#}, {#°zWAs#} <ls>MBH.13,5785.fg.</ls> fehlerhaft für {#vyATizWAs#}.
+;
+; key = sTA, L = 130874,  {#samanu , °zWita#} -> {#samanu#}, {#°zWita#}
+656425 old <div n="p">— Mit {#samanu , °zWita#} {%verbunden , ausgerüstet mit%} (<ab>Instr.</ab>). Mit {#antar#} {%Jmd%} (<ab>Acc.</ab>) {%den Weg vertreten , aufhalten.%}
+656425 new <div n="p">— Mit {#samanu#}, {#°zWita#} {%verbunden , ausgerüstet mit%} (<ab>Instr.</ab>). Mit {#antar#} {%Jmd%} (<ab>Acc.</ab>) {%den Weg vertreten , aufhalten.%}
+;
+; key = sTA, L = 130874,  {#samava , °sTita#} -> {#samava#}, {#°sTita#}
+656532 old <div n="p">— Mit {#samava , °sTita#}
+656532 new <div n="p">— Mit {#samava#}, {#°sTita#}
+;
+; key = snA, L = 131257,  {#prati , °zRAta#} -> {#prati#}, {#°zRAta#}
+659001 old <div n="p">— Mit {#prati , °zRAta#} in Verbindung mit {#sUtra#} = {#SudDa#} , sonst {#°snAta#}.
+659001 new <div n="p">— Mit {#prati#}, {#°zRAta#} in Verbindung mit {#sUtra#} = {#SudDa#} , sonst {#°snAta#}.
+;
+; key = snih, L = 131332,  {#aBi , °snigDa#} -> {#aBi#}, {#°snigDa#}
+659357 old <div n="p">— Mit {#aBi , °snigDa#} {%zugethan , liebevoll%} <ls>JĀTAKAM.13.</ls> {#°m#} <ab>Adv.</ab> <ls>22.</ls>
+659357 new <div n="p">— Mit {#aBi#}, {#°snigDa#} {%zugethan , liebevoll%} <ls>JĀTAKAM.13.</ls> {#°m#} <ab>Adv.</ab> <ls>22.</ls>
+;
+; key = snih, L = 131332,  {#upa , °snihyate#} -> {#upa#}, {#°snihyate#}
+659358 old <div n="p">— Mit {#upa , °snihyate#} in der Prosa) {%geschmeidig — , feucht werden.%}
+659358 new <div n="p">— Mit {#upa#}, {#°snihyate#} in der Prosa) {%geschmeidig — , feucht werden.%}
+;
+; key = snu, L = 131337,  {#avapra , °snuta#} -> {#avapra#}, {#°snuta#}
+659388 old <div n="p">— Mit {#avapra , °snuta#} (oder {#°sruta#}) {%beschissen%} (von einem Vogel).
+659388 new <div n="p">— Mit {#avapra#}, {#°snuta#} (oder {#°sruta#}) {%beschissen%} (von einem Vogel).
+;
+; key = snu, L = 131337,  {#vyatipra , °snAvitA#} -> {#vyatipra#}, {#°snAvitA#}
+659389 old <div n="p">— Mit {#vyatipra , °snAvitA#} Fut.
+659389 new <div n="p">— Mit {#vyatipra#}, {#°snAvitA#} Fut.
+;
+; key = sPAy, L = 131533,  {#pari , °sPIta#} -> {#pari#}, {#°sPIta#}
+660462 old <div n="p">— Mit {#pari , °sPIta#} {%angeschwellen%} <ls>PĀRŚVAN.3,154.</ls>
+660462 new <div n="p">— Mit {#pari#}, {#°sPIta#} {%angeschwellen%} <ls>PĀRŚVAN.3,154.</ls>
+;
+; key = svaj, L = 132031,  {#aBi , °zvajate#} -> {#aBi#}, {#°zvajate#}
+663207 old <div n="p">— Mit {#aBi , °zvajate#} das. <ls>ŚIŚ.13,10.</ls>
+663207 new <div n="p">— Mit {#aBi#}, {#°zvajate#} das. <ls>ŚIŚ.13,10.</ls>
+;
+; key = svaj, L = 132031,  {#vi , °zvajate#} -> {#vi#}, {#°zvajate#}
+663213 old <div n="p">— Mit {#vi , °zvajate#} {%umschlingen , umfangen.%}
+663213 new <div n="p">— Mit {#vi#}, {#°zvajate#} {%umschlingen , umfangen.%}
+;
+; key = svad, L = 132069,  {#A (Asvadati)#} -> {#A#}{# (Asvadati)#}
+663415 old <div n="p">— Mit {#A (Asvadati)#} {%essen , verzehren.%} <ab>v.l.</ab> {#KAdayanti#} st. {#Asvadanti#}.{##}
+663415 new <div n="p">— Mit {#A#}{# (Asvadati)#} {%essen , verzehren.%} <ab>v.l.</ab> {#KAdayanti#} st. {#Asvadanti#}.{##}
+;
+; key = svan, L = 132127,  {#pra , pra/svanita#} -> {#pra#}, {#pra/svanita#}
+663704 old <div n="p">— Mit {#pra , pra/svanita#} {%tosend.%}
+663704 new <div n="p">— Mit {#pra#}, {#pra/svanita#} {%tosend.%}
+;
+; key = han, L = 133457,  {#nirA , °Gnan#} -> {#nirA#}, {#°Gnan#}
+670056 old <div n="p">— Mit {#nirA , °Gnan#} <ls>TĀṆḌYA-BR.9,1 ,</ls> fehlerhaft für {#niraGnan#}.
+670056 new <div n="p">— Mit {#nirA#}, {#°Gnan#} <ls>TĀṆḌYA-BR.9,1 ,</ls> fehlerhaft für {#niraGnan#}.
+;
+; key = han, L = 133457,  {#°vyA#} -> {##}{#°vyA#}
+670062 old <div n="p">— Mit {#°vyA#}
+670062 new <div n="p">— Mit {##}{#°vyA#}
+;
+; key = han, L = 133457,  {#samupa , °hata#} -> {#samupa#}, {#°hata#}
+670134 old <div n="p">— Mit {#samupa , °hata#} {%beschädigt , getrübt%} (Einsicht).
+670134 new <div n="p">— Mit {#samupa#}, {#°hata#} {%beschädigt , getrübt%} (Einsicht).
+;
+; key = han, L = 133457,  {#anuvi , °hanti#} -> {#anuvi#}, {#°hanti#}
+670288 old <div n="p">— Mit {#anuvi , °hanti#} <ls>MBH.12,56,51</ls> nach <ls>KERN</ls> fehlerhaft für {#anuvahanti#}.
+670288 new <div n="p">— Mit {#anuvi#}, {#°hanti#} <ls>MBH.12,56,51</ls> nach <ls>KERN</ls> fehlerhaft für {#anuvahanti#}.
+;
+; key = hi, L = 134538,  {#anupra , °hita#} -> {#anupra#}, {#°hita#}
+676596 old <div n="p">— Mit {#anupra , °hita#} {%nachgesandt.%}
+676596 new <div n="p">— Mit {#anupra#}, {#°hita#} {%nachgesandt.%}
+;-----------------------
+; key = kaTay, L=23827  Ri->ni
+113185 old <div n="p">— Mit {#*Ri#} , <ab>Partic.</ab> {#°kaTita#} <is>gaṇa</is> {#izwAdi#}.
+113185 new <div n="p">— Mit {#*ni#} , <ab>Partic.</ab> {#°kaTita#} <is>gaṇa</is> {#izwAdi#}.
+; key = muc, L=87422  ADinIs -> aDinis
+435566 old <div n="p">— Mit {#ADinIs#} <ab>Pass.</ab> {%sich befreien von%} (<ab>Abl.</ab>).
+435566 new <div n="p">— Mit {#aDinis#} <ab>Pass.</ab> {%sich befreien von%} (<ab>Abl.</ab>).
+; key = brU, L=78307  AcCrA -> acCA
+388795 old <div n="p">— Mit {#AcCrA#} Med {%herbeirufen.%}
+388795 new <div n="p">— Mit {#acCA#} Med {%herbeirufen.%}
+; key = Ikz, L=17429, Upavi -> upavi
+82013 old <div n="p">— Mit {#Upavi#}
+82013 new <div n="p">— Mit {#upavi#}
+; key = dar, L=49037 a -> A 
+242549 old <div n="p">— Mit {#a#}
+242549 new <div n="p">— Mit {#A#}
+; key = nI, L=60495  avA -> anvA
+300139 old <div n="p">— Mit {#a#}{#/vA#}
+300139 new <div n="p">— Mit {#anvA#}
+; key = diS, L=50420 Ati -> ati
+249749 old <div n="p">— Mit {#Ati#}
+249749 new <div n="p">— Mit {#ati#}
+; ADi -> aDi
+249753 old <div n="p">— Mit {#ADi#} {%überweisen%} <ls>ṚV.10,93,15.</ls>
+249753 new <div n="p">— Mit {#aDi#} {%überweisen%} <ls>ṚV.10,93,15.</ls>
+; Anu -> anu
+249754 old <div n="p">— Mit {#Anu#}
+249754 new <div n="p">— Mit {#anu#}

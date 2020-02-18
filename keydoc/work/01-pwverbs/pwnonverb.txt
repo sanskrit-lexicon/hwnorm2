@@ -1,0 +1,81 @@
+; pwnonverb.txt
+; 02-14-2020
+; The first word on each line is a headword which has been verifed to
+; be a NON-VERB.  The rest of the line gives other information.
+ArdrI   Adv. mit kar -> ArdrIkf
+puras  adv.  used with DA
+pfTak  adv. with BU
+miTyA  adv. with BU
+varzAlI adv. with kar, BU, as
+valayI adv. with kar, BU   valayIkf, valayIBU in mw
+vaSa  m.  with various verbs
+vaSI adv. with kar, BU   mw vaSIkf, vaSIBU
+vahanI adv. with kar  mw vahanIkf
+vahnisAt adv. with kar mw vahnisAtkf
+vAcika Adj. 
+vAjI adv. with kar mw vAjIkf
+vAmanI adv. with kar, BU 
+vAmI adv. with kar.  mw vAmIkf
+vAyasI adv. with kar. mw vAyasIkfta
+virajI adv. with kar. mw virajIkf, virajIBU
+viraTI adv. with kar, BU viraTIkf, viraTIBU
+viralaviralI adv. with kar.  mw has viralIkf  
+viralI adv. with kar. mw viralIkf
+virasI adv. with kar, BU  mw virasIkf, virasIBU
+virAwsu m. not a verb
+virAvin adj. not a verb
+viruta  n. not a verb
+virudDa adj. not a verb
+virUQa participle
+vilakzI adv. with kar. mw vilakzIkf
+vilagna adj. not a verb
+vilaNGita adj. not a verb
+vilambita adj. not a verb
+vilasita adj. not a verb
+vilAtar  noun  not a verb
+viliKas Gen. Infin. not a verb
+vilipta adj. not a verb
+vilAtavya participle not a verb
+viluWita adj. not a verb
+viletar N.ag. not a verb
+viletavya participle not a verb
+vilokita adj. not a verb
+vivarRamaRI adv. with kar vivarRamaRIkfta
+vivaSI adv. with kar, mw vivaSIkf
+vivAha m. not a verb
+vivikta adj. not a verb
+viviktI adv. with kar. mw viviktIkfta
+vivfta adj. not a verb
+vivftta adj. not a verb
+vivfhas gen. infin. not a verb
+viSadI  adv. with kar. mw viSadIkf
+viSAlika not a verb
+viSIrRa not a verb
+viSezaRI adv. with kar mw viSezaRIkf
+viSokI adv. with kar. mw viSokIkf
+viSoQa not a verb
+viSrAnta adj. not a verb
+viSrI adv. with kar. viSrIkf
+viSruta adj. not a verb
+viSvasta adj. not a verb
+vizaRRa not a verb
+vizamI adv. with kar. mw vizamIkf, vizamIBU
+vizaya not a verb
+vizayI adv. with kar, BU mw vizayIkf, vizayIBU
+vizita not a verb
+vizWAsAt adv. with as. 
+visaMvAda not a verb
+vyAhita not a verb
+vyuta not a verb
+vyuzi not a verb
+vyuzwa adj. not a verb
+vyUQa participle not a verb
+vyUhI adv. with kar. mw vyUhIkf
+vyfdDa not a verb
+vyemAna not a verb
+zaqaSra adj. not a verb
+zaqguRI adv. with kar mw zaqguRIkf
+zaRmuKa adj. not a verb
+sma particle not a verb
+hum interjection with kar. not a verb . mw
+jyok adv with kf.  MW jyok  and jyokkf
