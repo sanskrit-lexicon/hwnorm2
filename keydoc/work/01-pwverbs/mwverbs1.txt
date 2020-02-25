@@ -729,7 +729,6 @@ annIya:8558.1:verb:P:
 anyatkf:8651:preverb::anyat+kf
 anyaTaya:8656:verb:0P:
 anyaTAkf:8660:preverb::anya+TA+kf
-anvaYc:8730:preverb:P:anu+aYc
 anvaYj:8733:preverb::anu+aYj
 anvat:8733.1:preverb:P:anu+at
 anvatisic:8734:preverb::anu+ati+sic
@@ -1054,7 +1053,7 @@ aBiji:11390:preverb::aBi+ji
 aBijuz:11406:preverb::aBi+juz
 aBijfmB:11408:preverb::aBi+jfmB
 aBijYA:11409:preverb::aBi+jYA
-aBijYa:11413.2:verb:P:
+aBijYa:11415.01:verb:P:
 aBijval:11427:preverb::aBi+jval
 aBitaMs:11429:preverb::aBi+taMs
 aBitaq:11430:preverb::aBi+taq
@@ -2334,6 +2333,7 @@ iK:28635&29713.1:verb:1P,1P:
 iNK:28637&29714.1:verb:1P,1P:
 iNg:28638:verb:1P,1Ā:
 iw:28677:verb:1P:
+in:28830:verb::
 ind:28845:verb:1P:
 indraya:29202:verb:Ā:
 inD:29258:verb:7Ā:
@@ -3130,6 +3130,7 @@ urarIkf:37237:preverb::urarI+kf
 urasya:37278:verb:P:
 urIkf:37293:preverb::urI+kf
 uruzya:37396:verb:P:
+urj:37403:verb::
 urd:37406:verb:0:
 urv:37410:verb:0:
 ul:37434:verb:0P:
@@ -3213,6 +3214,8 @@ odanIya:40691:verb:P:
 opadru:40698:preverb:P:opa+dru
 omkArIya:40706:verb:P:
 olaRq:40721:verb:1,8,10P:
+olaj:40722:verb::
+olj:40723:verb::
 OrvAya:41236:verb:Ā:
 OzaDIkf:41299:preverb::OzaDI+kf
 kaMs:41369:verb:2Ā:
@@ -3282,6 +3285,7 @@ karakAsAra:44390:verb:P:
 karIkf:44392:preverb::karI+kf
 karalAya:44472.1:verb:Ā:
 karuRAya:44592:verb:PĀ:
+kark:44620:verb::
 karj:44777:verb:1P:
 karR:44778:verb:10P:
 karRapUrIkf:44878:preverb::karRa+pUrI+kf
@@ -3377,6 +3381,7 @@ kuR:51782:verb:6P,10P:
 kuRw:51822:verb:0:
 kuRW:51824:verb:1P,10:
 kuRq:51842:verb:1P,1Ā,10:
+kut:51978:verb::
 kuts:52017:verb:10P,10Ā,1P,4P:
 kutsIBU:52025:preverb::kutsI+BU
 kuT:52041:verb:4P:
@@ -3705,6 +3710,7 @@ gomata:67351:verb::
 gomatya:67358:verb:PĀ:
 gomaya:67380:verb:P:
 gomayAya:67381:verb::
+gozwa:67683:verb::
 gozWa:67709:verb:Ā:
 goDAya:67846:verb:P:
 gopaya:67940:verb:PĀ:
@@ -4012,9 +4018,13 @@ qamp:81347:verb:10Ā:
 qamb:81348:verb:10:
 qamB:81357:verb:10Ā:
 qip:81417:verb:10Ā,4,6,10P:
-qimp:81417.1:verb:10Ā,4,6,10P:
+qimp:81417.1&81421:verb:10Ā,4,6,10P:
+qim:81418:verb::
+qimb:81421.1:verb::
 qimB:81428:verb:0:
 qI:81442:verb:1,4Ā:
+qval:81478:verb::
+QuRQ:81504:verb::
 QOk:81523:verb:1Ā:
 taMs:81566:verb:1P,1Ā,10:
 tak:81570:verb:2,1:
@@ -4381,6 +4391,7 @@ DI:101254&101318:verb:3Ā,4Ā:
 Diya:101255:verb:P:
 DiyAya:101264:verb:Ā:
 DIkz:101320:verb:1Ā:
+DIr:101328.1:verb::
 DIraya:101364:verb:P:
 DIrIkf:101365:preverb::DIrI+kf
 Du:101371:verb:0:
@@ -6859,6 +6870,7 @@ mamb:157977:verb:1P:
 may:157984:verb:1Ā:
 mayUrIBU:158110:preverb:P:mayUrI+BU
 marUBU:158291:preverb:P:marU+BU
+mark:158406:verb::
 marc:158461:verb:10P:
 marj:158462:verb:1,6P:
 martyIBU:158498:preverb:P:martyI+BU
@@ -7071,6 +7083,7 @@ yez:172319:verb:1P,1Ā:
 yogAya:172656:verb:Ā:
 yogIya:172714:verb:Ā:
 yOw:172935:verb:1P:
+yOq:172935.1:verb::
 raMh:173028:verb:1P,1Ā,10P:
 rak:173043:verb:10P:
 rakz:173050:verb:1P,1Ā:
@@ -7156,6 +7169,7 @@ riB:178103:verb:1P,1Ā:
 reB:178103.1:verb:1P,1Ā:
 reBAya:178112:verb:P:
 rimP:178117:verb:6P:
+rimb:178119:verb::
 riya:178120:verb:P:
 riS:178131:verb:6P:
 riz:178139:verb:1,4P:
@@ -7277,6 +7291,7 @@ luW:182907&182908:verb:1P,1Ā,10P,6P:
 luq:182922:verb:1P,6P:
 luRw:182926:verb:1P,10P:
 luRW:182935:verb:0:
+luRq:182948:verb::
 lunT:182955:verb:1P:
 lup:182956:verb:6P,6Ā,4P,4Ā:
 luB:183010:verb:6P,4P:
@@ -8421,6 +8436,7 @@ Sulb:219883:verb:10P:
 Sulv:219883.1:verb:10P:
 Suz:219943&220027:verb:4P,6P:
 Suzka:220012:verb::
+SU:220057:verb::
 SUnyIkf:220130:preverb:Ā:SUnyI+kf
 SUnyIBU:220131:preverb:P:SUnyI+BU
 SUdrIBU:220257:preverb:P:SUdrI+BU
@@ -8489,6 +8505,7 @@ SrI:222857:verb:9P,9Ā:
 SrIkaRWakaRWIya:222882:verb:P:
 SrIKaRqatamAlapattra:222949:verb:P:
 Sru:223393:verb:5P,5Ā:
+Srek:223689:verb::
 SroR:223801&224184.1:verb:1P,1P:
 SrotriyasAtkf:223895:preverb:P:Srotriya+sAt+kf
 SlakzRaya:223983:verb:P:
@@ -9654,6 +9671,7 @@ sAkzIBU:241061:preverb:P:sAkzI+BU
 sAgarAya:241165:verb:Ā:
 sAcIkf:241332:preverb:P:sAcI+kf
 sAw:241357:verb:10P:
+sAt:241374:verb::
 sAtmIBU:241425:preverb:P:sAtmI+BU
 sAD:241500:verb:1P,1Ā,4,5:
 sADanIkf:241582:preverb:P:sADanI+kf
@@ -9678,6 +9696,7 @@ siMhavyAGrAmizIkf:243906.5:preverb::siMha+vyAGrAmizI+kf
 siMhAya:243973:verb:Ā:
 siMhIkf:243995:preverb:P:siMhI+kf
 siMhIBU:243996:preverb:P:siMhI+BU
+sik:244005:verb::
 sic:244032:verb:6P,6Ā:
 siw:244057:verb:1P:
 sitapuzpAya:244150:verb:Ā:
@@ -9709,6 +9728,7 @@ sudinAya:246646:verb:Ā:
 suDAdrava:246920:verb:P:
 suDaya:247004:verb:P:
 suDIkf:247006:preverb:P:suDI+kf
+sund:247217:verb::
 suPalIkf:247857:preverb:P:su+PalI+kf
 suBagaya:248012:verb:P:
 suB:248170:verb:9,6P,1:
@@ -9934,8 +9954,10 @@ svask:259490:verb:0:
 svAgatIkf:259592:preverb:P:svAgatI+kf
 svASliz:259762:preverb:P:su+A+Sliz
 svid:259802:verb:1Ā,1P:
+svUrC:259867:verb::
 svf:259868:verb:1P:
 svF:260011:verb:0:
+svek:260012:verb::
 haMsa:260193:verb:P:
 haMsAya:260202:verb:Ā:
 hakkaya:260214:verb:P:
@@ -10003,6 +10025,7 @@ hez:264415:verb:1Ā:
 hezAya:264417:verb:Ā:
 hoq:264470:verb:1Ā:
 hoQa:264479:verb:Ā:
+hOq:264639:verb::
 hnu:264643:verb:2Ā:
 hmal:264650:verb:1P:
 hrag:264662:verb:1P:
