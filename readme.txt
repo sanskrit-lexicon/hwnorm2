@@ -1,4 +1,8 @@
 
+keydoc/distincthws
+ This needs to be redone only when new headwords appear in some digitizations.
+ 
+
 sh redo.sh M
   (M = cologne or xampp)
  sh redo_one_all.sh    # creates documents, and normalizations

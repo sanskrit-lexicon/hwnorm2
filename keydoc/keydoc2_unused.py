@@ -291,8 +291,8 @@ def write(fileout,recs):
 
 if __name__=="__main__": 
  dictlo = sys.argv[1]
- filein = sys.argv[2] #  extract_keys.txt
- fileout = sys.argv[3] # 
+ filein = sys.argv[2] #  keydoc_merge.txt
+ fileout = sys.argv[3] # keydoc.txt
  recs = init_hwdoc(filein)
  recsout = extract_keys_c4(recs)
  write(fileout,recsout)

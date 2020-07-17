@@ -5,6 +5,7 @@ temp*
 # dev (development) versions
 test*
 upload*
+unused*
 *.pyc
 __pycache__
 # computed data

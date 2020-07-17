@@ -2,14 +2,12 @@ dict=$1
 which=$2    # xampp or cologne
 cd keydoc
 dir="data/$dict"
-keydoc="$dir/keydoc.txt"
 keydocinput="$dir/keydoc_input.txt"
 if [ ! -f "$keydocinput" ]
  then
   echo "redo_sqlite_one fails as $keydocinput not found"
   exit 1
 fi
-#python keydoc_input.py $keydoc $keydocinput  # move to redo_final_one.sh
 cp keydoc.sql $dir
 cd $dir  # descend so keydoc.sql works
 sqlite="keydoc.sqlite"

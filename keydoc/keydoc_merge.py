@@ -4,7 +4,8 @@
 from __future__ import print_function
 import sys, re,codecs
 import os
-from hwnorm1c import normalize_key
+#from hwnorm1c import normalize_key
+
 class HWDoc(object):
  def __init__(self,line):
   line = line.rstrip('\r\n')
@@ -23,6 +24,7 @@ class HWDoc(object):
    self.docptrs = []
   else:
    self.docptrs = re.split(r'[,:]',parts[1])
+  self.dup = False 
 
  def __repr__(self):
   x = ','.join(self.dochws)
@@ -47,18 +49,17 @@ def init_hwdoc(filein):
    d[hw].append(rec)
  return recs,d
 
-dictlist = re.split(r' +','acc ap90 ben   bhs bop bur cae ' \
- + 'ccs gra gst ieg inm  krm mci md mw mw72 ' \
- + 'pe pgn pui    pw pwg sch shs skd ' \
- + 'snp stc vcp vei wil  yat ap pd')
-# dictlist = re.split(r' +','ap90 mw')
 
 def dicts_containing_hw(drecs):
+ """ For any pointer, hw,  in any dictionary,
+  d[hw] contains a list of ALL dictionaries having hw as a pointer.
+ """
  d = {}
  for dictlo in dictlist:
   recs = drecs[dictlo]
   for rec in recs:
-   ptrs = rec.dochws + rec.docptrs
+   #ptrs = rec.dochws + rec.docptrs  07/12/2020
+   ptrs = rec.docptrs
    for hw in ptrs:
     if hw not in d:
      d[hw] = [dictlo]
@@ -66,7 +67,7 @@ def dicts_containing_hw(drecs):
      d[hw].append(dictlo)
  return d
 
-def otherptrs(dictlo,ptrs,hw2dict,dd):
+def unused_otherptrs(dictlo,ptrs,hw2dict,dd):
  ans = []
  for hw in ptrs:
   dicts_for_hw = hw2dict[hw]
@@ -82,6 +83,30 @@ def otherptrs(dictlo,ptrs,hw2dict,dd):
        ans.append(hw1)
  return ans
 
+def otherptrs(dictlo,ptrs,hw2dict,dd,dbgword=None):
+ ans = []
+ dbg = (dbgword in ptrs) 
+ dbgans = []
+ for hw in ptrs:
+  dicts_for_hw = hw2dict[hw]
+  for dictlo1 in dicts_for_hw:
+   if dictlo1 == dictlo:
+    continue
+   recs1 = dd[dictlo1][hw]
+   for rec1 in recs1:
+    #ptrs1 = rec1.dochws + rec1.docptrs 07/12
+    ptrs1 = [] + rec1.docptrs
+    for hw1 in ptrs1:
+     if hw1 not in ptrs:
+      if hw1 not in ans:
+       ans.append(hw1)
+       dbgans.append((dictlo1,hw,hw1))
+ #dbg = True
+ if dbg and dbgans != []:
+  for dictlo1,hw,hw1 in dbgans:
+   print('otherptrs dbg:',dictlo,hw,dictlo1,hw1)
+ return ans
+
 def merge(drecs,dd):
  hw2dict = dicts_containing_hw(drecs)
  for dictlo in dictlist:
@@ -90,13 +115,14 @@ def merge(drecs,dd):
   for rec in recs:
    dochws = rec.dochws
    docptrs = rec.docptrs
-   ptrs = dochws + [] # new list
+   #ptrs = dochws + [] # new list
+   ptrs = []   # 07/12
    for ptr in docptrs:
     if ptr not in ptrs:
      ptrs.append(ptr)
     else:
      print('warning: duplicate %s %s' %(dictlo,rec))
-   ptrs1 = otherptrs(dictlo,ptrs,hw2dict,dd)
+   ptrs1 = otherptrs(dictlo,ptrs,hw2dict,dd,dbgword=None) # 'mahendra')
    new_docptrs = docptrs + []  # a new list
    for ptr in ptrs1:
     if ptr not in new_docptrs:
@@ -108,9 +134,52 @@ def merge(drecs,dd):
     exit(1)
    rec.docptrs = new_docptrs
 
+def mergerecs(recs,dbg=False):
+ oldarr = ['.'.join(r.docptrs) for r in recs]
+ old = ' + '.join(oldarr)
+ newrec = recs[0]
+ for rec in recs[1:]:
+  rec.dup = True
+  for hw in rec.dochws:
+   if hw not in newrec.dochws:
+    newrec.dochws.append(hw)
+  for hw in rec.docptrs:
+   if hw not in newrec.docptrs:
+    newrec.docptrs.append(hw)
+ if dbg: # dbg
+  new = '.'.join(newrec.docptrs)
+  print('mergerecs old:',old)
+  print('          new:',new)
+
+def check(recs,dbg=False):
+ """ check if any two docptrs have common members
+ """
+ #dbg=True
+ d = {}
+ ndup = 0
+ dupnorms = []
+ for rec in recs:
+  if rec.dup:
+   continue
+  for norm in rec.docptrs:
+   if norm in d:
+    if dbg: print('check:',norm,'in two documents')
+    d[norm].append(rec)
+    ndup = ndup + 1
+    dupnorms.append(norm)
+   else:
+    d[norm] = [rec]
+ print('check: %s records have common pointer'%ndup)
+ for norm in dupnorms:
+  mergerecs(d[norm],dbg)
+ if ndup != 0:
+  check(recs)
+
 def write(fileout,recs):
  with codecs.open(fileout,"w","utf-8") as f:
   for rec in recs:
+   if rec.dup:
+    continue
    doc_str = ','.join(rec.dochws)
    docptrs = rec.docptrs
    #if set(rec.dochws) == set(docptrs):
@@ -122,11 +191,18 @@ def write(fileout,recs):
    f.write(out + '\n')
  print(len(recs),"records written to",fileout)
 
+dictlist = re.split(r' +','acc ap90 ben   bhs bop bur cae ' \
+ + 'ccs gra gst ieg inm  krm mci md mw mw72 ' \
+ + 'pe pgn pui    pw pwg sch shs skd ' \
+ + 'snp stc vcp vei wil  yat ap pd')
+# dictlist = re.split(r' +','ap90 mw')
+
 if __name__=="__main__": 
  drecs = {}
  dd = {}
+ #glob = sys.argv[1]
  for dictlo in dictlist:
-  filein = "data/%s/keydoc_norm.txt"%dictlo
+  filein = "data/%s/keydoc1x_norm1.txt"%dictlo
   if not os.path.exists(filein):
    print('keydoc_merge skipping %s: %s not found' %(dictlo,filein))
    continue
@@ -135,6 +211,8 @@ if __name__=="__main__":
  merge(drecs,dd)
  for dictlo in dictlist:
   recs = drecs[dictlo]
+  print('checking %s for merging'%dictlo)
+  check(recs)
   fileout = "data/%s/keydoc_merge.txt" %dictlo
   write(fileout,recs)
 
