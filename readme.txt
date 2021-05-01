@@ -1,10 +1,18 @@
 
-keydoc/distincthws
- This needs to be redone only when new headwords appear in some digitizations.
- 
+keydoc/distincthws/redo.sh
+ This needs to be redone only when new headwords appear in some digitizations
+ cd keydoc/distincthws
+ sh redo.sh
+   sh redo_all_hws.sh
+     #for each dictionary $dict listed,
+     #create keydoc/distincthws/data/${dict}_hws.txt 
+   sh redo_mw_multi.sh
+   sh redo_all_hwextras.sh
 
+
+redo.sh (in top level of hwnorm2)
 sh redo.sh M
-  (M = cologne or xampp)
+  (M = Machine = cologne or xampp)
  sh redo_one_all.sh    # creates documents, and normalizations
  sh redo_merge.sh      # merges all the normalizations
  sh redo_final_all.sh  # revises documents

@@ -3750,8 +3750,8 @@ ASIH
 ASI
 ASIrvvAdaH
 ASIvizaH
-ASruH
-ASru
+ASuH
+ASu
 ASugaH
 ASupatrI
 ASuvrIhiH
@@ -21360,7 +21360,7 @@ pUrttaM
 pUrttaH
 pUrttiH
 pUrvva
-pUrbbaH
+pUrvvaH
 pUrvvagaNgA
 pUrvvajaH
 pUrvvajAH

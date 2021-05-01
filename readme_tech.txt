@@ -1,8 +1,86 @@
-redo_one_all.sh  
- for each dictionary $in the list of dictionaries,
-  redo_one.sh $dict
-   cd keydoc
+dictlist.txt  list of dictionary codes used in iterations. (05-01-2021)
+  This file is in hwnorm2 (top level of repository).
+  
+keydoc/distincthws/redo.sh
+ cd keydoc/distincthws
+ sh redo_all_hws.sh
+  # for each $dict in $dictlist
+   sh redo_one_hw.sh $dict
+    $digfile = ../../../csl-orig/v02/$dict/$dict.txt
+    $hwfile = data/$dict_hws.txt
+    python hws.py $dict $digfile $hwfile
+    # Note first parm ($dict) is not currently used.(05-01-2021)
+    # Example python hws.py mw ../../../csl-orig/v02/mw/mw.txt temp_mw_hws.txt
+ # data/xxx_multi.txt
+   The term 'keydoc' is intended to imply that each document for a
+   dictionary may be specified by a set of headword spellings.
+   In xxx.txt, distinct records have distinct L-numbers. Each record
+   also has a 'k1' headword spelling.  The default documents are
+   indexed by distinct values of 'k1'.
+   When there is an xxx_multi.txt file for xxx, some documents are
+   the union of 2 or more default documents.
+   Note: the term 'xxx_multi' indicates that this file contains documents
+     which are defined by multiple headwords.
+   A line of xxx_multi.txt is a list of values (comma-delimited): e.g. X,Y,Z
+   It should be true:
+    a. values on a line are in xxx_hws.txt (e.g., that
+       X is a k1 value in xxx,txt, and also Y and Z.
+    b. values on a line are distinct (e.g., X and Z are different)
+    c. values in two lines are distinct. (e.g., X does not appear in two lines)
+ # data/mw_multi.txt
+   The HxB, HxC markup of mw.txt is used to compute mw_multi.txt.
+   sh redo_mw_multi.sh
+   # python mw_multi.py mw ../../../csl-orig/v02/mw/mw.txt data/mw_multi.txt
+ # Other dictionaries with multi files.
+ # these additional multi files are generated along with hwextra files by:
+ sh redo_all_hwextras.sh
+  #for each dictionary in dictlist:
+   sh redo_one_hwextra.sh $dict
+  # digdir="../../../csl-orig/v02/${dict}"
+  # infile="$digdir/${dict}_hwextra.txt"
+  # outfile="data/${dict}_hwextra.txt"
+  # hwfile="data/${dict}_hws.txt"
+  # multifile="data/${dict}_multi.txt"
+  python hw_extra.py $dict $hwfile $infile $outfile $multifile
+  # recreates both $outfile and $multifile
+  # Note: This is skipped for $dict==mw.
+  # Example: python hw_extra.py acc data/acc_hws.txt  ../../../csl-orig/v02/acc/acc_hwextra.txt data/acc_hwextra.txt data/acc_multi.txt
+  # Idea of hw_extra.py.  Suppose k1 is an alternate headword from
+    csl-orig/v02/xxx/xxx_hwextra.txt; let k1P be its 'parent'
+    Two possibilities:
+     a. k1 is ALSO a headword in xxx_hws.txt:
+      k1,k1P is written to xxx_multi.txt
+      k1 k1P is written to local xxx_hwextra.txt COMMENTED OUT
+     b. k1 is NOT a headword in xxx_hws.txt (This is usually true)
+      k1 k1P is written to local_xxx_hwextra.txt
+  
+  # counts of multi files
+  wc -l data/*_multi.txt
+  7831 data/mw_multi.txt
+  1083 data/acc_multi.txt
+    30 data/ap90_multi.txt
+    24 data/skd_multi.txt
+   219 data/vcp_multi.txt
+  9187 total
+ # counts of hwextra files
+ wc -l data/*_hwextra.txt
+ 1592 data/acc_hwextra.txt
+  437 data/ap90_hwextra.txt
+    1 data/bur_hwextra.txt
+    1 data/cae_hwextra.txt
+  335 data/skd_hwextra.txt
+ 1764 data/vcp_hwextra.txt
+ 4130 total
+ # NOTE:  There is currently no provision for 'manual' additions to
+  xxx_multi.txt. 
+ # This ends the discussion of keydoc/distincthws/redo.sh
  
+-----------------------------------------------------------------------
+Scripts in hwnorm2. We assume that keydoc/distincthws/redo.sh is up to date.
+
+redo_one_all.sh  
+ for each dictionary $dict in dictlist.txt:
+  redo_one.sh $dict
    $digfile = ../../csl-orig/v02/$dict/$dict.txt 
    $keydoc1 = data/$dict/keydoc1.txt
    $keyx = ../../csl-orig/v02/$dict/$dict_hwextra.txt

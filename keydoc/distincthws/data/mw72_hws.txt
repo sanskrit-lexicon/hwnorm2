@@ -702,7 +702,7 @@ atipU
 atipf
 atiprakit
 atipracyu
-atipraRAS
+atipraRaS
 atipraRI
 atipraRud
 atipramARA
@@ -3546,7 +3546,7 @@ apitf
 apitfka
 apitrya
 apidah
-apidUB
+apidfB
 apido
 apiDA
 apiDAna

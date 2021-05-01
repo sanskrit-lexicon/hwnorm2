@@ -2489,7 +2489,6 @@ kfSASva
 kfzi
 kfzwi
 kfzRa
-nAmakaraRam
 kfzRakalpa
 kfzRagiri
 kfzRatIrTam
@@ -4856,6 +4855,7 @@ nABAgArizwa
 nABAgA
 nABi
 nABigupta
+nAmakaraRam
 nAmAkarzaRikA
 nAyaka
 nAyaki
