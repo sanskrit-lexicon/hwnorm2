@@ -1,4 +1,4 @@
-_one_all.sh  
+redo_one_all.sh  
  for each dictionary $in the list of dictionaries,
   redo_one.sh $dict
    cd keydoc

@@ -8,8 +8,10 @@ sh redo.sh M
  sh redo_one_all.sh    # creates documents, and normalizations
  sh redo_merge.sh      # merges all the normalizations
  sh redo_final_all.sh  # revises documents
- sh redo_sqlite_all.sh M # prepares keydoc.sqlite files, moves to web/sqlite
-
+ #redo_sqlite_all.sh was used in prior versions. 
+ #sh redo_sqlite_all.sh M # prepares keydoc.sqlite files, moves to web/sqlite
+ # redo_glob1.sh used as of 
+ sh redo_glob1.sh     # 
 
 sh redo_one_all.sh
   creates data/xxx/keydoc_norm.txt for all dictionaries xxx 
