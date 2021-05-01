@@ -13,8 +13,6 @@ echo "redo_glob1: construct $sqlite"
 python make_glob1_sqlite.py $glob1 $sqlite
 # uncertain about this 'permission' step
 chmod 0755 $sqlite
-# move sqlite up to hwnorm2
-mv $sqlite ../
 # done!
 #cp keydoc_glob1.sql $dir/
 #cd $dir  # descend so keydoc.sql works
