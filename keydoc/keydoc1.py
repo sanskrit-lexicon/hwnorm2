@@ -51,6 +51,7 @@ def extract_multihws(filein,dictlo):
  return multihws
 
 def write(fileout,docs):
+ # docs is a list of HWDoc objects
  with codecs.open(fileout,"w","utf-8") as f:
   nmulti = 0
   for doc in docs:
@@ -89,100 +90,6 @@ def insert_multihws(hwrecs,multihws):
  docs = [hwrec for hwrec in hwrecs if hwrec.used]
  return docs
 
-def check_disjoint(docs):
- d = {}
- for doc in docs:
-  # doc is a list of hws
-  for hw in doc:
-   if hw in d:
-    print('non-disjoint:',d[hw],doc)
-  for hw in doc:
-   d[hw] = doc
-
-def unused_mergerecs_helper(recs,dbg=False):
- oldarr = [(','.join(r.dochws) + '%s'%r.used) for r in recs]
- old = ' + '.join(oldarr)
- newrec = recs[0]
- for rec in recs[1:]:
-  if not rec.used:
-   # example in acc
-   # advEtAnanda,advayAnanda   and advayAnanda,advEtAnanda
-   continue
-  rec.used = False
-  if hwchk in rec.dochws:
-   print('mergerecs_helper: dropped rec',rec.dochws)
-  for hw in rec.dochws:
-   if hw not in newrec.dochws:
-    newrec.dochws.append(hw)
-  #for hw in rec.normptrs:
-  # if hw not in newrec.normptrs:
-  #  newrec.normptrs.append(hw)
- if dbg: # dbg
-  new = ','.join(newrec.dochws)
-  print('mergerecs old:',old)
-  print('          new:',new)
-
-def unused_mergerecs(recs,dbg=False):
- """ check if any two dochws have common members
- """
- d = {}
- ndup = 0
- duphws = []
- duprecs = []
- for rec in recs:
-  for hw in rec.dochws:
-   if hw in d:
-    if dbg: print('check:',hw,'in two documents')
-    d[hw].append(rec)
-    ndup = ndup + 1
-    duphws.append(hw)
-   else:
-    d[hw] = [rec]
- print('check: %s records have common headwords'%ndup)
- duprecs = []
- for hw in duphws:
-  for rec in d[hw]:
-   if rec not in duprecs:
-    duprecs.append(rec)
- print(len(duprecs),"count of duprecs")
- mrecs = []
- for irec,rec in enumerate(duprecs):
-  if not rec.used:
-   continue
-  hws = [hw for hw in rec.dochws]
-  while True:
-   nhws = len(hws)
-   duprecs1= duprecs[irec+1:]
-   for rec1 in duprecs1:
-    common = [] # hws in rec1.dochws and in hws
-    new = []    # hws in rec1.dowhws but not in hws
-    if not rec.used:
-     continue
-    for hw in rec1.dochws:
-     if hw in hws:  # rec1 intersects
-      common.append(hw)
-     else:
-      new.append(hw)
-    if common == rec1.dochws:
-     # mark rec1 as not used -- it adds nothing to hws
-     rec1.used = False
-     if hwchk in rec1.dochws:print('mergerecs dropped 1',rec1.dochws)
-     continue
-    if common == []:
-     # no commonality between rec1.dochws and hws
-     continue
-    # new must be non-empty, as well as common
-    # Update hws
-    hws = hws + new
-    # We have used up rec1
-    rec1.used = False
-    if hwchk in rec1.dochws:print('mergerecs dropped 1',rec1.dochws)
-   if len(hws) == nhws:
-    # nothing found in this iteration of duprecs1 loop.
-    break  # break while True 
-   # update rec.dochws
-   rec.dochws = hws
-
 class MultiWrapper(object):
  def __init__(self,obj):
   self.obj = obj
@@ -195,7 +102,7 @@ def multisimplify(arrs):
    Let S denote the set of all elements.  Let there be an equivalence 
    relation on S; for two elements 'a' and 'b' of S, write a ~ b if the two
    elements are equivalent.
-   This routine then returns the the partition of S into equivalence classes.
+   This routine then returns the partition of S into equivalence classes.
  """
  emptyset = set()
  barrs = [MultiWrapper(arr) for arr in arrs]
@@ -228,6 +135,9 @@ nAmaliNgAnuSAsana,aBiDAnatantra
 advEtAnanda,advayAnanda
 advayAnanda,advEtAnanda
 """
+ print(text)
+ print('computing...')
+ 
  lines = text.splitlines()
  multihws = []
  for line in lines:

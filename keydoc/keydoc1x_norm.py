@@ -70,8 +70,9 @@ def init_normrecs(filein):
  return d
 
 def mergerecs(recs,dbg=False):
- oldarr = [r.normstr() for r in recs]
- old = ' + '.join(oldarr)
+ if dbg:
+  oldarr = [r.normstr() for r in recs]
+  old = ' + '.join(oldarr)
  newrec = recs[0]
  for rec in recs[1:]:
   rec.dup = True
@@ -88,6 +89,7 @@ def mergerecs(recs,dbg=False):
 
 def check(recs,dbg=False):
  """ check if any two normptrs have common members
+     Recursive
  """
  #dbg=True
  d = {}

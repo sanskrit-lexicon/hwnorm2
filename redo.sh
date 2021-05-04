@@ -11,7 +11,7 @@ else
 fi
  sh redo_one_all.sh    # creates documents, and normalizations
  sh redo_merge.sh      # merges all the normalizations
- sh redo_final_all.sh  # revises documents
+ sh redo_final_all.sh  # revises documents with ptrs, makes inverted index
  # 7/14/2020.  We don't need these individual keydoc.sqlite files.
  #sh redo_sqlite_all.sh $which # prepares keydoc.sqlite files, moves to web/sqlite
  # sh redo_glob.sh  This not currently needed (02-06-2020)

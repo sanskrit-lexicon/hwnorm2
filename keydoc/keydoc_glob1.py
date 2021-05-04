@@ -16,10 +16,6 @@ class HWDoc(object):
   #
   self.dochws = re.split(r'[,:]',parts[0])
   if len(parts) == 1:
-   #a = []
-   #for x in self.dochws:
-   # a.append(x)
-   #self.docptrs = a
    self.docptrs = []
   else:
    self.docptrs = re.split(r'[,:]',parts[1])
@@ -51,11 +47,6 @@ def init_hwdoc(filein,d,dictlo):
    d[hw].append(rec)
 
 
-dictlist = re.split(r' +','acc ap90 ben   bhs bop bur cae ' \
- + 'ccs gra gst ieg inm  krm mci md mw mw72 ' \
- + 'pe pgn pui    pw pwg sch shs skd ' \
- + 'snp stc vcp vei wil  yat ap pd')
-# dictlist = re.split(r' +','ap90 mw')
 
 def write(fileout,d):
  with codecs.open(fileout,"w","utf-8") as f:
@@ -76,8 +67,15 @@ def write(fileout,d):
    f.write(out + '\n')
  print(len(keys),"records written to",fileout)
 
-if __name__=="__main__": 
- fileout = sys.argv[1]
+def init_dictlist(filein):
+ with codecs.open(filein,"r","utf-8") as f:
+  recs = [x.rstrip() for x in f]
+ return recs
+ 
+if __name__=="__main__":
+ filein = sys.argv[1]  # dictlist.txt
+ fileout = sys.argv[2]
+ dictlist = init_dictlist(filein)
  d = {}
  for dictlo in dictlist:
   filein = "data/%s/keydoc_input.txt"%dictlo

@@ -17,10 +17,6 @@ class HWDoc(object):
   #
   self.dochws = re.split(r'[,:]',parts[0])
   if len(parts) == 1:
-   #a = []
-   #for x in self.dochws:
-   # a.append(x)
-   #self.docptrs = a
    self.docptrs = []
   else:
    self.docptrs = re.split(r'[,:]',parts[1])
@@ -28,7 +24,6 @@ class HWDoc(object):
 
  def __repr__(self):
   x = ','.join(self.dochws)
-  #s = self.status + '\t'
   s = ''
   if self.docptrs == []:
    return s + x
@@ -42,19 +37,20 @@ def init_hwdoc(filein):
  print(len(recs),"read from",filein)
  d = {}
  for rec in recs:
-  ptrs = rec.dochws + rec.docptrs
+  #ptrs = rec.dochws + rec.docptrs # 05-02-2021
+  ptrs = rec.docptrs
   for hw in ptrs:
    if hw not in d:
     d[hw] = []
    d[hw].append(rec)
  return recs,d
 
-
 def dicts_containing_hw(drecs):
  """ For any pointer, hw,  in any dictionary,
   d[hw] contains a list of ALL dictionaries having hw as a pointer.
  """
  d = {}
+ dictlist = drecs.keys()
  for dictlo in dictlist:
   recs = drecs[dictlo]
   for rec in recs:
@@ -63,25 +59,10 @@ def dicts_containing_hw(drecs):
    for hw in ptrs:
     if hw not in d:
      d[hw] = [dictlo]
-    else:
+    elif dictlo not in d[hw]: # 05-02-2021
+     #else:
      d[hw].append(dictlo)
  return d
-
-def unused_otherptrs(dictlo,ptrs,hw2dict,dd):
- ans = []
- for hw in ptrs:
-  dicts_for_hw = hw2dict[hw]
-  for dictlo1 in dicts_for_hw:
-   if dictlo1 == dictlo:
-    continue
-   recs1 = dd[dictlo1][hw]
-   for rec1 in recs1:
-    ptrs1 = rec1.dochws + rec1.docptrs
-    for hw1 in ptrs1:
-     if hw1 not in ptrs:
-      if hw1 not in ans:
-       ans.append(hw1)
- return ans
 
 def otherptrs(dictlo,ptrs,hw2dict,dd,dbgword=None):
  ans = []
@@ -95,7 +76,8 @@ def otherptrs(dictlo,ptrs,hw2dict,dd,dbgword=None):
    recs1 = dd[dictlo1][hw]
    for rec1 in recs1:
     #ptrs1 = rec1.dochws + rec1.docptrs 07/12
-    ptrs1 = [] + rec1.docptrs
+    #ptrs1 = [] + rec1.docptrs # 05-02-2021
+    ptrs1 = rec1.docptrs 
     for hw1 in ptrs1:
      if hw1 not in ptrs:
       if hw1 not in ans:
@@ -109,11 +91,12 @@ def otherptrs(dictlo,ptrs,hw2dict,dd,dbgword=None):
 
 def merge(drecs,dd):
  hw2dict = dicts_containing_hw(drecs)
+ dictlist = drecs.keys()
  for dictlo in dictlist:
   recs = drecs[dictlo]
   #recs = recs[0:11]
   for rec in recs:
-   dochws = rec.dochws
+   #dochws = rec.dochws # 05-02-2021
    docptrs = rec.docptrs
    #ptrs = dochws + [] # new list
    ptrs = []   # 07/12
@@ -135,8 +118,9 @@ def merge(drecs,dd):
    rec.docptrs = new_docptrs
 
 def mergerecs(recs,dbg=False):
- oldarr = ['.'.join(r.docptrs) for r in recs]
- old = ' + '.join(oldarr)
+ if dbg:
+  oldarr = ['.'.join(r.docptrs) for r in recs]
+  old = ' + '.join(oldarr)
  newrec = recs[0]
  for rec in recs[1:]:
   rec.dup = True
@@ -191,16 +175,15 @@ def write(fileout,recs):
    f.write(out + '\n')
  print(len(recs),"records written to",fileout)
 
-dictlist = re.split(r' +','acc ap90 ben   bhs bop bur cae ' \
- + 'ccs gra gst ieg inm  krm mci md mw mw72 ' \
- + 'pe pgn pui    pw pwg sch shs skd ' \
- + 'snp stc vcp vei wil  yat ap pd')
-# dictlist = re.split(r' +','ap90 mw')
-
-if __name__=="__main__": 
+def init_dictlist(filein):
+ with codecs.open(filein,"r","utf-8") as f:
+  recs = [x.rstrip() for x in f]
+ return recs
+if __name__=="__main__":
+ filein = sys.argv[1]  # dictlist.txt
+ dictlist = init_dictlist(filein)
  drecs = {}
  dd = {}
- #glob = sys.argv[1]
  for dictlo in dictlist:
   filein = "data/%s/keydoc1x_norm1.txt"%dictlo
   if not os.path.exists(filein):

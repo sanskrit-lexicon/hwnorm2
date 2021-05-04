@@ -59,15 +59,6 @@ def write(fileout,recs):
    f.write(out + '\n')
  print(n,"records written to",fileout)
 
-def init_normrecs(filein):
- with codecs.open(filein,"r","utf-8") as f:
-  d = {}
-  for line in f:
-   line = line.rstrip('\r\n')
-   (key,norm) = line.split('\t')
-   d[key] = norm
- return d
-
 def mergerecs(recs,dbg=False):
  oldarr = [r.normstr() for r in recs]
  old = ' + '.join(oldarr)
@@ -118,6 +109,7 @@ def init_multi(multidir):
  for path in paths:
   with codecs.open(path,"r","utf-8") as f:
    recs = [x.strip().split(',') for x in f if not x.startswith(';')]
+   print('multipath',path,len(recs))
    multihws = multihws + recs
  print(len(multihws),"multihw records read from",len(paths),"files")
  return multihws

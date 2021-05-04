@@ -1,5 +1,7 @@
 dictlist=`cat dictlist.txt`
 for dict in $dictlist
 do
- sh redo_one.sh $dictlo
+ cd keydoc   
+ sh redo_one.sh $dict
+ cd ../
 done

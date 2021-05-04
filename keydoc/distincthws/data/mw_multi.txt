@@ -136,8 +136,6 @@ aDaspada,aDaspadam
 aDomuKA,aDomuKa
 aDika,aDikam
 aDikarRa,aDikarRam
-aDideva,aDidevam
-aDidevatA,aDidevatam
 aDidEva,aDidEvam
 aDiBUta,aDiBUtam
 aDimAtra,aDimAtram
@@ -228,7 +226,7 @@ anustaraRI,anustaraRa
 anUkA,anUka
 anUQA,anUQa
 anUnA,anUna
-anfc,anfcam
+anfca,anfcam
 anovAhya,anovAhyam
 antAt,antAya,anta,antam,ante,antena
 antevAsi,antevAsin
@@ -655,6 +653,7 @@ AnilI,Anila
 AnIlI,AnIla
 AnUka,AnUkam
 Anftaka,Anftika
+AntarIkza,Antarikza
 AnDrI,AnDra
 ApI,Apa
 AptA,Apta
@@ -664,12 +663,14 @@ ApyAyin,ApyAyinI
 Abarha,Abarham
 AbADA,AbADa
 Abila,Abilam
+ABA,ABa
 ABIrI,ABIra
 AByantara,AByantaram
 AmizI,Amiza
 AmantraRA,AmantraRa
 AmuKa,AmuKam
 AmuktA,Amukta
+Amur,Amuri
 AmbazWyA,AmbazWya
 AmrapAlI,AmrapAla
 AmrAtakI,AmrAtaka
@@ -1099,6 +1100,7 @@ kadambaka,kadambikA
 kadalA,kadalI,kadala
 kadalaka,kadalikA
 kadalIgarBA,kadalIgarBa
+kadrU,kadru
 kanakA,kanaka
 kanakapraBA,kanakapraBa
 kanakastamBA,kanakastamBa
@@ -1677,6 +1679,7 @@ kravyAdA,kravyAda
 krIqA,krIqa
 krIqanaka,krIqanikA
 krIqanakatA,krIqanakatayA
+krILi,krIli
 kruYcA,kruYcO,kruYca
 kroDA,kroDI,kroDa
 kroDavaSA,kroDavaSa
@@ -2121,6 +2124,7 @@ cakrAhvA,cakrAhva
 cakreSvarI,cakreSvara
 cakrakA,cakraka,cakrikA,cakrika
 cakralA,cakrala
+cakri,cakrin
 cakzuzyA,cakzuzya
 caNkramA,caNkrama
 caNgerikA,caNgerika
@@ -3281,6 +3285,7 @@ navIyas,navIyasA
 navyA,navya
 navyas,navyasA,navyase
 nazwarUpA,nazwarUpI,nazwarUpa
+nAs,nas
 nasA,nasa
 nastA,nasta
 nasyA,nasya
@@ -4826,7 +4831,6 @@ mallikAkzI,mallikAkza
 mallArI,mallAra
 mazyaBAvAt,mazyaBAva
 mastaka,mastakam
-masI,masi
 masikA,masika
 masurA,masura
 masUravidalA,masUravidala
@@ -5992,6 +5996,7 @@ vinodAya,vinoda
 vindatvat,vindatvatI
 vinDyA,vinDya
 vinDyavAsin,vinDyavAsinI
+vep,vip
 vipA,vipa
 vipatkarI,vipatkara
 viparivartanI,viparivartana

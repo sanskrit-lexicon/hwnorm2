@@ -81,6 +81,9 @@ def rxX_rX(a):
 def aM(a):
  return re.sub(r'aM$','a',a)
 
+def am(a):
+ return re.sub(r'am$','a',a)
+
 def aH(a):
  return re.sub(r'aH$','a',a)
 
@@ -103,6 +106,7 @@ def normalize_key(a):
   ('rxx',rxx_rx),
   ('rxX',rxX_rX),
   ('aM',aM),
+  ('am',am), # 05-03-2021.  To accomodate ap convention for neuter.
   ('aH',aH),
   ('uH',uH),
   ('iH',iH),

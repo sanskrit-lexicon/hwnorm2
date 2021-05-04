@@ -809,7 +809,7 @@ dasrO
 devacikitsakO
 SOdDodani
 daSabala
-vfdDa
+budDa
 SAkya
 taTAgata
 sugata
@@ -2136,7 +2136,7 @@ koyazwi
 baka
 bakowa
 balAkA
-visakaRWikA
+visrakaRWikA
 AtAyin
 cilla
 madgu
@@ -2744,6 +2744,7 @@ DIra
 DImat
 labDavarRa
 vipaScit
+vfdDa
 prAptarUpa
 aBirUpa
 sUri
@@ -4174,7 +4175,7 @@ jAnu
 azWIvat
 prasftA
 jaNGA
-Guwaka
+GuRwaka
 gulPa
 Uru
 sakTi
@@ -4846,6 +4847,7 @@ anDa
 aneqamUka
 eqa
 baDira
+kaqa
 mUka
 kallamUka
 avAkSruti
@@ -6455,7 +6457,7 @@ gajapawaharava
 garjita
 graha
 sUryABiniveza
-BUtABiniveza
+BUtABiniveSe
 avyakta
 paramAtman
 spazwetara

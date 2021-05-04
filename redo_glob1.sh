@@ -5,8 +5,9 @@ if [ ! -d "$dir" ]
   mkdir $dir
 fi
 glob1="$dir/keydoc_glob1.txt"
+dictlist='../dictlist.txt'
 echo "redo_glob1: Construct $glob1"
-python keydoc_glob1.py $glob1
+python keydoc_glob1.py $dictlist $glob1
 # 05-01-2021.  Create sqlite file with Python
 sqlite="keydoc_glob1.sqlite"
 echo "redo_glob1: construct $sqlite"

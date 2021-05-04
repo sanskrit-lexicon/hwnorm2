@@ -842,7 +842,10 @@ anunAma
 anuniScara
 anunIyatA
 anunIyate
-anunnaqa,anunnata,anunnamana,anunnahanatA
+anunnaqa
+anunnata
+anunnamana
+anunnahanatA
 anupakruzwa
 anupagamanAman
 anupaGAtya
