@@ -11,7 +11,7 @@ fi
 
 ptrs="distinctfiles/${dict}_keydoc_ptrs.txt"
 final="$dir/keydoc_final.txt"
-python keydoc_finalptrs.py $merge $ptrs $final
+python3 keydoc_finalptrs.py $merge $ptrs $final
 # keydoc_input.py constructs an inverted index from $final
 keydocinput="$dir/keydoc_input.txt"
-python keydoc_input.py $final $keydocinput
+python3 keydoc_input.py $final $keydocinput

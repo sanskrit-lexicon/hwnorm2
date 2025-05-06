@@ -1,3 +1,3 @@
 cd keydoc
-python keydoc_merge.py '../dictlist.txt'
+python3 keydoc_merge.py '../dictlist.txt'
 
