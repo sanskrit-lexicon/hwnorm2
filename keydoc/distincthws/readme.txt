@@ -1,3 +1,4 @@
+hwnorm2/keydoc/distincthws/readme.txt
 
 To redo everything:
  sh redo.sh

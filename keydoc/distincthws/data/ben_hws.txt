@@ -1673,6 +1673,7 @@ Artava
 Artta
 ArttatA
 Artti
+Arti
 Ardra
 Ardraya
 ArDika
@@ -5611,7 +5612,6 @@ tantra
 tantraka
 tantravAya
 tantri
-tantrita
 tantrin
 tantrI
 tand
@@ -7192,7 +7192,6 @@ nABa
 nABAga
 nABAgi
 nABi
-nABI
 nABika
 nABya
 nAma

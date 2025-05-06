@@ -2170,6 +2170,7 @@ apANga
 apANgaka
 apANgadarSana
 apAc
+apAYc
 apAcya
 apAcIna
 apAwava
@@ -3291,7 +3292,7 @@ arTaprApti
 arTaBfta
 arTaBeda
 arTalABa
-arTalabDa
+arTalubDa
 arTaleSa
 arTaloBa
 arTavat
@@ -3909,6 +3910,7 @@ avAkza
 avAgra
 avANmuKa
 avAc
+avAYc
 avAcIna
 avAcya
 avAcyatA
@@ -4877,6 +4879,7 @@ ahnAya
 ahnIka
 ahvalA
 A
+AN
 Akampana
 Akampita
 Akampra
@@ -6903,6 +6906,7 @@ udagra
 udagradat
 udaNmuKa
 udac
+udaYc
 udaja
 udaYcana
 udaYcita
@@ -7765,7 +7769,7 @@ uzwraDUsarapucCikA
 uzwrapAdikA
 uzwrayAna
 uzwraSiroDara
-uRa
+uzRa
 uzRaka
 uzRatA
 uzRanadI
@@ -17228,6 +17232,7 @@ tiryyagyAna
 tiryyagyoni
 tiryyagyonyanvaya
 tiryyac
+tiryyaYc
 tila
 tilaka
 tilakawa
@@ -20232,7 +20237,7 @@ DAnyasaMgraha
 DAnyasAra
 DAnyAka
 DAnyAcala
-DAnyAmna
+DAnyAmla
 DAnyAri
 DAnyArTa
 DAnyAsTi
@@ -20671,7 +20676,7 @@ nadIvega
 nadIvelA
 nadIzRa
 nadIsarja
-nadeyo
+nadeyI
 nadDa
 nadDrI
 nanandf
@@ -24188,7 +24193,7 @@ pAriyAtra
 pAriyAnika
 pArirakzaka
 pAriSa
-pAriSIla
+pAriSezya
 pArizada
 pArizadya
 pArihArika
@@ -25846,7 +25851,7 @@ praRa
 praRaKa
 praRata
 praRatavat
-praRatASara
+praRatASiras
 praRati
 praRadana
 praRadita
@@ -26379,6 +26384,7 @@ pratyaNga
 pratyaNgirAH
 pratyaNmuKa
 pratyac
+pratyaYc
 pratyadana
 pratyanantara
 pratyanIka
@@ -27184,7 +27190,7 @@ prasnutastanI
 prasnuzA
 praspandana
 prasPuwa
-prasPuwita
+prasPurita
 prasPowana
 prasmfti
 prasyanda
@@ -27310,6 +27316,7 @@ prANgaRa
 prANnyAya
 prANmuKa
 prAc
+prAYc
 prAcAra
 prAcAryya
 prAcikA
@@ -30120,6 +30127,7 @@ manyAkA
 manyu
 manyumat
 manvantara
+manvAna
 mapazwa
 mapuzwaka
 maBr
@@ -31933,6 +31941,7 @@ yatna
 yatnatas
 yatnavat
 yatya
+yatra
 yatr
 yaTA
 yaTAMSatas
@@ -37297,8 +37306,10 @@ vizvaksenapriyA
 vizvaggata
 vizvaggati
 vizvac
+vizvaYc
 vizvaRana
 vizvadryac
+vizvadryaYc
 vizvARa
 visaMjYa
 visaMyukta
@@ -38062,7 +38073,7 @@ vEdyakriyA
 vEdyanATa
 vEdyabanDu
 vEdyamAtf
-vEdyasihI
+vEdyasiMhI
 vEdyuta
 vEDa
 vEDarmmya
@@ -38191,7 +38202,7 @@ vola
 volaka
 vollAha
 vohitTa
-vEzaw
+vOzaw
 vyaMSaka
 vyaMSuka
 vyaMsaka
@@ -40343,7 +40354,7 @@ SORqira
 SOdDodani
 SOdra
 SODikA
-Sona
+SOna
 SOnaka
 SOnika
 SOBa
@@ -40877,7 +40888,7 @@ zah
 zahasAnu
 zAw
 zAwkOSika
-zAqva
+zAqava
 zAqguRya
 zARmAtura
 zARmAsika
@@ -42504,6 +42515,7 @@ samyagukta
 samyagvarttamAna
 samyagvftti
 samyac
+samyaYc
 samAj
 say
 sayatna
@@ -44188,7 +44200,7 @@ suhfdvAkya
 sU
 sUka
 sUkta
-sukti
+sUkti
 sUkzaRa
 sUkzma
 sUkzmataRqula
@@ -46118,6 +46130,7 @@ havana
 havanAyus
 havanIya
 havA
+havAva
 haviHSeza
 havitrI
 haviraSana
@@ -46682,6 +46695,7 @@ hrIyantraRA
 hrIvera
 hrIvela
 hruq
+hrUq
 hrep
 hrepaRa
 hrepayat

@@ -1,3 +1,5 @@
+# revised 20250505 ejf
+# see readme_20250505.txt for current procedure redo.
 
 keydoc/distincthws/redo.sh
  This needs to be redone only when new headwords appear in some digitizations
@@ -6,8 +8,8 @@ keydoc/distincthws/redo.sh
    sh redo_all_hws.sh
      #for each dictionary $dict listed,
      #create keydoc/distincthws/data/${dict}_hws.txt 
-   sh redo_mw_multi.sh
-   sh redo_all_hwextras.sh
+   # sh redo_mw_multi.sh
+   # sh redo_all_hwextras.sh
 
 
 redo.sh (in top level of hwnorm2)
@@ -20,6 +22,8 @@ sh redo.sh M
  #sh redo_sqlite_all.sh M # prepares keydoc.sqlite files, moves to web/sqlite
  # redo_glob1.sh used as of 
  sh redo_glob1.sh     # 
+
+# details of the scripts run by redo.sh (in top level of hwnorm2)
 
 sh redo_one_all.sh
   creates data/xxx/keydoc_norm.txt for all dictionaries xxx 

@@ -1,0 +1,32 @@
+readme_05-05-2025.txt
+creating hwnorm2/keydoc/keydoc_glob1.sqlite  (not tracked by git)
+
+* 1. Add lrv to hwnorm2/dictlist.txt
+* 2. recreate ALL keydoc/distincthws/data/xxx_hws.txt for all xxx in dictlist
+# uses dictlist.txt
+cd keydoc/distincthws/
+sh redo_all_hws.sh
+* 3a. save the multi files, but don't use them further
+cd keydoc/distincthws/data/
+ls *multi*
+acc_multi.txt  ap90_multi.txt  mw_multi.txt  skd_multi.txt  vcp_multi.txt
+
+mkdir savemulti
+mv *multi.txt savemulti/ 
+* 3b. save the hwextra files, but don't use them further
+cd keydoc/distincthws/data/
+ls *hwextra*
+acc_hwextra.txt   bur_hwextra.txt  skd_hwextra.txt
+ap90_hwextra.txt  cae_hwextra.txt  vcp_hwextra.txt
+
+mkdir savehwextra
+mv *hwextra.txt savehwextra/
+
+* 4. recreate keydoc/keydoc_glob1.sqlite
+in git bash, navigate to hwnorm2
+sh redo.sh xampp  (for local installation under xampp)
+OR
+sh redo.sh cologne (for cologne installation)
+
+
+

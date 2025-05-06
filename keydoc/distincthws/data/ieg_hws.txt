@@ -656,7 +656,7 @@ OdraNgika
 OkapiRqa
 Olikara
 Oparika
-OpaSatiko
+OpaSatika
 OpAyanika
 OpAyika
 Oreus
@@ -1040,7 +1040,7 @@ boDi
 boDicakra
 boDisattva
 boDyaNga
-bo
+boqiyA
 bommalAwa
 boppa
 bowa
@@ -3917,7 +3917,7 @@ pAdukapawwa
 pAdukApawwI
 paduvAra
 pAga
-pAG
+pAGqI
 pagod
 pAhuqa
 pAik
@@ -7150,7 +7150,7 @@ iqEyarvari
 ilEvARiyappAwwam
 iqatorE
 ilakkulam
-ilampuYjE
+iLampuYjE
 ilAYjanEpperu
 ilvari
 inavari

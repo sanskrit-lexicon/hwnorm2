@@ -1018,7 +1018,6 @@ bfhatva
 bflhaRa
 budbudA
 buDa
-uDa
 budDa
 budDaGoza
 budDi
@@ -1279,7 +1278,7 @@ daMBodBava
 dami
 daMSa
 dAmodara
-dAmo
+dAmozRIza
 dAnadAri
 dAnam
 dAnava
@@ -1327,7 +1326,7 @@ daSamAlika
 daSamuKa
 daSAnana
 dASarAja
-dASrAjYa
+dASarAjYa
 daSaraTa
 daSArha
 dASArhI
@@ -2032,9 +2031,9 @@ hemavarRa
 herambakam
 hiqimba
 hiqimbA
-hidimbavaDaparva
-hidimbavana
-hidimbI
+hiqimbavaDaparva
+hiqimbavana
+hiqimbI
 hIhi
 hIka
 himavAn
@@ -2442,6 +2441,7 @@ kAmyA
 kAmyakavana
 kan
 kARaBUti
+kaRAda
 kanaka
 kanakaDvaja
 kanakAkza
@@ -3859,7 +3859,7 @@ pAriyAtra
 parjanya
 parRAda
 parRASA
-arRaSAlA
+parRaSAlA
 parRaya
 parokza
 paropakArI
@@ -4034,7 +4034,6 @@ prakASa
 prAkkosala
 prAkfta
 prakfti
-ralamba
 pralamba
 pralaya
 pramada
@@ -4558,7 +4557,7 @@ SESirAyaRa
 SESireya
 SESirinDra
 SEvacApa
-SAivAla
+SEvAla
 Saka
 SAka
 SAkadvIpa
@@ -4689,10 +4688,10 @@ saMvaha
 saMvaraRa
 saMvarta
 saMvartaka
-samvartavApI
+saMvartavApI
 saMvedya
 saMvftta
-samvftti
+saMvftti
 saMyama
 saMyamana
 sAMyamani
@@ -5265,7 +5264,6 @@ sudaRqika
 sudarSana
 sudarSanA
 sudAsa
-sudAs
 sudattA
 SudDa
 sudezRA

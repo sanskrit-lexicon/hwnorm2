@@ -14976,6 +14976,7 @@ pratizeDAtmaka
 pratizeDApavAda
 pratizWa
 pratizWAna
+pratizWi
 pratizWita
 pratisaMhAra
 pratisaMDAna
@@ -27640,6 +27641,7 @@ sTAvira
 sTAsaka
 sTAsnu
 sTita
+sTiti
 sTitimant
 sTira
 sTiracitta

@@ -1031,6 +1031,7 @@ aBakta
 aBakza
 aBaya
 aBava
+aBAva
 aBArkzam
 aBAvayat
 aBAzaRa
@@ -2633,6 +2634,7 @@ ilvakA
 ilvala
 iLaspati
 iLaspada
+iLA
 iv
 iva
 ivas

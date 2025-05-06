@@ -1606,7 +1606,7 @@ jval
 Jawiti
 Jalla
 Wio
-QAnk
+QOk
 ta
 takz
 tajjIvana
@@ -3199,7 +3199,7 @@ mfq
 mfLIka
 mfta
 mftavat
-mftyO
+mftyu
 mfd
 mfdu
 mfnmaya
@@ -4385,7 +4385,6 @@ sAhAyya
 si
 siMha
 sic
-sie
 sidDa
 sidDi
 sidDimant

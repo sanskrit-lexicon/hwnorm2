@@ -214,7 +214,7 @@ agnicityA
 agnija
 agnijihvA
 agnijvAlA
-AMgnatretA
+agnitretA
 agnida
 agnidamanI
 agnidagDa
@@ -2826,7 +2826,7 @@ ardDika
 ardDin
 ardDendu
 ardDokta
-ardDoMruka
+ardDoruka
 arpaRa
 arpita
 arpitakara
@@ -2854,7 +2854,7 @@ arSasAna
 arSin
 arSoGna
 arSoroga
-arSoMrogayuta
+arSorogayuta
 arSorogin
 arSehita
 arsasa
@@ -4357,7 +4357,7 @@ AKanikavaka
 AKAta
 AKAna
 AKu
-AKukarRIM
+AKukarRI
 AKuga
 AKuGAta
 AKuparRikA
@@ -9069,7 +9069,7 @@ kAkaCada
 kAkacCarddi
 kAkajaMGA
 kAkajambu
-kAkakaRa
+kAkaRa
 kAkaRantikA
 kAkatA
 kAkatAlIya
@@ -9429,7 +9429,7 @@ kArottara
 kArkkaRa
 kArkkavAkava
 kArkaSya
-kArkoMka
+kArkIka
 kArRa
 kArRaCidraka
 kArRavezwakika
@@ -18260,7 +18260,6 @@ dilIpa
 dilIparAj
 dilIra
 div
-dib
 diva
 divan
 divasa
@@ -41841,7 +41840,7 @@ suvasantaka
 suvaha
 suvAsa
 suvAsas
-suvAsinIM
+suvAsinI
 suvikrama
 suvikrAnta
 suvicakzaRa

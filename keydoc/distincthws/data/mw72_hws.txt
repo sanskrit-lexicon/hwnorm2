@@ -17,7 +17,7 @@ aMs
 aMsa
 aMsala
 aMsya
-aMha
+aMh
 aMhati
 aMhas
 aMhiti
@@ -38,14 +38,14 @@ akapIvat
 akampita
 akampya
 akara
-akaraRA
+akaraRa
 akaraRi
 akaraRIya
-akaruRA
+akaruRa
 akarkaSa
-akarRA
+akarRa
 akarRya
-akarRADAra
+akarRaDAra
 akartana
 akartf
 akarman
@@ -72,7 +72,7 @@ akAmin
 akAya
 akAraRa
 akArin
-akArRAvezwakika
+akArRavezwakika
 akArya
 akArzRya
 akAla
@@ -146,7 +146,7 @@ akledya
 akz
 akza
 akzaka
-akzaRA
+akzaRa
 akzata
 akzatra
 akzan
@@ -170,7 +170,7 @@ akziva
 akzIka
 akzIva
 akzu
-akzuRA
+akzuRRa
 akzudra
 akzuD
 akzuDya
@@ -230,7 +230,7 @@ agira
 agirOkas
 agu
 ago
-aguRA
+aguRa
 agupta
 aguru
 agUQa
@@ -254,7 +254,7 @@ agriya
 agrIya
 agre
 agrya
-agraBaRA
+agraBaRa
 agraha
 agrAhin
 agrAhya
@@ -269,7 +269,7 @@ aGana
 aGarma
 aGAtin
 aGArin
-aGfRA
+aGfRa
 aGora
 aGoza
 aGos
@@ -307,7 +307,7 @@ aNga
 aNgaka
 aNgin
 aNgIya
-aNgaRA
+aNgaRa
 aNgati
 aNgada
 aNgava
@@ -358,7 +358,7 @@ acara
 acarama
 acala
 acAru
-acikkaRA
+acikkaRa
 acit
 acikitvas
 acitta
@@ -464,7 +464,7 @@ ajEqaka
 ajoza
 ajjukA
 ajJawA
-ajjala
+ajJala
 ajYa
 ajYakA
 ajYAta
@@ -699,14 +699,14 @@ atipA
 atipAdanicft
 atipitf
 atipU
-atipf
+atipF
 atiprakit
 atipracyu
 atipraRaS
 atipraRI
 atipraRud
-atipramARA
-atiprARAm
+atipramARa
+atiprARam
 atiprezita
 atibrahman
 atibrU
@@ -760,7 +760,7 @@ ativyADin
 ativyADya
 atiSakkarI
 atiSakra
-atiSaNka
+atiSaNk
 atiSaya
 atiSastra
 atiSAkvara
@@ -778,7 +778,7 @@ atiSreyasi
 atiSliz
 atiSva
 atizel
-atizkradvarI
+atizkadvarI
 atizWat
 atizWA
 atisanDA
@@ -799,14 +799,14 @@ atisarjana
 atisfjya
 atisfp
 atisena
-atisOparRA
+atisOparRa
 atistri
 atihastaya
 atihimam
 atI
 atIta
 atItvarI
-atIkzRA
+atIkzRa
 atIndriya
 atIreka
 atIva
@@ -918,7 +918,7 @@ adat
 adana
 adanIya
 adakza
-adakziRA
+adakziRa
 adagDa
 adaRqa
 adaRqya
@@ -1008,7 +1008,7 @@ adga
 adw
 adDA
 adDAti
-adDyAlohakarRA
+adDyAlohakarRa
 adButa
 adman
 admani
@@ -1066,7 +1066,7 @@ aDastAt
 aDastAddiS
 aDA
 aDAmArgava
-aDAraRAka
+aDAraRaka
 aDArmika
 aDArya
 aDi
@@ -1105,7 +1105,7 @@ aDigamanIya
 aDigartya
 aDigava
 aDigA
-aDiguRA
+aDiguRa
 aDigupta
 aDicaNkrama
 aDicar
@@ -1147,7 +1147,7 @@ aDipAMSula
 aDipuruza
 aDipU
 aDipUtaBftam
-aDipezaRA
+aDipezaRa
 aDiprajam
 aDiprazwiyuga
 aDibAD
@@ -1219,7 +1219,7 @@ aDiSri
 aDiSraya
 aDiSrayaRa
 aDiSrita
-aDizavaRA
+aDizavaRa
 aDizWA
 aDizWAtf
 aDizWAna
@@ -1268,8 +1268,8 @@ aDyaDIna
 aDyaya
 aDyayanIya
 aDyarDa
-aTyarbuda
-aTyavaso
+aDyarbuda
+aDyavaso
 aDyavasAna
 aDyavasAya
 aDyavasAyita
@@ -1307,7 +1307,7 @@ aDyAsita
 aDyAsin
 aDyAsIna
 aDyAsa
-aDyAharaRA
+aDyAharaRa
 aDyAharaRIya
 aDyAhfta
 aDyuzwa
@@ -1322,7 +1322,7 @@ aDyetavya
 aDyetf
 aDyezyamARa
 aDyeD
-aDyezaRA
+aDyezaRa
 aDri
 aDriyamARa
 aDruva
@@ -1385,7 +1385,7 @@ anaDyAya
 ananaNgamejaya
 ananujYAta
 ananuBAvaka
-ananuBAzaRA
+ananuBAzaRa
 ananuBUta
 ananumata
 ananuzaNgin
@@ -1407,7 +1407,7 @@ ananyAdfSa
 ananvaya
 ananvita
 anapa
-anapakaraRA
+anapakaraRa
 anapakarman
 anapakAra
 anapakArin
@@ -1432,7 +1432,7 @@ anapavyayat
 anapasara
 anapasaraRa
 anapaspfS
-anapasPura
+anapasPur
 anapahatapApman
 anapahfta
 anapAkaraRa
@@ -1478,7 +1478,7 @@ anaBraka
 anaBri
 anama
 anamasya
-anamitamyaca
+anamitampaca
 anamitra
 anamIva
 anambara
@@ -1513,7 +1513,7 @@ anavagraha
 anavaglAyat
 anavacCinna
 anavat
-anavatapna
+anavatapta
 anavadya
 anavadrARa
 anavaDarzya
@@ -2426,7 +2426,7 @@ anurudDa
 anuroDa
 anuroDaka
 anuruhA
-anurupa
+anurUpa
 anurevatI
 anulagna
 anulA
@@ -2554,6 +2554,7 @@ anuSAsitf
 anuSizwa
 anuSizwi
 anuSizya
+anuSiKa
 anuSivam
 anuSiSu
 anuSI
@@ -2574,7 +2575,7 @@ anuSoBin
 anuSru
 anuSrava
 anuSruta
-anuzaYja
+anuzaYj
 anuzak
 anuzakta
 anuzaNga
@@ -2625,7 +2626,7 @@ anusaYcaraRam
 anusaYcint
 anusaYjvar
 anusantan
-anusantf
+anusantF
 anusandah
 anusandiS
 anusandfS
@@ -2812,7 +2813,7 @@ antarAya
 antarita
 antarikza
 antarikzya
-anarupAtI
+antarupAtI
 antargam
 antargata
 antargA
@@ -3083,7 +3084,7 @@ apawu
 apaWa
 apaRqita
 apaRya
-apatakza
+apatakz
 apatantraka
 apatAnaka
 apatAnakin
@@ -3209,7 +3210,7 @@ apara
 aparAhRa
 aparetarA
 aparedyus
-aparakra
+aparakta
 aparati
 aparava
 aparaspara
@@ -3241,7 +3242,7 @@ aparicCanna
 aparicCinna
 aparicCeda
 aparijyAni
-apariRyana
+apariRayana
 apariRItA
 apariRAma
 apariRAmin
@@ -3255,7 +3256,7 @@ aparimlAna
 apariyARi
 aparilopa
 aparivartanIya
-apaMrivAdya
+aparivAdya
 aparivizwa
 aparivfta
 apariSeza
@@ -3269,7 +3270,7 @@ aparihvfta
 aparIkzita
 aparIta
 aparuza
-aparupa
+aparUpa
 aparokza
 aparokzaya
 aparoDa
@@ -3291,7 +3292,7 @@ apalAzikA
 apalAzin
 apalita
 apalup
-apalpUlanakfta
+apalyUlanakfta
 apavaktf
 apavAcana
 apavad
@@ -3313,6 +3314,7 @@ apavAsa
 apavikzata
 apaviGna
 apavitra
+apavidDa
 apaviza
 apavizRu
 apavIRa
@@ -3339,7 +3341,6 @@ apavartita
 apavftta
 apavftti
 apavyaD
-apavidDa
 apaveDa
 apavyaya
 apavyayat
@@ -3352,7 +3353,7 @@ apaSaNka
 apaSada
 apaSabda
 apaSama
-apaziras
+apaSiras
 apaSu
 apaSuc
 apaScAdaGvan
@@ -3390,10 +3391,9 @@ apaskamBa
 apaskara
 apaskAra
 apasKala
-apatama
 apastamBa
 apastamBinI
-apasnApta
+apasnAta
 apasnAna
 apaspati
 apaspfS
@@ -3437,7 +3437,7 @@ apahnuta
 apahnuti
 apahnuvAna
 apahnotf
-apahAsa
+apahrAsa
 apAk
 apAka
 apAkA
@@ -3463,7 +3463,7 @@ apAcya
 apAj
 apAYc
 apAwava
-apapAWya
+apAWya
 apARigrahaRa
 apARipAda
 apAtra
@@ -3471,7 +3471,7 @@ apAd
 apAdya
 apAdA
 apAdAna
-apAdABAj
+apAdAdiBAj
 apAdAntIya
 apADvan
 apAn
@@ -3498,7 +3498,7 @@ apAla
 apAlaNka
 apAlamba
 apAli
-apapAvf
+apAvf
 apAvfta
 apAvfti
 apAvft
@@ -3507,6 +3507,7 @@ apAvftta
 apAvftti
 apASyA
 apASraya
+apASri
 apASrita
 apAzwi
 apAzWa
@@ -3557,7 +3558,7 @@ apinadDa
 apinI
 apipad
 apipAsa
-apapipfc
+apipfc
 apiprARa
 apibadDa
 apiBAga
@@ -3571,6 +3572,7 @@ apiSas
 apiSuna
 apizwuta
 apisic
+apI
 apiyat
 apIta
 apIti
@@ -3635,7 +3637,6 @@ apekzin
 apekzya
 apej
 apendra
-apapeya
 apeSala
 apez
 apESuna
@@ -3668,7 +3669,7 @@ apya
 appa
 appati
 appadIkzita
-appita
+appitta
 apyac
 apyatyarj
 apyayana
@@ -3696,7 +3697,7 @@ apraKara
 apragama
 apragalBa
 apragIta
-apraRa
+apraguRa
 apragrAha
 apracaNkaSa
 apracura
@@ -3711,7 +3712,7 @@ aprajas
 aprajAta
 apraRIta
 apraRodya
-aprata
+aprat
 apratarkya
 apratApa
 aprati
@@ -3727,7 +3728,7 @@ apratidvandva
 apratiDura
 apratiDfzwa
 apratiDfzya
-apapratipakza
+apratipakza
 apratipaRya
 apratipatti
 apratipad
@@ -3798,7 +3799,7 @@ apramoda
 aprayatna
 aprayARi
 aprayApaRi
-apaprayAvam
+aprayAvam
 aprayucCat
 aprayuta
 aprayutvan
@@ -4225,7 +4226,7 @@ aBinIti
 aBinIyamAna
 aBinetavya
 aBinetf
-aBinila
+aBinIla
 aBinu
 aBinud
 aBinna
@@ -4241,7 +4242,7 @@ aBipatti
 aBipannam
 aBipadma
 aBipariglAna
-aBiparipru
+aBipariplu
 aBiparipluta
 aBiparizvaYj
 aBiparIta
@@ -4249,7 +4250,7 @@ aBipare
 aBiparye
 aBipA
 aBipIta
-aBipatva
+aBipitva
 aBipIq
 aBipIqita
 aBipuT
@@ -4259,7 +4260,7 @@ aBipUj
 aBipUjita
 aBipUjyamAna
 aBipUrvam
-aBipUR
+aBipfR
 aBipF
 aBipUraRa
 aBipyE
@@ -4293,7 +4294,7 @@ aBipratyave
 aBipratye
 aBipraTana
 aBipradakziRam
-aBiradiS
+aBipradiS
 aBipradfS
 aBipradF
 aBiprapac
@@ -4393,7 +4394,7 @@ aBimanyu
 aBimara
 aBimarda
 aBimarSana
-aBimati
+aBimAti
 aBimAtin
 aBimAya
 aBimihya
@@ -4674,7 +4675,7 @@ aBisaNKyeya
 aBisaNgam
 aBisaNgupta
 aBisaNgF
-aBisaNgah
+aBisaNgrah
 aBisac
 aBisaYcar
 aBisaYcArin
@@ -4798,7 +4799,7 @@ aBInD
 aBIdDa
 aBIpat
 aBIpatas
-aBipsita
+aBIpsita
 aBIpsin
 aBIma
 aBImAna
@@ -4886,7 +4887,6 @@ aByamin
 aByAnta
 aByamitra
 aByamitrIRa
-aBya
 aByari
 aByarkabimbam
 aByarc
@@ -4989,7 +4989,6 @@ aByAhita
 aByAnI
 aByAnft
 aByAp
-aBIpsita
 aByApat
 aByApAta
 aByApad
@@ -5578,7 +5577,7 @@ aroka
 aroga
 arogaRa
 arogin
-arocika
+arocaka
 arocakin
 arocamAna
 arocizRu
@@ -5945,7 +5944,7 @@ avagur
 avagoraRa
 avaguh
 avagUhana
-avagf
+avagF
 avagIrRa
 avagE
 avagIta
@@ -5965,7 +5964,7 @@ avaGAtin
 avaGuz
 avaGuzwa
 avaGozaRa
-avaGarR
+avaGUrR
 avaGUrRa
 avaGUrRana
 avaGUrRita
@@ -6441,6 +6440,7 @@ avasTita
 avasTiti
 avaspf
 avaspartf
+avasya
 avasyu
 avasraMsana
 avasvan
@@ -6816,7 +6816,7 @@ avyAyAma
 avyAyata
 avyAvartana
 avyAhata
-avyAhAtin
+avyAhArin
 avyAhita
 avyucCinna
 avyutpanna
@@ -7561,6 +7561,7 @@ Akfzwa
 Akfzwi
 Akfzya
 AkfzyamARa
+AkF
 Akarin
 AkIrRa
 Ake
@@ -7689,7 +7690,7 @@ AguraRa
 AgU
 AgUrtin
 Agurava
-Agf
+AgF
 AgE
 AgAtf
 AgAna
@@ -8061,6 +8062,7 @@ AdarSaka
 AdarSana
 AdarSita
 Adfzwi
+AdF
 Adardari
 AdIrya
 Adevaka
@@ -10322,7 +10324,7 @@ uddIpra
 uddfS
 uddarSana
 uddF
-udyut
+uddyut
 uddyota
 uddyotita
 uddrAva
@@ -10474,7 +10476,7 @@ udvoQukAma
 udvAcana
 udvAdana
 udvAna
-udvAzma
+udvAzpa
 udviGuz
 udvij
 udvigna
@@ -10601,7 +10603,7 @@ unmfSya
 unmedA
 upa
 upaka
-upaF
+upaf
 upakakza
 upakaRWam
 upakaTA
@@ -18077,6 +18079,7 @@ jakzi
 jakzivas
 jagDa
 jagDi
+jakza
 jakzma
 jagat
 jaganvas
@@ -18304,7 +18307,7 @@ jalAluka
 jalikA
 jaleyu
 jalelA
-jalAladInAhakavarasAha
+jalAluddInakabaraSAha
 jalAza
 jalp
 jalpa
@@ -18734,7 +18737,7 @@ jEvali
 jEvAtfka
 jEvi
 jEzRava
-jEhmaya
+jEhmya
 jEhva
 jEhvAkAta
 jEhvya
@@ -19769,7 +19772,7 @@ tizyaka
 tisf
 tisfkA
 tisrA
-wihan
+tihan
 tIk
 tIkzRa
 tIkzRaka
@@ -20453,7 +20456,7 @@ Takkiyaka
 Takriya
 Tarv
 Talyoraka
-Taq
+Tuq
 Toqana
 TutkAra
 TutTu
@@ -20548,7 +20551,7 @@ dadivas
 dadada
 dadari
 dadASvas
-dadUkzeRya
+dadfkzeRya
 dadfSAnapavi
 dadfSivas
 dadft
@@ -20836,7 +20839,7 @@ dAtteya
 dAtyUha
 dAtyUhaka
 dAtyOha
-dAdABAi
+dAdABAI
 dADika
 dADikra
 dADitTa
@@ -23031,7 +23034,6 @@ nicaNkuRa
 nicandra
 nicamana
 nicaya
-nicANkuRa
 nicAy
 nicAyya
 nici
@@ -23515,7 +23517,7 @@ nirAmAlu
 nirAmitra
 nirAmin
 nirAmiza
-nirAMya
+nirAya
 nirAyata
 nirAyAsa
 nirAyuDa
@@ -23821,7 +23823,7 @@ nirBinna
 nirBeda
 nirBedin
 nirBedya
-nirBIti
+nirBIta
 nirBuj
 nirBugna
 nirBuja
@@ -23833,8 +23835,9 @@ nirBfti
 nirBoga
 nirmakzika
 nirmaj
-nirmajja
+nirmajj
 nirmagna
+nirmajja
 nirmaRqUka
 nirmatsara
 nirmatsya
@@ -24692,7 +24695,7 @@ nIvAka
 nIvAra
 nIvAraka
 nIvi
-nIvfta
+nIvft
 nIvra
 nISAra
 nIzah
@@ -24829,7 +24832,7 @@ nErAsya
 nErukta
 nEruktika
 nErujya
-nEruhika
+nErUhika
 nErfta
 nErfti
 nErfteya
@@ -26581,7 +26584,7 @@ paryavasTA
 paryavasTAtf
 paryavasTita
 paryave
-paryavekza
+paryavekz
 paryaS
 paryaSru
 paryas
@@ -27731,6 +27734,7 @@ puzkaSa
 puzpalaka
 puzpasa
 puzpARanAqa
+puzyalaka
 pus
 pust
 pusta
@@ -27985,7 +27989,7 @@ pEtrya
 pEtta
 pEttika
 pEttala
-pEqva
+pEdva
 pEnAka
 pEppala
 pEppalAda
@@ -28111,7 +28115,7 @@ pOrastya
 pOrARa
 pOrARika
 pOrukutsa
-pOrumaqga
+pOrumadga
 pOrumahna
 pOrumIQa
 pOruSizwi
@@ -29184,7 +29188,7 @@ pratimuhus
 pratimohayat
 pratimuhUrtam
 pratimUrti
-pratimazikA
+pratimUzikA
 pratimokza
 pratimokzaRa
 pratiyat
@@ -30197,7 +30201,7 @@ prabAla
 prabAlaka
 prabAlika
 prabalI
-prabahnikA
+prabahlikA
 prabAD
 prabADaka
 prabADana
@@ -30754,7 +30758,7 @@ praveSya
 pravezwavya
 pravezwf
 praviSleza
-pravizaRa
+pravizaRRa
 pravizA
 pravistara
 pravI
@@ -30897,7 +30901,7 @@ praSuSruka
 praSocana
 praSoza
 praSozaRa
-praSrut
+praScut
 praScotat
 praSna
 praSnaya
@@ -31781,7 +31785,7 @@ proYCana
 proqqI
 proqqIna
 proqqIya
-prAQam
+proQam
 proRWa
 prota
 protaya
@@ -32184,6 +32188,7 @@ barbaraka
 barbura
 barsa
 barsva
+barh
 barha
 barhaRa
 barhas
@@ -33562,7 +33567,6 @@ BrAtra
 BrAtrIya
 BrAtrya
 BrAS
-BrAzw
 BrAzwreya
 BrAs
 BrI
@@ -33581,7 +33585,7 @@ Brej
 Brez
 Breza
 BrezaRa
-BOveya
+BrOveya
 Blakz
 BlAS
 BlAs
@@ -33642,6 +33646,7 @@ magava
 magasa
 magu
 magundI
+magna
 maGa
 maGnIprasTa
 maNk
@@ -33678,7 +33683,6 @@ maj
 majamudAra
 majiraka
 majj
-magna
 maNktf
 maNktvA
 majja
@@ -34086,6 +34090,7 @@ marunDa
 marula
 maruva
 maruvaka
+marUka
 maroli
 marka
 markaka
@@ -35023,6 +35028,7 @@ muC
 muj
 muYc
 muYcaka
+muYj
 muYja
 muYjaka
 muYjara
@@ -35639,14 +35645,13 @@ mrew
 mlakta
 mlakz
 mlAta
-mlilazwa
+mlizwa
 mluc
 mlukta
 mluYc
 mlup
 mlupta
 mleC
-mlizwa
 mlecCa
 mlecCana
 mlecCita
@@ -36144,7 +36149,7 @@ yuvA
 yuvAdatta
 yuvAma
 yuzwagrAma
-yusmad
+yuzmad
 yuzmadIya
 yuzmayat
 yuzmAka
@@ -36261,7 +36266,7 @@ yOziRya
 yOzmAka
 yOzmAkIRa
 ra
-rasu
+raMsu
 raMh
 raMha
 raMhaRa
@@ -37328,6 +37333,7 @@ laqqu
 laqvA
 laRq
 laRqa
+laRqra
 latA
 latikA
 latu
@@ -39257,6 +39263,7 @@ vikarzat
 vikfzwa
 vikfzya
 vikfzyamARa
+vikF
 vikiraRa
 vikirat
 vikIrRa
@@ -40692,7 +40699,7 @@ viropaRa
 viropita
 viroha
 virohaRa
-virukzaRa
+virUkzaRa
 virUkzita
 virUp
 virUpa
@@ -40958,7 +40965,6 @@ vive
 vyUta
 viven
 vivell
-vivodf
 vivrata
 vivraSc
 vivfScat
@@ -41366,7 +41372,7 @@ vihara
 viharza
 vihava
 vihavya
-viham
+vihas
 vihasat
 vihasana
 vihasita
@@ -42241,7 +42247,7 @@ vyavadA
 vyavadAya
 vyavadF
 vyavadIrRa
-vyavade
+vyavadE
 vyavadAta
 vyavadAyamAna
 vyavaDA
@@ -42870,7 +42876,7 @@ SaMyya
 SaMva
 SampA
 Samb
-SaMmba
+Samba
 Sambara
 Sambala
 Sambu
@@ -44284,7 +44290,7 @@ zAw
 zAwkOSika
 zAwpOruzika
 zAqava
-zANguRya
+zAqguRya
 zARmAtura
 zARmAsika
 zARmAsya
@@ -45605,7 +45611,7 @@ santfdya
 santfp
 santarpita
 santarpya
-santf
+santF
 santaraRa
 santarat
 santaramARa
@@ -46183,7 +46189,7 @@ samaBilazat
 samaBivad
 samaBivAdya
 samaBivaD
-samaBivAYc
+samaBivAYC
 samaBivIkz
 samaBivft
 samaBivfD
@@ -46344,6 +46350,7 @@ samAkfz
 samAkarzin
 samAkfzwa
 samAkfzya
+samAkF
 samAkIrRa
 samAkrand
 samAkram
@@ -46729,7 +46736,7 @@ samutkftya
 samutkfz
 samutkarza
 samutkfzya
-samutkf
+samutkF
 samutkIrRa
 samutkram
 samutkrama
@@ -46842,8 +46849,8 @@ samuddiS
 samuddiSya
 samuddizwa
 samuddeSa
-samuddf
-samudyut
+samuddF
+samuddyut
 samuddru
 samudDan
 samudData
@@ -47537,7 +47544,7 @@ samBal
 samBala
 samBava
 samBA
-sAmBARqaya
+samBARqaya
 samBARqya
 samBAvya
 samBAz
@@ -50603,7 +50610,6 @@ aRqadala
 atikrAnti
 ativipina
 aTarvavid
-adakziRa
 adreSya
 aDaHkriyA
 aDarakaRWa
@@ -50675,7 +50681,6 @@ apajvara
 apatuzAra
 apatuzAratA
 apaniDi
-aparakta
 aparaYj
 aparavaktrA
 aparuz

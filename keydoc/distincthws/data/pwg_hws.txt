@@ -1087,7 +1087,7 @@ aqqana
 aR
 aRaka
 aRakIya
-aRvya
+aRavya
 aRAla
 aRi
 aRiman
@@ -8344,7 +8344,7 @@ AnuSAsanika
 AnuSUka
 AnuSravika
 AnuSrAvika
-Anupak
+Anuzak
 AnuzaNgika
 AnuzaRqa
 AnuzUka
@@ -12080,7 +12080,7 @@ urUla
 urograha
 uroGAta
 uroja
-urovfhatI
+urobfhatI
 uroBUzaRa
 urja
 urjita
@@ -13670,6 +13670,14 @@ OzRiha
 OzRIka
 OzRya
 Ozmya
+akzArAlAvaRASin
+acirapraBA
+atrinetraprasatU
+adDaboDeya
+anurkAya
+antizumna
+alampawa
+udUha
 ka
 ka~yya
 kaMvUla
@@ -25561,6 +25569,8 @@ Cowin
 CoraRa
 ColaNga
 Cyu
+AkzAraRa
+AzAqI
 ja
 jaMs
 jaMh
@@ -36166,6 +36176,18 @@ DvAntArAti
 DvAntonmeza
 Dvat
 DvraR
+jyoti
+JanajJanA
+taraTa
+tarIpa
+tyaja
+darP
+dalapati
+duD
+durgAvatI
+durjanamalla
+devatAtman
+devAvfD
 na
 naMS
 naMSa
@@ -50281,6 +50303,8 @@ Pel
 Pela
 Pesala
 POlli
+pArayati
+pfzWabanDu
 ba
 baMh
 baMhiman
@@ -52338,7 +52362,7 @@ Bagadeva
 Bagadevata
 BagadEvata
 BaganandA
-BaganarAyaM
+BaganarAya
 BaganetraGna
 BaganetranipAtana
 Baganetrahan
@@ -62072,7 +62096,6 @@ alantama
 alapadma
 alapallava
 alabDaBUmika
-alampawa
 alaMprajanana
 alambam
 alamma
@@ -62676,7 +62699,6 @@ AnuyAtrika
 AnurUpya
 AnurohiRI
 AnuSrava
-Anuzak
 AnuzaNkika
 AnoBadra
 AntaHpurika
@@ -62881,7 +62903,6 @@ ASvasUkta
 ASvasUkti
 ASvinacihnita
 Az
-AzAqI
 AzAQapura
 AzkAraniDana
 AzwAdaMzwra
@@ -63541,7 +63562,6 @@ uruDA
 uruDizRya
 uruvalka
 uruvAsa
-urobfhatI
 uromaRqalin
 urvarita
 urvaSInAmamAlA
@@ -66255,7 +66275,6 @@ jyezWatarA
 jyezWayajYa
 jyezWavara
 jyezWAnujyezWatA
-jyoti
 jyotirgarga
 jyotirnirbanDa
 jyotirmantra
@@ -66279,7 +66298,6 @@ jvAlAmAlin
 JaMkArin
 JaMkfta
 JaRaJaRAy
-JanajJanA
 JarJarita
 JalaJalAy
 JiYJikA
@@ -66385,7 +66403,6 @@ tabArisARu
 tabirasARa
 tamaNga
 taraMgay
-taraTa
 tarIka
 taruRay
 taruz
@@ -66506,7 +66523,6 @@ tolikA
 toSala
 tozayitar
 tOlakecin
-tyaja
 tyAjana
 trayodaSavarjyasaptamI
 trayoviMSat
@@ -66615,11 +66631,9 @@ dayitAmaya
 dayyAMpAti
 darIman
 dardurAmra
-darP
 darBaka
 darBAvatI
 darSanavaraRIya
-dalapati
 dalayoga
 daSadfzwAntakaTA
 daSaDarmagata
@@ -66720,7 +66734,6 @@ duHKocCedya
 duHKopacarya
 duRQA
 duddoli
-duD
 duDrukzu
 dundumAy
 duPAra
@@ -66750,9 +66763,7 @@ durgamya
 durgavftti
 durgAkuRqa
 durgArAma
-durgAvatI
 durgAzwamI
-durjanamalla
 durjeya
 durnazwa
 durnirIkzaRa
@@ -66821,7 +66832,6 @@ devacCandasa
 devajaya
 devajAnIya
 devajUti
-devatAtman
 devatAyana
 devatAsvarUpavicAra
 devatIrTamaya
@@ -66850,7 +66860,6 @@ devasUkakzetra
 devasoma
 devAcArya
 devAnanda
-devAvfD
 devIdatta
 devIpurARIya
 devIBeqagiri
@@ -66943,8 +66952,6 @@ dvEliNgya
 dvEvacana
 dvEsaMDya
 dvyarDa
-Danda
-Dandeva
 Danarakzaka
 DanasaMpatti
 DanAQya
@@ -68387,6 +68394,9 @@ modoza
 mohanaprakfti
 mOGya
 mOlyABaraRa
+AgniveSI
+Alapti
+gaganaromantAyita
 ya
 yaka
 yakan
@@ -84024,6 +84034,9 @@ vrEheya
 vlag
 vlI
 vlekz
+lokAvartana
+vareRyaketu
+vavray
 Sa
 SaMya
 SaMyu
@@ -104729,7 +104742,6 @@ udavasAna
 udAmantraRa
 udAsArin
 uditAnuvAdin
-udUha
 udrAracUqaka
 udgrahaRikA
 uddeSin
@@ -105780,7 +105792,6 @@ varRapAWa
 varDitavya
 varmatI
 valika
-vavray
 vaSaMkfta
 vasizWakaSyapikA
 vasizWaSilA

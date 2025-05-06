@@ -13696,6 +13696,7 @@ duHsparSa
 duHspfSa
 duHsvapna
 duh
+duha
 duhitAmAtf
 duhitf
 dU
@@ -18678,6 +18679,7 @@ punaHsaMBava
 puMnapuMsaka
 puMnAga
 puMnAman
+punnAman
 pumaMs
 puMBAva
 pur

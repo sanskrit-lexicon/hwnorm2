@@ -7113,7 +7113,7 @@ Amalaka
 AmaSrAdDa
 AmArdava
 AmAla
-Amikzapayasya
+AmikzApayasya
 AmikzIya
 Amitra
 AmitraSocani
@@ -7346,7 +7346,7 @@ AvaleKana
 AvaSyaka
 AvasaTavAsin
 AvasaTasarasI
-AvasaTiya
+AvasaTIya
 AvasaTI
 Avasanaka
 AvAna
@@ -7416,6 +7416,7 @@ ASiKam
 ASiKAgram
 ASis
 ASIHpada
+ASIna
 ASIyas
 ASIrpada
 ASIrmant
@@ -7711,6 +7712,8 @@ ilAvfta
 ilAsutA
 ilAsura
 iva
+iz
+izavant
 izADAra
 izIka
 izIkAYji
@@ -8494,7 +8497,7 @@ upajYA
 upajvalana
 upatapana
 upatApana
-upatApant
+upatapant
 upatulA
 upatoraRam
 upatyakA
@@ -9189,7 +9192,7 @@ ekEkatra
 ekEkavant
 ekEkika
 ekotiBAva
-ekonapaYcASaDA
+ekonapaYcASadDA
 ekonaviMSatimuKa
 ekoru
 ekolmuka
@@ -9232,7 +9235,7 @@ elI
 evaMyukta
 evaMlakzaRa
 evaMvarRa
-evaMvAdiR
+evaMvAdin
 evaMvidus
 evaMvihita
 evaMvfttasamAcAra
@@ -9678,7 +9681,7 @@ kanDara
 kanya
 kanyAkubja
 kanyAgAra
-kanyadarSam
+kanyAdarSam
 kanyAdUzayitar
 kanyAmADava
 kapa
@@ -10325,7 +10328,7 @@ kAmapuz
 kAmaBuvana
 kAmaBrAnta
 kAmamiTyAcAra
-kAmarupin
+kAmarUpin
 kAmala
 kAmalatA
 kAmavant
@@ -11714,7 +11717,7 @@ kzmAy
 kzvid
 kzveqita
 kzveqitanAda
-kzveda
+kzveqa
 kzvelanA
 kzvelita
 KakKawa
@@ -13144,6 +13147,7 @@ cAturviMSaka
 cAturvedya
 cAturhotfka
 cAturhotrIyabrAhmaRa
+cAtuzpaTa
 catuHsvarya
 cAtUrAtrika
 cAndra
@@ -14889,7 +14893,7 @@ triviDadamaTavastukuSala
 trivila
 trivizwapa
 trivizwapasad
-trivizwiDatu
+trivizwiDAtu
 trivftprAya
 triveRa
 triveRu
@@ -14981,7 +14985,7 @@ dakzadviz
 dakzamaKamaTana
 dakziRa
 dakziRajAnvakta
-dakziRata
+dakziRataupacAra
 dakziRataHsad
 dakziRatonyAya
 dakziRadeSana
@@ -15565,6 +15569,8 @@ dfzwiharaRa
 dfzwIkaraRa
 dematI
 deyaloka
+deva
+devaka
 devakulika
 devakeSin
 devaKAta
@@ -15855,6 +15861,7 @@ dviparArDika
 dvipala
 dvipasaMpanna
 dvipANganA
+dvipAtra
 dvipAtrika
 dvipitar
 dvipI
@@ -15985,6 +15992,7 @@ Darimameya
 DareSa
 Darma
 DarmakAmArTasaMbanDa
+DarmakAya
 Darmacakzus
 DarmacAritA
 DarmatanUja
@@ -16040,6 +16048,7 @@ Davalasmfti
 DavalikA
 DavalIkf
 DavitrI
+DA
 DAwI
 DAtakIKaRqa
 DAtavIya
@@ -24199,6 +24208,7 @@ visrAvaRa
 visrAvin
 visvAdutA
 vihaMgikA
+vihaNgikA
 vihaMgI
 vihasita
 vihastatA
@@ -24871,7 +24881,7 @@ SArNgaDanus
 SArNgin
 SArdUla
 SArdUladAnava
-SAlate
+SAl
 SAlaka
 SAlanaka
 SAlaBaYjikA
@@ -28382,6 +28392,7 @@ cAmuRqarAja
 cArarAtri
 cAviga
 cAhaqa
+cittam
 cittaraNga
 citrakasidDi
 citrakArin
