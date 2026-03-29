@@ -18324,7 +18324,7 @@ ucCiNGana
 ucCitti
 ucCinna
 ucCiras
-ucCilIDra
+ucCilIMDra
 ucCizwa
 ucCizwaka
 ucCizwagaRapati
@@ -21829,7 +21829,7 @@ Urva
 Urua
 UrvarA
 UrvaSI
-UrvazwIva
+UrvazWIva
 UrvasTa
 UrvI
 Urvya
@@ -22111,7 +22111,7 @@ ftasad
 ftasadana
 ftasadanI
 ftasap
-ftazap
+ftasAp
 ftasAta
 ftasAman
 ftasena
@@ -147773,7 +147773,6 @@ tejovEdagDyaSIlavant
 trayaHSataSatArDa
 trinetrodBava
 trirAtrIRA
-triveRa
 trivyAma
 triHSreRi
 triHzamfdDa
@@ -148491,7 +148490,6 @@ asaMyamitAlakin
 asaMrUQa
 asaMvatsaradIkzita
 asaMhatyakArin
-asaMkO
 asaMNga
 asaMgfhItatva
 asaMjYikasattva

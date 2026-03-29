@@ -5511,6 +5511,8 @@ aviKaRqita
 avigaRita
 avigalita
 avigAna
+avigraha
+avighta
 aviGnatas
 avicakzaRa
 avicala
@@ -27850,7 +27852,6 @@ avahelanA
 avANmuKIna
 avikraya
 avigIta
-avigraha
 avicCeditva
 avinata
 avinItatA

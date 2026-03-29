@@ -80,7 +80,8 @@ aqqARaka
 AdeSakArin
 AdeSanEbanDika
 Adeya
-A
+AQa
+AQA
 aDaH
 AQaka
 ADAna
@@ -1102,7 +1103,7 @@ bfndAvana
 budDa
 budDacEtya
 budDADizWAna
-bu
+buQAleNkA
 buDAzwamI
 bullagakara
 bUrequ
@@ -1112,7 +1113,7 @@ bUwIya
 caba
 cabUtarA
 cAqa
-cA
+cAQA
 cEtrapavitra
 cEtya
 cEtyAgAra
@@ -1941,10 +1942,13 @@ gAyatrI
 gelAwa
 geRu
 gevaka
-GA
+GAqA
+GAqaka
 Gadama
 Gaqapuwwi
+GAqI
 GaqiyAramu
+GAqotA
 Gale
 GARaka
 GarahaRa
@@ -2397,6 +2401,7 @@ kacakadA
 kacCa
 kacCaka
 kacCapa
+kaqA
 kadaru
 kaqQaka
 kAdi
@@ -2528,7 +2533,7 @@ kaRWikApawwabanDa
 kAnuka
 kanyAdAna
 kanyADarma
-kapaha
+kapahaqI
 kapAlasanDi
 kApAlikA
 kaparda
@@ -2536,7 +2541,7 @@ kapardaka
 kapardakapurARa
 kapardakavoqi
 kapardI
-kaPA
+kaPAqI
 kapilA
 kapilazazWI
 kappa
@@ -3450,7 +3455,7 @@ mArgeSa
 marICi
 marJaka
 mArtaRqa
-marvA
+marvAqI
 maryAdA
 maryAdADurya
 maryAdAparihAra
@@ -3843,7 +3848,7 @@ nyAyattAr
 nyAyavAda
 oqaya
 odayantrika
-o
+oqiyA
 oGo
 ohoru
 oja
@@ -3898,6 +3903,7 @@ paqi
 paqihAra
 pAdika
 pAqikAval
+paqirA
 pAdiSAh
 paqiyAri
 padmabanDa
@@ -6671,7 +6677,7 @@ vfdDikukkuwa
 vfzatApaSAsana
 vfzaviMSopaka
 vftti
-vu
+vuQAleNkA
 vulApikA
 vulAvI
 vulAviyA
@@ -7088,6 +7094,7 @@ Alnel
 alu
 alugalSarakku
 Alvari
+A
 ARqe
 aNgAqikkUli
 anniyAyavAvadaRqairE
@@ -7435,6 +7442,7 @@ BEravagadyARa
 BImapriyadramma
 BujabalamAqE
 bfhatBEravagadyARa
+buqI
 carsam
 cast
 cObIsagAnI

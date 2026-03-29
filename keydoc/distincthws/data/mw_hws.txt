@@ -65,13 +65,13 @@ aMsoccaya
 aMsala
 aMsya
 aMh
+aMhana
 aMhri
 aMhripa
 aMhriskanDa
 aMhriSiras
 aMhati
 aMhatI
-aMhana
 aMhas
 aMhaspati
 aMhasaspati
@@ -299,8 +299,8 @@ akOSala
 akkA
 akkAdevI
 akta
-akti
 aktA
+akti
 aktu
 aktos
 aktuBis
@@ -733,8 +733,8 @@ agnicityA
 agnicit
 agnicitvat
 agnija
-agnijA
 agnijanman
+agnijA
 agnijAra
 agnijAla
 agnijihva
@@ -1268,9 +1268,7 @@ aNgajvara
 aNgatA
 aNgatva
 aNgada
-aNgadIya
 aNgadA
-aNgadin
 aNgadvIpa
 aNganyAsa
 aNgapAli
@@ -1338,6 +1336,8 @@ aNgu
 aNgya
 aNgaRa
 aNgati
+aNgadin
+aNgadIya
 aNganA
 aNganAgaRa
 aNganAjana
@@ -1403,9 +1403,8 @@ aNgulamAna
 aNgularAji
 aNgulaka
 aNguli
-aNgulikA
-aNgulija
 aNgulI
+aNgulija
 aNgulitoraRa
 aNgulitra
 aNgulitravat
@@ -1421,7 +1420,7 @@ aNgulimowana
 aNgulivezwaka
 aNgulivezwana
 aNgulizaNga
-aNgulisaMdaMSa
+aNgulisaMdeSa
 aNgulisPowana
 aNgulIgranTi
 aNgulIpaYcaka
@@ -1431,6 +1430,7 @@ aNgulIvezwa
 aNgulIsamBUta
 aNgulyagra
 aNgulyAdi
+aNgulikA
 aNgulIya
 aNgulIyaka
 aNguzWa
@@ -1596,6 +1596,7 @@ acyutamanas
 acyutamUrti
 acyutaruz
 acyutavAsa
+acyutAvAsa
 acyutasTala
 acyutAgraja
 acyutopADyAya
@@ -1644,6 +1645,7 @@ ajarzaBa
 ajalambana
 ajaloman
 ajalomI
+ajaloma
 ajavasti
 ajavAha
 ajavITI
@@ -2116,8 +2118,10 @@ aticiram
 aticirasya
 aticirAt
 aticiraya
-atiCattra
-atiCattraka
+aticCattra
+aticCattraka
+aticCattrA
+aticCattrakA
 atijara
 atijaras
 atijala
@@ -3526,7 +3530,6 @@ aDigama
 aDigamana
 aDigamanIya
 aDigamya
-aDijigAMsu
 aDigartya
 aDigava
 aDigA
@@ -3550,6 +3553,7 @@ aDijarAyu
 aDijAgf
 aDijAnu
 aDiji
+aDijigAMsu
 aDijihva
 aDijihvikA
 aDijya
@@ -3721,7 +3725,6 @@ aDiviyat
 aDivirAj
 aDivivAham
 aDiviS
-aDiveSma
 aDivIra
 aDivfkzasUrye
 aDivfj
@@ -3731,6 +3734,7 @@ aDivartana
 aDivfD
 aDivedam
 aDivelam
+aDiveSma
 aDivyatikrama
 aDivye
 aDivrata
@@ -3979,27 +3983,27 @@ aDruva
 aDruza
 aDvan
 aDva
-aDvagacCat
-aDvagaRa
-aDvagati
-aDvadarSin
-aDvalozwa
-aDvaSIla
-aDvaSrama
-aDvasaha
 aDvApanna
 aDvaga
 aDvagA
+aDvagacCat
+aDvagaRa
 aDvagat
+aDvagati
 aDvagatyanta
 aDvagantavya
 aDvagaBogya
 aDvagamana
 aDvagAmin
 aDvajA
+aDvadarSin
 aDvapati
 aDvaraTa
+aDvalozwa
 aDvaSalya
+aDvaSIla
+aDvaSrama
+aDvasaha
 aDvADipa
 aDveSa
 aDvanIna
@@ -4639,13 +4643,13 @@ anAQyamBavizRu
 anAtata
 anAtapa
 anAtura
+anAtmatA
 anAtman
 anAtma
 anAtmajYa
 anAtmapratyavekzA
 anAtmavat
 anAtmaka
-anAtmatA
 anAtmanIna
 anAtmya
 anAtyantika
@@ -4884,7 +4888,7 @@ anityatA
 anityatva
 anityadatta
 anityadattaka
-anityadatrima
+anityadattrima
 anityapratyavekzA
 anityaBAva
 anityasama
@@ -5024,8 +5028,8 @@ anilAntaka
 anilApaha
 anilAmaya
 anilAyana
-anilASin
 anilASana
+anilASin
 anilAhata
 anilamBa
 anilamBasamADi
@@ -6915,7 +6919,7 @@ antaraNgatva
 antarantaHsTa
 antaravayava
 antarAkASa
-antarAkUwa
+antarAkUta
 antarAgama
 antarAgamana
 antarAgAra
@@ -7439,10 +7443,6 @@ anyotpanna
 anyodarya
 anyopatApin
 anyaka
-anyat
-anyatkAma
-anyatpArSva
-anyatsTAnagata
 anyatama
 anyatara
 anyataratas
@@ -7464,8 +7464,12 @@ anyatoraRya
 anyatovAta
 anyatastya
 anyatastyajAyin
+anyat
+anyatkAma
 anyatkAraka
 anyatkf
+anyatpArSva
+anyatsTAnagata
 anyadASA
 anyadASis
 anyatra
@@ -8721,7 +8725,7 @@ apAtraBft
 apAtravarzaRa
 apAtravarzin
 apAtrIBU
-apAtrIkarana
+apAtrIkaraRa
 apAd
 apAda
 apAdAdi
@@ -12104,7 +12108,7 @@ amftapAyin
 amftapraBa
 amftapraBA
 amftaprASana
-amftaprAsin
+amftaprASin
 amftaplavana
 amftaPala
 amftaPalA
@@ -12826,7 +12830,7 @@ araRyakarpAsI
 araRyakAka
 araRyakARqa
 araRyakArpAsI
-araRyakulaTikA
+araRyakulatTikA
 araRyakusumBa
 araRyaketu
 araRyagaja
@@ -13657,7 +13661,7 @@ arDacandrakuRqa
 arDacandraBAgin
 arDacandramuKa
 arDacandrAkAra
-arDacandrAkfta
+arDacandrAkfti
 arDacandropama
 arDacandraka
 arDacandrikA
@@ -13910,7 +13914,6 @@ arvan
 arvaSa
 arvAc
 arvAk
-arvAksrotas
 arvAkkAlikatA
 arvAkkUla
 arvAkcatvAriMSa
@@ -13919,6 +13922,7 @@ arvAkpaYcASa
 arvAkSata
 arvAkzazWa
 arvAksAman
+arvAksrotas
 arvAke
 arvAg
 arvAgaSIta
@@ -13939,8 +13943,8 @@ arSasAna
 arSasin
 arSin
 arSo
-arSoGora
-arSoGorI
+arSoGna
+arSoGnI
 arSoyuj
 arSoroga
 arSorogayuta
@@ -14642,7 +14646,7 @@ avajvAla
 avaYcanatA
 avawa
 avawakacCapa
-avawaviroDana
+avawaniroDana
 avawodA
 avawi
 avawu
@@ -14786,7 +14790,7 @@ avahitapARi
 avahitAYjali
 avaDAv
 avaDI
-avaDIr
+avaDIraya
 avaDIraRa
 avaDIraRA
 avaDIrita
@@ -15040,8 +15044,8 @@ avamUtr
 avamUtraRa
 avamUtrita
 avamUrC
-avamUrDaka
 avamUrDaSaya
+avamUrDaka
 avamfj
 avamfd
 avamardana
@@ -15753,12 +15757,12 @@ avitaTakriya
 avitaTABisanDi
 avitaTIkf
 avitaTehita
+avitaraRa
 avitarka
 avitarkita
 avitave
 avitAna
 avitArin
-avitaraRa
 avitfpta
 avitfptakAma
 avitfptatA
@@ -16296,11 +16300,11 @@ avrAtya
 avrAjin
 aS
 aSana
-aSanakriyA
 aSAya
 aSin
 aSanA
 aSanakft
+aSanakriyA
 aSanapati
 aSanavat
 aSanAnaSana
@@ -20048,6 +20052,7 @@ ADAyitA
 ADi
 ADitA
 ADiBoga
+ADistena
 ADitsu
 ADIkf
 ADIkaraRa
@@ -20076,7 +20081,6 @@ ADiraTi
 ADiraTIya
 ADirAjya
 ADivedanika
-ADistena
 ADI
 ADIparRa
 ADIta
@@ -21158,12 +21162,12 @@ Ayavasa
 Ayas
 Ayasta
 AyAsa
-AyAsaka
 AyAsadAyin
+AyAsaka
 AyAsana
 AyAsita
-AyAsya
 AyAsin
+AyAsya
 Ayasa
 AyasI
 Ayasamaya
@@ -23506,7 +23510,7 @@ iBadantA
 iBanimIlikA
 iBapa
 iBapAlaka
-iBapowA
+iBapota
 iBamAcala
 iBayuvati
 iBAKya
@@ -23634,8 +23638,8 @@ izunibanDana
 izupa
 izupaTa
 izupad
-izupAta
 izuparzin
+izupAta
 izupuzpA
 izubala
 izuBft
@@ -23842,9 +23846,9 @@ Iqya
 IqyamAna
 Iti
 Idfkza
-IdfgavasTa
 IdfS
 IdfktA
+IdfgavasTa
 IdfSa
 IdfSaka
 IdfSaBUta
@@ -25200,7 +25204,7 @@ utpaSya
 utpA
 utpiba
 utpipAna
-utpAdaSayAna
+utpAdaSayana
 utpAra
 utpAram
 utpAraRa
@@ -25279,10 +25283,10 @@ utsAdi
 utsya
 utsakTa
 utsaNga
+utsaNgapAdatA
 utsaNgavat
 utsaNgAdi
 utsaNgaka
-utsaNgapAdatA
 utsaNgita
 utsaNgin
 utsaNginI
@@ -25542,7 +25546,7 @@ udakecara
 udakeviSIrRa
 udakeSaya
 udakotsecana
-udakodaYjana
+udakodaYcana
 udakodara
 udakodarin
 udakopasparSana
@@ -30780,6 +30784,7 @@ ekASItitama
 ekASrama
 ekASraya
 ekASrita
+ekASrayaguRa
 ekASritaguRa
 ekAzwakA
 ekAzwI
@@ -31233,7 +31238,7 @@ EndrajAla
 EndrajAlika
 Endradyumna
 Endradyumni
-EndraniGanwu
+EndraniGaRwu
 EndranIla
 Endramahika
 EndramAruta
@@ -41211,6 +41216,7 @@ kfzARu
 kfzkara
 kfzRa
 kfzRO
+kfzRAs
 kfzRA
 kfzRI
 kfzRakawukA
@@ -47323,10 +47329,7 @@ garhyARaka
 gal
 gala
 galA
-galagranTi
 galamocikA
-galamowana
-galaranDra
 galaka
 galatkuzWa
 galana
@@ -47354,10 +47357,13 @@ galagaRqin
 galagoqikA
 galagoqI
 galagolI
+galagranTi
 galagraha
 galacarman
 galadvAra
 galameKalA
+galamowana
+galaranDra
 galavArtta
 galavidraDi
 galavrata
@@ -62290,6 +62296,7 @@ tulAparIkzA
 tulApuMs
 tulApuruza
 tulApuruzadAna
+tulApragraha
 tulApragrAha
 tulAbIja
 tulABavAnI
@@ -68176,7 +68183,6 @@ durgala
 durgaha
 durgAha
 durgAQa
-durgADa
 durgAhya
 durgAhyatva
 durgfBi
@@ -70140,7 +70146,6 @@ devAya
 devAyu
 devAyU
 devAlA
-devitama
 devidAsa
 devika
 devitavya
@@ -75734,8 +75739,8 @@ nannamyamAna
 nannayaBawwa
 napAt
 naptf
-napAtI
-napAtrI
+naptI
+naptrI
 napAtka
 naptfkA
 naB
@@ -90046,7 +90051,7 @@ pAdona
 pAdopajIvin
 pAdopaDAna
 pAdopaDAnI
-padopasaMgrahaRa
+pAdopasaMgrahaRa
 pAdaka
 pAdikA
 pAdapaKaRqa
@@ -100965,9 +100970,9 @@ pravivrAjayizu
 praviS
 pravizwa
 pravizwA
+pravizwadIkza
 pravizwaka
 pravizwakena
-pravizwadIkza
 pravizwakAya
 praveSa
 praveSaBAgika
@@ -101528,7 +101533,6 @@ prasamIkz
 prasamIkzaRa
 prasamIkzA
 prasamIkzita
-prasmIkzya
 prasamIkzya
 prasamIkzyaparIkzaka
 prasamIq
@@ -105921,8 +105925,8 @@ bahusattva
 bahusatya
 bahusadAcAra
 bahusadfSa
-bahusaMtati
 bahusaMsTita
+bahusaMtati
 bahusamudAcAra
 bahusampuwa
 bahusarpizka
@@ -107463,6 +107467,7 @@ boDAyanaSrOta
 boDAyanasUtra
 boDAyanIya
 boDAyanIyagfhyamAlA
+boDAyanIyA
 boDi
 boDicittavivaraRa
 boDicittotpAdanaSAstra
@@ -108794,12 +108799,12 @@ brAhmya
 brAhmyatIrTa
 brAhmyamuhUrta
 brAhmyahuta
-bruq
 brADnAyanya
+bruq
+brUs
 bruva
 brU
 bruvARa
-brUs
 blI
 blezka
 Ba
@@ -108841,19 +108846,19 @@ Bakza
 BakzakAra
 BakzaMkAra
 BakzaMkfta
+BakzacCandas
 Bakzajapa
 BakzapattrI
 BakzabIja
 Bakzamantra
+BakzavikAra
 Bakzaka
 BakzikA
-BakzacCandas
 BakzaRa
 BakzaRIya
 BakzaRIyatA
 Bakzayitavya
 Bakzayitf
-BakzavikAra
 Bakzita
 BakzitaSeza
 BakzitaSezAhAra
@@ -109319,6 +109324,7 @@ BawabalAgra
 BawaBawamAtftIrTa
 BawArka
 Bawodyoga
+Bawila
 BawIya
 BawIyadIpikA
 BawaBawAya
@@ -109431,7 +109437,6 @@ BaRqIla
 BaRqu
 BaRquka
 BaRqUka
-Batila
 Badanta
 BaddAlin
 Ban
@@ -111157,7 +111162,7 @@ BikzASitva
 BikzAhAra
 Bikzotkara
 BikzopajIvin
-BikzopaBegin
+BikzopaBogin
 BikzAka
 BikzAkI
 Bikzita
@@ -111194,6 +111199,7 @@ Bittika
 BittikA
 Bitra
 Bidaka
+BidaTa
 BidA
 BidAkara
 BidABft
@@ -111296,7 +111302,6 @@ Bettavya
 Bettf
 Beda
 Bedana
-BidaTa
 Bind
 BindipAla
 BindipAlaka
@@ -116277,7 +116282,7 @@ mandamandam
 mandamandAtapa
 mandameDas
 mandaraSmi
-mandaregin
+mandarogin
 mandavAhinI
 mandavicezwita
 mandaviBraMSa
@@ -116594,6 +116599,7 @@ marica
 maricakzupa
 maricapattraka
 marIca
+marIcopapurARa
 marizwaka
 marI
 marIci
@@ -116606,7 +116612,6 @@ marIcipattana
 marIcimat
 marIcimAlin
 marIcismfti
-marIcopapurARa
 marIcika
 marIcikA
 marIcin
@@ -120618,6 +120623,7 @@ mAlAPala
 mAlAmanu
 mAlAmantra
 mAlAmaya
+mAlAyamaka
 mAlArizwA
 mAlArUpa
 mAlArUpatA
@@ -121311,6 +121317,8 @@ mihikA
 mIQa
 mIQA
 mI|a
+mIQu
+mI|u
 mIQuz
 mI|uz
 mIQuzwama
@@ -122876,6 +122884,7 @@ mftavAsara
 mftaSaNkA
 mftaSabda
 mftasaMskAra
+mftasaMjIvaka
 mftasaMjIvana
 mftasaMjIvanI
 mftasaMjIvin
@@ -128651,7 +128660,6 @@ raRaraRAyita
 raRat
 raRatkAra
 raRita
-raRaMgaha
 raRqa
 raRqA
 raRqAnanda
@@ -130004,6 +130012,7 @@ rahomAnin
 rahurAja
 rahUgaRa
 rAs
+rAka
 rAkA
 rAkAgama
 rAkAcandra
@@ -130029,7 +130038,6 @@ rAtizAc
 rAtin
 rAvan
 rAula
-rAka
 rAkiRI
 rAkya
 rAkzasa
@@ -130486,8 +130494,8 @@ rAjavarcasin
 rAjavarRaka
 rAjavarta
 rAjavartman
-rAjavarman
 rAjavarDana
+rAjavarman
 rAjavallaBa
 rAjavallaBatA
 rAjavallaBaturaMgama
@@ -137148,8 +137156,8 @@ vanaSoBana
 vanaSvan
 vanazaRqa
 vanazad
-vanasaMkawa
 vanasaMSraya
+vanasaMkawa
 vanasad
 vanasaMnivAsin
 vanasamUha
@@ -137383,7 +137391,6 @@ vap
 uptakeSa
 uptakeSaSmaSru
 vapa
-vapatra
 vapana
 vapanI
 vapananirRaya
@@ -137398,6 +137405,7 @@ uptivid
 uptrima
 upya
 vapA
+vapatra
 vapAkft
 vapADiSrayaRI
 vapAnta
@@ -137561,7 +137569,7 @@ vayovidyA
 vayoviSeza
 vayovfdDa
 vayovfD
-vayohARi
+vayohAni
 vayovaNga
 vayya
 vara
@@ -137637,7 +137645,7 @@ varuRadevatya
 varuRadEva
 varuRadEvata
 varuRaDrut
-varuRapariyatama
+varuRapariyatana
 varuRapASa
 varuRapurARa
 varuRapuruza
@@ -139350,10 +139358,10 @@ vastivyApad
 vastiSiras
 vastiSIrza
 vastiSoDana
-vastI
 vasty
 vastyarTam
 vastyOzaDa
+vastI
 vasnasA
 vah
 UQapUrva
@@ -139459,7 +139467,7 @@ vahniSiKA
 vahniSiKara
 vahniSudDa
 vahniSeKara
-vahniztamBa
+vahnizwamBa
 vahnisaMskAra
 vahnisaKa
 vahnisaMjYaka
@@ -139669,9 +139677,9 @@ vAtAhata
 vAtAhatanO
 vAtAhati
 vAtAhAra
+vAteSvaratIrTa
 vAtezu
 vAtEkaBakza
-vAteSvaratIrTa
 vAtotTa
 vAtodarin
 vAtona
@@ -140044,9 +140052,9 @@ vANmuKa
 vANmUrti
 vANmUla
 vAcaM
-vAcaMniyama
 vAcaMyama
 vAcaMyamatva
+vAcaMniyama
 vAcaka
 vAcakatA
 vAcakatva
@@ -140916,6 +140924,7 @@ vAHpuzpa
 vAHsadana
 vAHsTa
 vAri
+vArI
 vArikaRwaka
 vArikarRikA
 vArikarpUra
@@ -141143,7 +141152,6 @@ vArAhIstotra
 vArAhyanugrahAzwaka
 vArAhIya
 vArAhyA
-vArI
 vAruWa
 vAruqa
 vAruqaka
@@ -142303,7 +142311,6 @@ vimUrDaja
 vimUla
 vimUlana
 vimfga
-vimfgvan
 vimftyu
 vimeGa
 vimoGa
@@ -142387,7 +142394,6 @@ vilohitaka
 vivaMSa
 vivat
 vivatsa
-vivatsA
 vivaruRa
 vivarUTa
 vivarcas
@@ -144149,7 +144155,6 @@ vidAnta
 vidAra
 vidAS
 vidiv
-videvam
 videvana
 vidIgaya
 vidIDayu
@@ -144203,6 +144208,7 @@ vidIrRamuKa
 vidIrRahfdaya
 vidfti
 vidriya
+videvam
 videSaga
 videSagata
 videSagamana
@@ -145942,6 +145948,7 @@ vimUrCita
 vimUrta
 vimfj
 vimArjana
+vimfgvan
 vimfzwa
 vimfzwarAga
 vimfzwAntarAMsa
@@ -146593,6 +146600,7 @@ vivAkya
 vivAcana
 vivAcya
 vivaYcizu
+vivatsA
 vivatsu
 vivadizu
 vivad
@@ -154846,6 +154854,7 @@ SakunikA
 Sakuni
 Sakunigraha
 SakuniprapA
+Sakunimitra
 SakunivAda
 Sakunisavana
 SakunisAda
@@ -157412,7 +157421,6 @@ SAkunaSAstrasAra
 SAkunasArodDAra
 SAkunasUkta
 SAkuni
-SAkunimitra
 SAkunika
 SAkunikapraSna
 SAkunikAyinI
@@ -157615,7 +157623,7 @@ SARASmaGarzaRa
 SARopala
 SARita
 SARapAda
-SARapramaRa
+SARapramARa
 SARika
 SARya
 SARI
@@ -162530,6 +162538,7 @@ SyAmakARqA
 SyAmagranTi
 SyAmacawaka
 SyAmajayanta
+SyAmasujayanta
 SyAmajit
 SyAmatA
 SyAmatva
@@ -162551,7 +162560,6 @@ SyAmaSabala
 SyAmaSiMSapA
 SyAmasAra
 SyAmasAhSaMkara
-SyAmasujayanta
 SyAmasundara
 SyAmANga
 SyAmANgI
@@ -163509,7 +163517,6 @@ SrIhari
 SrIharistotra
 SrIharza
 SrIhastinI
-SrIyaDyE
 Sriyase
 SriyA
 SriyAditya
@@ -175809,7 +175816,7 @@ saSrI
 saSrIka
 saSrIkatA
 saSrIkatva
-sasrIvfkza
+saSrIvfkza
 saSlAGam
 saSleza
 saSlezatva
@@ -177719,6 +177726,7 @@ sAmakArin
 sAmaga
 sAmagA
 sAmagI
+sAmagAnAMCandas
 sAmagapUrvApara
 sAmagaprayoga
 sAmagavfzotsarga
@@ -178719,6 +178727,8 @@ sAha
 sAhya
 sAhyakara
 sAhyakft
+sAhapadIna
+sAhavadIna
 sAhi
 sAhideva
 sAhisujA
@@ -178739,8 +178749,6 @@ sAhadevi
 sAhadevya
 sAhana
 sAhantya
-sAhapadIna
-sAhavadIna
 sAhaya
 sAhasa
 sAhasakaraRa
@@ -184098,7 +184106,7 @@ sUpacAra
 sUpat
 sUpatIrTa
 sUpatIrTya
-sUpadvaMSa
+sUpadaMSa
 sUpadvAra
 sUpayukta
 sUpavaYcana
@@ -188091,6 +188099,9 @@ sPEyakfta
 sbF
 sma
 smA
+zma
+zmA
+smottara
 smat
 smatpuraMDi
 smad
@@ -188995,7 +189006,6 @@ svavftti
 svavfttivAda
 svavfzwi
 svavEritA
-svavokzita
 svaSakti
 svaSaktyA
 svaSarIra
@@ -189997,6 +190007,7 @@ svavacCanna
 svavas
 svavekza
 svavekzita
+svavokzita
 svavyAja
 svaSa
 svaSva
@@ -191833,7 +191844,6 @@ havizyantIya
 havizyanda
 havis
 havya
-havyA
 havyakavya
 havyakavyavaha
 havyakavyASa
@@ -191874,6 +191884,7 @@ havanasyad
 havas
 havItu
 havIman
+havyA
 hAva
 havaNga
 havala
@@ -193678,6 +193689,7 @@ hezAya
 hezita
 hezin
 heza
+hezakratu
 hezas
 hezasvat
 hE

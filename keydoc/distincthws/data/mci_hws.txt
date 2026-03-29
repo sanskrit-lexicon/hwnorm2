@@ -696,7 +696,7 @@ mAtaNgavacana
 mAtsyaka
 mAnavI
 mArkaRqeyasamasyA
-mrgasvapnaBaya
+mfgasvapnaBaya
 mokzaDarma
 yakzayudDa
 yajurveda
@@ -829,7 +829,7 @@ mAGI
 mArgaSIrza
 mArgaSIrzI
 mUla
-mrgottama
+mfgottama
 mEtra
 yamasya
 rAkA

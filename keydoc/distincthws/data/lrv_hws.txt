@@ -560,7 +560,7 @@ ajaqaDI
 ajani
 ajanani
 ajanya
-ajaBa
+ajamBa
 ajara
 ajarA
 ajarya
@@ -641,8 +641,9 @@ awAwyA
 aww
 awwa
 awwA
-awwahAsa
+awwAwwahAsa
 awwahasita
+awwahAsa
 awwahAsya
 awwahAsin
 awwaka
@@ -852,7 +853,7 @@ atyantInA
 atyaya
 atyayita
 atyayitA
-atyaha
+atyahna
 atyAya
 atyUha
 atra
@@ -1028,7 +1029,7 @@ aDyagni
 aDyaDi
 aDyaDikzepa
 aDyarDa
-aDyAtma
+aDyAtmam
 aDyAtman
 aDyAtmavidyA
 aDyAtmaSAstra
@@ -1429,7 +1430,7 @@ anirdeSya
 anirDArita
 anirDAritA
 anirvacanIya
-anirvacanItA
+anirvacanIyatA
 anirveda
 anirvfta
 anirvftA
@@ -3370,7 +3371,7 @@ amarzin
 amarziRI
 amala
 amalA
-amalapatattrin
+amalapatatrin
 amalaratna
 amalina
 amalinA
@@ -3718,7 +3719,7 @@ araRyarudita
 araRyavAyasa
 araRyavAsa
 araRyavAsin
-araRyevilapita
+araRyavilapita
 araRyaSvan
 araRyaka
 araRyAnI
@@ -3946,7 +3947,7 @@ ard
 ardana
 ardanA
 arDa
-arGA
+arDA
 arDAMSa
 arDAMSin
 arDAMga
@@ -4021,7 +4022,6 @@ aryaman
 aryARI
 aryI
 arvan
-arvantI
 arvatI
 arvAk
 arvAkkAlika
@@ -4603,7 +4603,7 @@ aviSezA
 aviSezajYa
 aviza
 avizaya
-avizA
+avizI
 avI
 avIci
 avIrA
@@ -4900,6 +4900,7 @@ azwAdaSan
 azwAdaSapurARa
 azwAdaSavidyA
 azwApad
+azwApada
 azwAviMSati
 azwama
 azwamI
@@ -4950,7 +4951,7 @@ asaMgati
 asaMgin
 asaMginI
 asat
-asatA
+asatI
 asadaDyetf
 asadAgama
 asadAcAra
@@ -4968,7 +4969,6 @@ asadvftti
 asadvyavahAra
 asatsaMsarga
 asatAyI
-asatI
 asatya
 asatyA
 asatyavAdin
@@ -5277,7 +5277,7 @@ ahi
 ahikAMta
 ahikoza
 ahicCatraka
-ahijita
+ahijit
 ahituMqika
 ahidviz
 ahidruh
@@ -5524,7 +5524,7 @@ AMgAra
 AMgika
 AMgikI
 AMgirasa
-Acakzuza
+Acakzus
 Acama
 Acamana
 Acamanaka
@@ -6348,8 +6348,8 @@ ASravA
 ASri
 ASrita
 ASritA
-ASfta
-ASftA
+ASruta
+ASrutA
 ASleza
 ASlezA
 ASva
@@ -6367,7 +6367,7 @@ ASvIna
 ASvInA
 AzAQa
 AzAQA
-AzAQABava
+AzAQaBava
 AzAQI
 Azwama
 As
@@ -6536,7 +6536,7 @@ ilAgola
 iqikA
 itara
 itarA
-itrat
+itarat
 itaretara
 itaretarASraya
 itaretarayoga
@@ -6758,7 +6758,7 @@ ISvarA
 ISvarI
 ISvaranizeDa
 ISvarasadman
-ISvarasaBA
+ISvarasaBa
 Iz
 Iza
 Izat
@@ -7658,8 +7658,8 @@ upaDAtu
 upaDAna
 upaDAnIya
 upaDAraRa
-upADi
-upADika
+upaDi
+upaDika
 upaDUpita
 upaDUpitA
 upaDfti
@@ -7828,11 +7828,12 @@ upasaMyama
 upasaMyoga
 upasaMroha
 upasaMvAda
-upasaMKyAna
+upasaMvyAna
 upasaMharaRa
 upasaMhAra
 upasaMhArin
 upasaMkzepa
+upasaMKyAna
 upasaMgraha
 upasaMgrahaRa
 upasatti
@@ -7919,6 +7920,8 @@ upAtyaya
 upAdAna
 upAdAnakAraRa
 upAdAnalakzaRA
+upADi
+upADika
 upADikA
 upADyAya
 upADyAyA
