@@ -10998,7 +10998,7 @@ AKUtkaraH
 AKUtTa
 AKukarIzam
 AKukarRaparRikA
-AKupArRikA
+AKuparRikA
 AKukarRI
 AKuparRI
 AKugaH
@@ -11143,7 +11143,7 @@ ANgArikaH
 ANgirasa
 ANgirasasatram
 ANgUzaH
-zam
+ANgUzam
 ANgya
 Acakz
 Acakzus
@@ -11677,6 +11677,7 @@ Adin
 AdinavaH
 AdInavaH
 Adinavam
+AdInavam
 AdinavadarSa
 AdiS
 Adizwa
@@ -18083,7 +18084,7 @@ ojIyas
 ojman
 oqaka
 oqavaH
-oqikAH
+oqikA
 oqI
 oqraH
 oRqraH
@@ -18245,6 +18246,7 @@ ODasa
 ODasyam
 Onnatyam
 Onnetram
+OnmuKyam
 OpakarRika
 OpakAryam
 OpakAryA
@@ -18491,7 +18493,7 @@ kaNkaloqyam
 kaNkAlaH
 kaNkAlam
 kaNkAlamAlin
-kaNkAlaSoza
+kaNkAlaSeza
 kaNkAlayaH
 kaNkuH
 kaNgu
@@ -18532,8 +18534,11 @@ kaccara
 kaccit
 kacCaH
 kacCam
+kacCA
 kacCAntaH
 kacCadeSaH
+kacCapaH
+kacCapI
 kacCaBUH
 kacCaruhA
 kacCawikA
@@ -18686,7 +18691,7 @@ kawuBaNgaH
 kawuBadraH
 kawumaYjarikA
 kawumodam
-kawuKa
+kawurava
 kawurohiRI
 kawuvipAka
 kawusnehaH
@@ -18734,7 +18739,7 @@ kaWinatvam
 kaWinikA
 kaWinI
 kaWillaH
-kaWikallaH
+kaWillakaH
 kaWura
 kaWera
 kaWora
@@ -18794,7 +18799,7 @@ kaRapaH
 kaRaBaH
 kaRAwInaH
 kaRAwIraH
-kaRAwArakaH
+kaRAwIrakaH
 kaRIciH
 kaRIcI
 kaRe
@@ -18810,10 +18815,10 @@ kaRwakaBakzakaH
 kaRwakaBuj
 kaRwakAzWIlaH
 kaRwakAgAraH
-kaRwakAQaTaH
+kaRwakAQyaH
 kaRwakodDaraRam
 kaRwakadrumaH
-kaRwakaprAvfwA
+kaRwakaprAvftA
 kaRwakaPalaH
 kaRwakamardanam
 kaRwakayukta
@@ -18855,7 +18860,7 @@ kaRWatraH
 kaRWadaGna
 kaRWanAlam
 kaRWanAlI
-kaRWanaqikaH
+kaRWanIqakaH
 kaRWanIlakaH
 kaRWapASaH
 kaRWapASakaH
@@ -18878,7 +18883,7 @@ kaRWataH
 kaRWikA
 kaRWin
 kaRWI
-kaRWIKaH
+kaRWIravaH
 kaRWekAlaH
 kaRWya
 kaRWyavarRaH
@@ -18961,7 +18966,7 @@ kaTAramBaH
 kaTArAmaH
 kaTAlApaH
 kaTodayaH
-kaTodDAtaH
+kaTodGAtaH
 kaTopakaTanam
 kaTopAKyAnam
 kaTAcCalam
@@ -19213,7 +19218,7 @@ kapardin
 kapalam
 kapAwaH
 kapAwam
-kapAwodDAwanam
+kapAwodGAwanam
 kapAwaGnaH
 kapAwavakzas
 kapAwasaMDiH
@@ -19275,7 +19280,7 @@ kapiSAYjanaH
 kapiSAyanaH
 kapiSita
 kapiSIkA
-kapizWAla
+kapizWala
 kapItanaH
 kapucCalam
 kapuzwikA
@@ -19308,7 +19313,7 @@ kapolaBittiH
 kapolarAgaH
 kaPaH
 kaPAriH
-kaPakfrcikA
+kaPakUrcikA
 kaPakzayaH
 kaPaGna
 kaPanASana
@@ -19732,7 +19737,7 @@ karRIraTaH
 karRIsutaH
 karRecuracurA
 karRejapaH
-karRewirawirA
+karRewiriwirA
 kart
 karta
 kartaka
@@ -19875,7 +19880,7 @@ karmaSOcam
 karmaSrutiH
 karmasaNgaH
 karmasacivaH
-karmasamnyAsikaH
+karmasaMnyAsikaH
 karmasaMnyAsin
 karmasAkzin
 karmasidDiH
@@ -19923,6 +19928,7 @@ kalacUriH
 kalatUlikA
 kalaDUtam
 kalaDOtam
+kalaDOtalipi
 kalaDvaniH
 kalanAda
 kalaBAzaRam
@@ -19947,7 +19953,7 @@ kalandaraH
 kalandikA
 kalaBaH
 kalamaH
-kalamagopavaDa
+kalamagopavaDU
 kalamagopI
 kalambikA
 kalambuwa
@@ -19961,9 +19967,11 @@ kalaSaH
 kalasaH
 kalaSam
 kalasam
+kalaSajanman
+kalaSodBavaH
 kalaSAmBoDiH
 kalaSArRavaH
-kalaSodaDi
+kalaSodaDiH
 kalaSI
 kalaSiH
 kalaSIsutaH
@@ -20040,6 +20048,7 @@ kalka
 kalkaPalaH
 kalkanam
 kalkiH
+kalkipurARam
 kalkin
 kalpa
 kalpAntaH
@@ -20087,7 +20096,7 @@ kalyARa
 kalyARakft
 kalyARaDarman
 kalyARapaYcakaH
-kalyARabIjam
+kalyARabIjaH
 kalyARamallaH
 kalyARayogaH
 kalyARavacanam
@@ -42738,7 +42747,8 @@ piNgaliman
 piNgAlam
 piNgASaH
 picaRqaH
-picaRqampiciRqaH
+picaRqam
+piciRqaH
 piciRqam
 picaRqakaH
 picaRqin

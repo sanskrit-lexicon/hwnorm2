@@ -796,7 +796,7 @@ aho
 ahorAtra
 A
 AMg
-Akampit
+Akampita
 Akara
 AkarRay
 AkAra
@@ -1041,7 +1041,7 @@ iNgita
 icCatva
 icCA
 itara
-itaraitara
+itaretara
 itas
 iti
 kim
@@ -1102,7 +1102,7 @@ Ikzita
 IjAna
 Iq
 Iqya
-dfkza
+Idfkza
 Ips
 Ipsita
 Im
@@ -2862,6 +2862,7 @@ AdAya
 upAdA
 parAdA
 paridA
+pradA
 vyAdA
 samdA
 samupAdA
@@ -3067,7 +3068,7 @@ dEtya
 dEva
 dEvata
 dEvAsura
-dor
+doraka
 dorikA
 dolA
 dolAy
@@ -3098,7 +3099,7 @@ pradru
 druta
 drutataram
 drupada
-drum
+druma
 druh
 droRI
 droha
@@ -3524,12 +3525,14 @@ nihnava
 nI
 nAyayati
 nIyate
+apanI
 AnI
 upanI
 parinI
 pranI
 vinI
 samAnI
+nIca
 nIcA
 nIcEs
 nIqa
@@ -3584,7 +3587,7 @@ pakzirAja
 paNka
 paNktI
 paNgu
-
+pac
 pAcayati
 paYca
 paYcaka
@@ -4366,7 +4369,7 @@ Pulla
 Pena
 baMd
 baMh
-bk
+baka
 bata
 badDa
 baddbamanas
@@ -4417,6 +4420,7 @@ bARa
 bAD
 bADayati
 bIBatsate
+apabAD
 samprabAD
 bADa
 bAnDava
@@ -4490,6 +4494,7 @@ brAhmaRa
 brAhmaRya
 brU
 aDibrU
+apabrU
 prabrU
 pratibrU
 Ba
@@ -4711,7 +4716,7 @@ BraMSayati
 praBraMS
 BraMSa
 Bram
-Brmayati
+Bramayati
 pariBram
 samBram
 Brama
@@ -5218,7 +5223,7 @@ prayA
 pratyAyA
 viyA
 samanuyA
-samAsamAyA
+samA
 yAga
 yAc
 yAcaka
@@ -5561,7 +5566,7 @@ avalamb
 vilamb
 lal
 lalayati
-ududlal
+ullal
 lalana
 lalAwa
 lalita
@@ -5574,7 +5579,7 @@ lA
 lAMgala
 lAGava
 lANgala
-lANgla
+lANgUla
 lAja
 lABa
 lABAlABa
@@ -5791,15 +5796,15 @@ aBivart
 aBipravart
 Avart
 udvart
-upaupavart
+upavart
 nivart
 nisvart
 parAvart
 parivart
-prapravart
+pravart
 pratinivart
 vivart
-vinivinivart
+vinivart
 viparivart
 vyAvart
 saMparivart
@@ -5846,7 +5851,7 @@ vaSIkar
 vaSIkaraRa
 vaSya
 vas
-vivivas
+vivas
 vAsayati
 uzyate
 brahmacaryaM
@@ -5877,7 +5882,6 @@ vivah
 samvah
 vahana
 vahni
-vAvA
 ko
 anuvA
 nisvA
@@ -6248,6 +6252,7 @@ vfD
 vfnda
 vfScika
 vfz
+vfza
 vfzan
 vfzaBa
 vfzala
@@ -6959,7 +6964,6 @@ samarTa
 samalaNkfta
 samavAya
 samasta
-samA
 samAkIrRa
 samAkula
 samAkrAnta

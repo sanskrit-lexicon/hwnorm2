@@ -166,7 +166,7 @@ akzara
 akzarA
 akzaracaRa
 akzaracuMcu
-akzaraCaMdas
+akzaracCaMdas
 akzarajananI
 akzarajIvaka
 akzarajIvika
@@ -3665,7 +3665,7 @@ ayugapadgrahaRa
 ayugapadBAva
 ayugma
 ayugmA
-ayugmaCada
+ayugmacCada
 ayugmanetra
 ayugmavAha
 ayugmaSara
@@ -3867,7 +3867,7 @@ arjana
 arjuna
 arjunA
 arjunI
-arjunaCavi
+arjunaCCavi
 arjunaDvaja
 arRa
 arRava
@@ -9348,7 +9348,7 @@ kamaMqalutaru
 kamaMqaluDara
 kamana
 kamanA
-kamanaCada
+kamanacCada
 kamanIya
 kamanIyA
 kamara
@@ -30228,7 +30228,7 @@ BaktopasADaka
 BaktakaMsa
 Baktakara
 BaktakAra
-BaktaCaMda
+BaktacCaMda
 BaktadAsa
 Baktadveza
 BaktamaMqa
@@ -35199,7 +35199,7 @@ raktakaMda
 raktakaMdala
 raktacaMdana
 raktacUrRa
-raktaCardi
+raktacCardi
 raktajihva
 raktatuMqa
 raktaDAtu
@@ -42994,7 +42994,7 @@ Svetakola
 Svetagaja
 Svetagarut
 Svetagaruta
-SvetaCada
+SvetacCada
 SvetaDAtu
 SvetaDAman
 SvetanIla
@@ -43890,7 +43890,7 @@ saptadIDiti
 saptadvIpA
 saptaDAtu
 saptanAqIcakra
-saptaCada
+saptacCada
 saptapatra
 saptaparRa
 saptapadI

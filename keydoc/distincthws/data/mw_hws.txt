@@ -513,8 +513,8 @@ akzimat
 akzilakzIkf
 akziloman
 akzivikURita
-akzisaMtarjana
 akzisaMskAra
+akzisaMtarjana
 akzyAmaya
 akzyAmayin
 akzapad
@@ -4643,10 +4643,10 @@ anAQyamBavizRu
 anAtata
 anAtapa
 anAtura
-anAtmatA
 anAtman
 anAtma
 anAtmajYa
+anAtmatA
 anAtmapratyavekzA
 anAtmavat
 anAtmaka
@@ -12330,8 +12330,8 @@ ambujabAnDava
 ambujaBU
 ambujasTa
 ambujAkza
-ambujAsanA
 ambujAnanA
+ambujAsanA
 ambujIvin
 ambutaskara
 ambutAla
@@ -23085,13 +23085,13 @@ itTAt
 id
 idam
 idadvasu
-idaMSabda
 idamIya
 idaMyu
 idaMyuga
 idaMyugIna
 idaMrUpa
 idaMvid
+idaMSabda
 idaNkAryA
 idantana
 idantA
@@ -24044,7 +24044,7 @@ IsarAPa
 Ih
 Iha
 IhA
-Ihatas
+IhAtas
 IhAmfga
 IhArTin
 IhAlih
@@ -28819,8 +28819,6 @@ uralli
 uraSa
 uraSA
 uras
-uraHSiras
-uraHsTa
 uraskawa
 uraskftya
 urastas
@@ -28828,15 +28826,16 @@ urastra
 urastrARa
 uraspeSa
 urasvat
-urogrIva
 uraH
 uraHkzata
 uraHkzatakAsa
 uraHkzaya
+uraHSiras
 uraHSUla
 uraHSUlin
 uraHsUtrikA
 uraHstamBa
+uraHsTa
 uraHsTala
 uraS
 uraSCada
@@ -28852,6 +28851,7 @@ urasya
 uro
 urogama
 urograha
+urogrIva
 uroGAta
 uroja
 urobfhatI
@@ -29446,6 +29446,7 @@ UrRApiRqa
 UrRAmaya
 UrRAmfdu
 UrRAmradas
+UrRAyu
 UrRAlaMkftamuKatA
 UrRAvat
 UrRAvatI
@@ -29454,7 +29455,6 @@ UrRAvAhi
 UrRAsUtra
 UrRAstukA
 UrRodara
-UrRAyu
 UrRuta
 Urd
 Urda
@@ -29465,9 +29465,9 @@ UrDvA
 UrDvam
 UrDvakaca
 UrDvakaRWa
-UrDvakaRWA
+UrDvakaRWI
 UrDvakaRWaka
-UrDvakaRWakA
+UrDvakaRWikA
 UrDvakapAla
 UrDvakara
 UrDvakarRa
@@ -30717,8 +30717,8 @@ ekAntagrAhin
 ekAntatas
 ekAntatA
 ekAntatva
-ekAntaduHKa
 ekAntaduHzamA
+ekAntaduHKa
 ekAntaBAva
 ekAntaBUta
 ekAntamati
@@ -32017,7 +32017,7 @@ kakuBa
 kakuBA
 kakuBamaya
 kakuBAkAra
-kakuBAdinI
+kakuBAdanI
 kakum
 kakummatI
 kakummuKa
@@ -32183,9 +32183,9 @@ kaceSvara
 kacaka
 kacela
 kacaNgala
-kacAra
 kacAku
 kacAwura
+kacAra
 kacu
 kacurAya
 kacora
@@ -32316,7 +32316,7 @@ kawAkzakzetra
 kawAkzamAhAtmya
 kawAkzamuzwa
 kawAkzaviSiKa
-kawAkzAvezaRa
+kawAkzAvekzaRa
 kawAkzaya
 kawAkzita
 kawAkzipya
@@ -32461,6 +32461,7 @@ kawwana
 kawwarinftya
 kawwAra
 kawwAraka
+kawwArikA
 kawvANga
 kaW
 kaWa
@@ -33557,8 +33558,8 @@ kamPilla
 kaplaka
 kaPa
 kaPakara
-kaPakarakUrcikA
-kaPakarakzaya
+kaPakUrcikA
+kaPakzaya
 kaPagaRqa
 kaPagulma
 kaPaGna
@@ -34957,10 +34958,10 @@ kalaNkamaya
 kalaNkaleKA
 kalaNkahft
 kalaNkANka
+kalaNkeSa
 kalaNkaya
 kalaNkita
 kalaNkin
-kalaNkeSa
 kalaca
 kalaYja
 kalawa
@@ -57350,7 +57351,6 @@ jAnumaRqala
 jAnumAtra
 jAnuSiras
 jAnusaMDi
-jAnvantarA
 jAnuka
 jAnv
 jAnvakna
@@ -57359,6 +57359,7 @@ jAnvAkna
 jAnevAdika
 jAnovAdika
 jAnya
+jAnvantarA
 jApa
 jApaka
 jApin
@@ -68813,7 +68814,7 @@ dustIrRa
 dustiTi
 dustIrTa
 dustoza
-dustyajya
+dustyaja
 dustyAjya
 dusTa
 dusTita
@@ -85362,8 +85363,6 @@ payaHprasravin
 payaHPenI
 payaHsAman
 payaHsPAti
-payogarBa
-payovikAra
 payaS
 payaScaya
 payas
@@ -85392,6 +85391,7 @@ payasyA
 payAya
 payo
 payogaqa
+payogarBa
 payograha
 payograhasamarTanaprakAra
 payoGana
@@ -85425,6 +85425,7 @@ payorASi
 payoruha
 payolatA
 payovAha
+payovikAra
 payovidArikA
 payovfD
 payovrata
@@ -106680,7 +106681,7 @@ bAzpabindu
 bAzpamuKa
 bAzpamokza
 bAzpamocana
-bAzpaviklaba
+bAzpaviklava
 bAzpaviklabaBAzin
 bAzpavfzwi
 bAzpasaMdigDa
@@ -126290,9 +126291,6 @@ yaSaHpraBAva
 yaSaHSarIra
 yaSaHSeza
 yaSaHSezIBUta
-yaSoDarman
-yaSoDavala
-yaSoviSAla
 yaSaS
 yaSaScandra
 yaSasa
@@ -126317,6 +126315,9 @@ yaSoDana
 yaSoDara
 yaSoDarA
 yaSoDareya
+yaSoDarman
+yaSoDavala
+yaSoviSAla
 yaSoDA
 yaSoDAman
 yaSonandi
@@ -158798,9 +158799,9 @@ Sic
 SiYj
 SiYjaYjikA
 SiYjat
+SiYjatzaqaNGri
 SiYjad
 SiYjadvalayasuBaga
-SiYjadzaqaNGri
 SiYjA
 SiYjAlatA
 SiYjASvatTa
@@ -179272,7 +179273,7 @@ sidDajala
 sidDatApasa
 sidDatApasI
 sidDatva
-sidDatvatA
+sidDatA
 sidDadarSana
 sidDadeva
 sidDadravya

@@ -7559,7 +7559,7 @@ upAdikA
 upAdeya
 upADi
 upADyAya
-upAnaha
+upAnah
 upAnta
 upAntika
 upAntya
@@ -8160,7 +8160,7 @@ etaSas
 etAdfS
 etAdfSa
 etAvat
-etTa
+etya
 eDa
 eDatu
 eDanIya
@@ -8277,14 +8277,14 @@ oza
 ozaRa
 ozaDi
 ozaDI
-ozaDopati
+ozaDIpati
 ozaDISa
 ozWa
 ozWapallava
 ozWaroga
 ozWopamaPalA
 O
-OkTaka
+OkTika
 Okza
 Okzaka
 OKya
@@ -8404,8 +8404,8 @@ kakzaruhA
 kakzaSAya
 kakzAntara
 kakzApawa
-kakzAvat
 kakzAvekzaka
+kakzIvat
 kakzotTA
 kakzya
 kaKa
@@ -8431,7 +8431,7 @@ kaNkA
 kaNkAla
 kaNkAlamAlin
 kaNku
-kaNkuzwa
+kaNkuzWa
 kaNkeru
 kaNkeli
 kaNkella
@@ -8481,7 +8481,7 @@ kaYcawa
 kaYcaqa
 kaYcAra
 kaYcikA
-kaYjuka
+kaYcuka
 kaYcukAlu
 kaYcukin
 kaYculikA
@@ -8501,7 +8501,7 @@ kawaKAdaka
 kawaNkawa
 kawaNkawerI
 kawana
-kawapUwana
+kawapUtana
 kawaprU
 kawaproTa
 kawaBaNga
@@ -8577,7 +8577,7 @@ kaWAhaka
 kaWikA
 kaWiYjara
 kaWina
-kawinatA
+kaWinatA
 kaWinapfzWa
 kaWinahfdaya
 kaWinAntaHkaraRa
@@ -8627,7 +8627,7 @@ kaRwakArI
 kaRwakAla
 kaRwakASana
 kaRwakAzWIla
-kaRwakIja
+kaRwakija
 kaRwakin
 kaRwakiPala
 kaRwakila
@@ -8783,7 +8783,7 @@ kanInaka
 kanInI
 kanIyas
 kanIyasa
-kanera
+kanerA
 kanta
 kanti
 kantu
@@ -8808,7 +8808,7 @@ kandavardDana
 kandaSUraRa
 kandasaMjYa
 kandasAra
-kandalu
+kandAlu
 kandin
 kandu
 kanduka
@@ -8927,7 +8927,7 @@ kapolaPalaka
 kapyAKya
 kaPa
 kaPakara
-kaPakfrccikA
+kaPakUrccikA
 kaPaGna
 kaPaRi
 kaPanASana
@@ -8982,7 +8982,7 @@ kambugrIvA
 kambU
 kamboja
 kamBArI
-kamBU
+kamBu
 kamra
 kayasTA
 kara
@@ -30388,7 +30388,7 @@ mahAkavi
 mahAkAya
 mahAkAla
 mahAkAvya
-malAkula
+mahAkula
 mahAkulIna
 mahAkUpa
 mahAkUla
@@ -39066,7 +39066,7 @@ Saravarzin
 SaravARi
 Saravfzwi
 Saravya
-SrasanDAna
+SarasanDAna
 SarAGAta
 SarAwi
 SarAqi
