@@ -12423,7 +12423,7 @@ Ayurvedamaya
 Ayurvedika
 Ayurvedin
 AyuHSezaH
-AyuHstomaH
+AyuzwomaH
 Ayuzmat
 Ayuzam
 AyuzkaH
@@ -50924,8 +50924,8 @@ BAzyakAraH
 BAzyakft
 BAzyaBUta
 BAs
-BAHkaraH
-BAHkariH
+BAskaraH
+BAskariH
 BAsaH
 BAsaka
 BAsatA
