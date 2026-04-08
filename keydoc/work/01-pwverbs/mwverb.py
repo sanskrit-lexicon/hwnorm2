@@ -4,7 +4,7 @@
  
 """
 from __future__ import print_function
-import sys, re,codecs
+import sys, re
 from parseheadline import parseheadline
 
 class Entry(object):
@@ -32,7 +32,7 @@ class Entry(object):
   
 def init_entries(filein):
  # slurp lines
- with codecs.open(filein,encoding='utf-8',mode='r') as f:
+ with open(filein, encoding="utf-8") as f:
   lines = [line.rstrip('\r\n') for line in f]
  recs=[]  # list of Entry objects
  inentry = False  
@@ -106,7 +106,7 @@ def mark_entries_verb(entries):
 
 def write(fileout,entries):
  n = 0
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout, encoding="utf-8") as f:
   for entry in entries:
    if not entry.marked:
     continue

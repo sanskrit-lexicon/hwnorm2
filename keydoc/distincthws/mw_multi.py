@@ -4,12 +4,12 @@
  
 """
 from __future__ import print_function
-import sys, re,codecs
+import sys, re
 from parseheadline import parseheadline
 
 def extract_keys(filein,dictlo):
  # headwords from xxx.txt
- f = codecs.open(filein,"r","utf-8")
+ f = open(filein, encoding="utf-8")
  recs = []
  n = 0 # number of lines read
  nout = 0 # Number of lines written
@@ -114,7 +114,7 @@ def extract_keys_b(d0,keyarr0):
  return d,keyarr
   
 def write(fileout,d,keyarr):
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout, encoding="utf-8") as f:
   nmulti = 0
   for key in keyarr:
    doclist = d[key]

@@ -2,11 +2,11 @@
   
 """
 from __future__ import print_function
-import sys, re,codecs
+import sys, re
 import os
 
 def init_hwdoc(filein,d,dictlo):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein, encoding="utf-8") as f:
   for x in f:
    hw,_ = x.split('\t')
    if hw not in d:
@@ -22,7 +22,7 @@ dictlist = re.split(r' +','acc ap90 ben   bhs bop bur cae ' \
 # dictlist = re.split(r' +','ap90 mw')
 
 def write(fileout,d):
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout, encoding="utf-8") as f:
   keys = d.keys()
   for hw in keys:
    dict_str = ','.join(d[hw])

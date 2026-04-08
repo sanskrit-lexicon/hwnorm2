@@ -4,7 +4,7 @@
  
 """
 from __future__ import print_function
-import sys, re,codecs
+import sys, re
 from parseheadline import parseheadline
 
 class Entry(object):
@@ -30,7 +30,7 @@ class Entry(object):
 
 def init_entries(filein):
  # slurp lines
- with codecs.open(filein,encoding='utf-8',mode='r') as f:
+ with open(filein, encoding="utf-8") as f:
   lines = [line.rstrip('\r\n') for line in f]
  recs=[]  # list of Entry objects
  inentry = False  
@@ -157,7 +157,7 @@ def merge_marked_entries(entries):
 
 def write(fileout,entrylists):
  n = 0
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout, encoding="utf-8") as f:
   for entrylist in entrylists:
    k1 = entrylist[0].metad['k1']  
    n = n + 1
@@ -174,7 +174,7 @@ def write(fileout,entrylists):
 
 def init_pwnonverbs(filein):
  # slurp lines
- with codecs.open(filein,encoding='utf-8',mode='r') as f:
+ with open(filein, encoding="utf-8") as f:
   lines = [line.rstrip('\r\n') for line in f if not line.startswith(';')]
  d = {}
  for line in lines:

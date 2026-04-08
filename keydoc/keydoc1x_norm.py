@@ -3,7 +3,7 @@
   
 """
 from __future__ import print_function
-import sys, re,codecs
+import sys, re
 from hwnorm1c import normalize_key
 class HWDoc(object):
  def __init__(self,line):
@@ -32,7 +32,7 @@ class HWDoc(object):
   return ans
 
 def init_hwdoc(filein):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein, encoding="utf-8") as f:
   recs = [HWDoc(x) for x in f if not x.startswith(';')]
  return recs
 
@@ -46,7 +46,7 @@ def normalize_recs(recs):
     rec.normptrs.append(norm)
  
 def write(fileout,recs):
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout, encoding="utf-8") as f:
   n = 0
   for rec in recs:
    if rec.dup:
@@ -61,7 +61,7 @@ def write(fileout,recs):
  print(n,"records written to",fileout)
 
 def init_normrecs(filein):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein, encoding="utf-8") as f:
   d = {}
   for line in f:
    line = line.rstrip('\r\n')

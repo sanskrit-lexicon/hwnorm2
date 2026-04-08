@@ -18,9 +18,9 @@
    Oct 18, 2017. Revised the 'cC -> C' normalization.
 """
 from __future__ import print_function
-import re,codecs
+import re
 def unused_init(filename):
-    with codecs.open(filename,'r','utf-8') as f:
+    with open(filename, encoding='utf-8') as f:
         ans = {}
         for x in f:
          x = x.rstrip('\r\n')
@@ -146,8 +146,8 @@ def main():
  import sys
  filein = sys.argv[1]
  fileout = sys.argv[2]
- f = codecs.open(filein,'r','utf-8')
- fout = codecs.open(fileout,'w','utf-8')
+ f = open(filein, encoding='utf-8')
+ fout = open(fileout, encoding='utf-8')
  n = 0
  dnorm={}
  recsout=[]

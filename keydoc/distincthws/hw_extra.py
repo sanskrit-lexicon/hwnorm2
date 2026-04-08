@@ -3,12 +3,12 @@
  Also, initialize multidocs
 """
 from __future__ import print_function
-import sys, re,codecs
+import sys, re
 from parseheadline import parseheadline
 import os
 
 def init_hws(filein):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein, encoding="utf-8") as f:
   recs = [x.rstrip('\r\n') for x in f if not x.startswith(';')]
  print(len(recs),"records from",filein)
  return recs
@@ -26,7 +26,7 @@ class Hwextra0(object):
   self.multi=False
 
 def init_hwextra(filein):
- with codecs.open(filein,encoding='utf-8',mode='r') as f:
+ with open(filein, encoding="utf-8") as f:
   recs = [Hwextra0(line) for line in f if not line.startswith(';')]
  print(len(recs),"records from",filein)
  return recs
@@ -48,8 +48,8 @@ def mark_multi(xrecs,hws):
 def write(fileout,filemulti,xrecs):
  # d is for checking the 'k1P' parent
  n = 0
- f = codecs.open(fileout,"w","utf-8")
- f1 = codecs.open(filemulti,"w","utf-8")
+ f = open(fileout, encoding="utf-8")
+ f1 = open(filemulti, encoding="utf-8")
  nmulti = 0
  for xrec in xrecs:
   k1P = xrec.k1P

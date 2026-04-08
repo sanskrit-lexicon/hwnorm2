@@ -4,7 +4,7 @@
    usage: python get_sqlite.py slp1
 """
 from __future__ import print_function
-import sys,re,codecs;
+import sys,re;
 import sqlite3
 from hwnorm1c import normalize_key
 if __name__ == "__main__":

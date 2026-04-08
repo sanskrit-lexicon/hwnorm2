@@ -5,7 +5,7 @@
   b) list of multi-headword documents 
 """
 from __future__ import print_function
-import sys, re,codecs
+import sys, re
 
 class HWDoc(object):
  def __init__(self,line):
@@ -31,7 +31,7 @@ class HWDoc(object):
 def extract_hws(filein,dictlo):
  # distinct headwords are one per line
  # Allow ; comments in filein
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein, encoding="utf-8") as f:
   hws = [HWDoc(x) for x in f if not x.startswith(';')]
  n = len(hws)
  print('extract_hws:',n,"records in",filein)
@@ -44,7 +44,7 @@ def extract_multihws(filein,dictlo):
  if not os.path.exists(filein):
   print('no multihws: no such file',filein)
   return []
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein, encoding="utf-8") as f:
   multihws = [x.rstrip('\r\n').split(',') for x in f if not x.startswith(';')]
  n = len(multihws)
  print('extract_multihws:',n,"records in",filein)
@@ -52,7 +52,7 @@ def extract_multihws(filein,dictlo):
 
 def write(fileout,docs):
  # docs is a list of HWDoc objects
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout, encoding="utf-8") as f:
   nmulti = 0
   for doc in docs:
    doclist = doc.dochws

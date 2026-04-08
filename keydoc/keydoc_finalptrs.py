@@ -2,7 +2,7 @@
  
 """
 from __future__ import print_function
-import sys, re,codecs
+import sys, re
 from hwnorm1c import normalize_key
 class HWDoc(object):
  def __init__(self,line):
@@ -19,7 +19,7 @@ class HWDoc(object):
   self.dup = False
 
 def init_hwdoc(filein):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein, encoding="utf-8") as f:
   recs = [HWDoc(x) for x in f if not x.startswith(';')]
  return recs
  
@@ -30,7 +30,7 @@ def init_extra(filein):
   print('keydoc_finalptrs: file not found',filein)
   return recs
  
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein, encoding="utf-8") as f:
   lines = [x.rstrip('\r\n') for x in f if not x.startswith(';')]
  for iline,line in enumerate(lines):
   try:
@@ -93,7 +93,7 @@ def add_pointers(recs,recs_extra):
  print(nprob,'add_pointers headword problems')
 
 def write(fileout,recs):
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout, encoding="utf-8") as f:
   nout = 0
   for rec in recs:
    doc_str = ','.join(rec.dochws)

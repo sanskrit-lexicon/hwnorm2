@@ -3,7 +3,7 @@
    Create keydoc_glob1.sqlite from keydoc_glob1.txt
 """
 from __future__ import print_function
-import sys,re,codecs;
+import sys,re;
 import sqlite3
 import time  # for performance checks
 def remove(fileout):
@@ -83,7 +83,7 @@ if __name__ == "__main__":
  tabname = 'keydoc_glob1';
  create_table(c,conn,tabname)
  
- f = codecs.open(filein,"r","utf-8")
+ f = open(filein, encoding="utf-8")
  nlines = 0
  nrow = 0
  batch = []

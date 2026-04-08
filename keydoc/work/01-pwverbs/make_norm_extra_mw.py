@@ -3,10 +3,10 @@
  
 """
 from __future__ import print_function
-import sys, re,codecs
+import sys, re
 
 def write(fileout,recs):
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout, encoding="utf-8") as f:
   n = 0
   for rec in recs:
    if (rec.mw_preverb != rec.pw_preverb) and rec.mwfound:
@@ -23,7 +23,7 @@ class Preverb3(object):
    self.mw_preverb,self.mwfound) = re.split(r' +',line)
 
 def init_preverb3(filein):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein, encoding="utf-8") as f:
   recs = [Preverb3(x) for x in f if not x.startswith(';')]
  print(len(recs),"records read from",filein)
  return recs
