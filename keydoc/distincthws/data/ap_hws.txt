@@ -50770,6 +50770,7 @@ BAroQiH
 BAragaH
 BAraBft
 BArayazwiH
+BArayazwiDaraH
 BAravAha
 BAravAhaH
 BAravAhanaH
@@ -50925,6 +50926,13 @@ BAzyakft
 BAzyaBUta
 BAs
 BAskaraH
+BAskaram
+BAskarADvan
+BAskarAvartaH
+BAskaradyutiH
+BAskarapriyaH
+BAskaralavaRam
+BAskarasaptamI
 BAskariH
 BAsaH
 BAsaka
