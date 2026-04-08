@@ -12,7 +12,7 @@ class Preverb1(object):
   self.mwspell = None
  
 def init_preverb1(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [Preverb1(x) for x in f]
  print(len(recs),"records read from",filein)
  return recs
@@ -70,7 +70,7 @@ def mwspell(recs):
 
 def write(fileout,recs):
  n = 0
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for rec in recs:
    if not rec.mwspell:
     continue

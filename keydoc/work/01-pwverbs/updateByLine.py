@@ -64,7 +64,7 @@ class Change(object):
 
 def init_changein(changein ):
  changes = [] # ret
- f = open(changein, encoding="utf-8")
+ f = open(changein, "r", encoding="utf-8")
  n = 0
  sep='XXXX'
  for line in f:
@@ -87,7 +87,7 @@ def update(filein,changein,fileout):
  # determine change structure from changein file
  changes = init_changein(changein)
  # initialize input records
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   # recs is a list of lines, to accomodate 'ins' and 'del'
   recs = [[line.rstrip('\n\r')] for line in f]
   print(len(recs),"lines read from",filein)
@@ -138,7 +138,7 @@ def update(filein,changein,fileout):
    oldrec.pop()  # remove last record
    recs[irec] = oldrec
  # write all records to fileout
- fout = open(fileout, encoding='utf-8')
+ fout = open(fileout, "w", encoding='utf-8')
  nout = 0
  for rec in recs:
   # rec is a list of strings, possibly empty

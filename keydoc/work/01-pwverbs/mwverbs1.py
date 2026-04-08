@@ -20,7 +20,7 @@ class MWVerb(object):
   self.used = False
 
 def init_mwverbs(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [MWVerb(x) for x in f]
  print(len(recs),"mwverbs read from",filein)
  #recs = [r for r in recs if r.cat in ['root','genuineroot']]
@@ -80,7 +80,7 @@ def check1(mwreclists):
 
 def write(fileout,mwreclists):
  n = 0
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for mwreclist in mwreclists:
    mwrec0 = mwreclist[0]
    k1 = mwrec0.k1

@@ -83,7 +83,7 @@ def write(fileout,entrylists):
    return 'yes'
   else:
    return 'no'
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for entrylist in entrylists:
    entry0 = entrylist[0]
    k1 = entry0.metad['k1']  # same for all entries in entrylist
@@ -130,7 +130,7 @@ class MWVerb(object):
   self.used = False
 
 def init_mwverbs(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [MWVerb(x) for x in f]
  print(len(recs),"mwverbs read from",filein)
  #recs = [r for r in recs if r.cat in ['root','genuineroot']]
@@ -140,7 +140,7 @@ def init_mwverbs(filein):
 
 def write1(fileout,mwrecs):
  n = 0
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for mwrec in mwrecs:
    if mwrec.used:
     continue
@@ -151,7 +151,7 @@ def write1(fileout,mwrecs):
 
 def write2(fileout,entrylists):
  n = 0
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for entrylist in entrylists:
    if len(entrylist) == 1:  # only do multiple
     continue
@@ -276,7 +276,7 @@ class Preverb1(object):
   self.upasargas = a
 
 def init_preverb1(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [Preverb1(x) for x in f]
  print(len(recs),"records read from",filein)
  return recs
@@ -300,7 +300,7 @@ class PWMW(object):
   self.used = False
 
 def init_pw_mw_map(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [PWMW(x) for x in f if not x.startswith(';')]
  print(len(recs),"records read from",filein)
  keys,d = k1map(recs)
@@ -332,7 +332,7 @@ def spellmerge(recs_preverb1,mwrecs,pwmwd):
 
 def write_matches(fileout,recs_preverb1):
  n = 0
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for rec1 in recs_preverb1:
    if not rec1.used:
     continue
@@ -344,7 +344,7 @@ def write_matches(fileout,recs_preverb1):
 
 def write_unmatched(fileout,recs):
  n = 0
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for rec in recs:
    if rec.used:
     continue

@@ -38,7 +38,7 @@ class HWDoc(object):
    return '%s\t%s' %(x,y)
 
 def init_hwdoc(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [HWDoc(x) for x in f if not x.startswith(';')]
  return recs
 
@@ -282,7 +282,7 @@ def extract_keys_c2(recsin):
  return recsout
 
 def write(fileout,recs):
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for rec in recs:
    #out = "%s\t%s" %(rec.status,rec)
    out = "%s" % rec

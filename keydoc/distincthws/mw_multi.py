@@ -9,7 +9,7 @@ from parseheadline import parseheadline
 
 def extract_keys(filein,dictlo):
  # headwords from xxx.txt
- f = open(filein, encoding="utf-8")
+ f = open(filein, "r", encoding="utf-8")
  recs = []
  n = 0 # number of lines read
  nout = 0 # Number of lines written
@@ -114,7 +114,7 @@ def extract_keys_b(d0,keyarr0):
  return d,keyarr
   
 def write(fileout,d,keyarr):
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   nmulti = 0
   for key in keyarr:
    doclist = d[key]

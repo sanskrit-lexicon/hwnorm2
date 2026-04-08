@@ -83,7 +83,7 @@ if __name__ == "__main__":
  tabname = 'keydoc_glob1';
  create_table(c,conn,tabname)
  
- f = open(filein, encoding="utf-8")
+ f = open(filein, "r", encoding="utf-8")
  nlines = 0
  nrow = 0
  batch = []

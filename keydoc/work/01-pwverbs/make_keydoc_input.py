@@ -6,7 +6,7 @@ from __future__ import print_function
 import sys, re
 
 def write(fileout,recs):
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   n = 0
   for rec in recs:
    outarr=[]
@@ -26,7 +26,7 @@ class Preverb3(object):
    self.mw_preverb,self.mwfound) = re.split(r' +',line)
 
 def init_preverb3(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [Preverb3(x) for x in f if not x.startswith(';')]
  print(len(recs),"records read from",filein)
  return recs

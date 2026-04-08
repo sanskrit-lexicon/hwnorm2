@@ -32,7 +32,7 @@ class Entry(object):
   
 def init_entries(filein):
  # slurp lines
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   lines = [line.rstrip('\r\n') for line in f]
  recs=[]  # list of Entry objects
  inentry = False  
@@ -106,7 +106,7 @@ def mark_entries_verb(entries):
 
 def write(fileout,entries):
  n = 0
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for entry in entries:
    if not entry.marked:
     continue

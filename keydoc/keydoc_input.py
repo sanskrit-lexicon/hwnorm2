@@ -15,12 +15,12 @@ class HWDoc(object):
   self.docptrs = re.split(r'[,:]',parts[1])
 
 def init_hwdoc(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [HWDoc(x) for x in f if not x.startswith(';')]
  return recs
  
 def write(fileout,recs):
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   nout = 0
   for rec in recs:
    doc_str = ','.join(rec.dochws)

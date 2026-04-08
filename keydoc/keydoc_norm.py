@@ -25,7 +25,7 @@ class HWDoc(object):
    self.docptrs = re.split(r'[,:]',parts[1])
 
 def init_hwdoc(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [HWDoc(x) for x in f if not x.startswith(';')]
  return recs
 
@@ -40,7 +40,7 @@ def normalize_recs(recs,normd):
      docptrs.append(norm)
  
 def write(fileout,recs):
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for rec in recs:
    doc_str = ','.join(rec.dochws)
    docptrs = rec.docptrs
@@ -54,7 +54,7 @@ def write(fileout,recs):
  print(len(recs),"records written to",fileout)
 
 def init_normrecs(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   d = {}
   for line in f:
    line = line.rstrip('\r\n')

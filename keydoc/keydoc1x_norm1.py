@@ -31,7 +31,7 @@ class HWDoc(object):
   return ans
 
 def init_hwdoc(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [HWDoc(x) for x in f if not x.startswith(';')]
  return recs
 
@@ -45,7 +45,7 @@ def normalize_recs(recs):
     rec.normptrs.append(norm)
  
 def write(fileout,recs):
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   n = 0
   for rec in recs:
    if rec.dup:
@@ -107,7 +107,7 @@ def init_multi(multidir):
  paths = glob.glob(pattern)
  multihws = []
  for path in paths:
-  with open(path, encoding="utf-8") as f:
+  with open(path, "r", encoding="utf-8") as f:
    recs = [x.strip().split(',') for x in f if not x.startswith(';')]
    print('multipath',path,len(recs))
    multihws = multihws + recs

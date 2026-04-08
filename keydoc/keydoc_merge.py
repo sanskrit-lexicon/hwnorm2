@@ -32,7 +32,7 @@ class HWDoc(object):
    return '%s\t%s' %(x,y)
 
 def init_hwdoc(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [HWDoc(x) for x in f if not x.startswith(';')]
  print(len(recs),"read from",filein)
  d = {}
@@ -160,7 +160,7 @@ def check(recs,dbg=False):
   check(recs)
 
 def write(fileout,recs):
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for rec in recs:
    if rec.dup:
     continue
@@ -176,7 +176,7 @@ def write(fileout,recs):
  print(len(recs),"records written to",fileout)
 
 def init_dictlist(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [x.rstrip() for x in f]
  return recs
 if __name__=="__main__":

@@ -22,7 +22,7 @@ class HWDoc(object):
 
 def init_hwdoc(filein,d,dictlo):
   
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   for x in f:
    x = x.rstrip('\r\n')
    hw,dochws_str = x.split('\t')
@@ -49,7 +49,7 @@ def init_hwdoc(filein,d,dictlo):
 
 
 def write(fileout,d):
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   keys = d.keys()
   for hw in keys:
    recs = []
@@ -68,7 +68,7 @@ def write(fileout,d):
  print(len(keys),"records written to",fileout)
 
 def init_dictlist(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [x.rstrip() for x in f]
  return recs
  

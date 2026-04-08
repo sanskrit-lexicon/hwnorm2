@@ -22,7 +22,7 @@ class HWDoc(object):
    self.docptrs = re.split(r'[,:]',parts[1])
 
 def init_hwdoc(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [HWDoc(x) for x in f if not x.startswith(';')]
  print(len(recs),"records from",filein)
  return recs
@@ -39,7 +39,7 @@ def init_hwextra(filein):
  if not os.path.exists(filein):
   print('init_hwextra : no such file',filein)
   return []
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [Hwextra0(line) for line in f if not line.startswith(';')]
  print(len(recs),"records from",filein)
  return recs
@@ -87,7 +87,7 @@ def addx(recs,xrecs):
    rec.docptrs.append(k1)
 
 def write(fileout,recs):
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for rec in recs:
    doc_str = ','.join(rec.dochws)
    docptrs = rec.docptrs

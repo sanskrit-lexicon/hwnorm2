@@ -16,13 +16,13 @@ class Verbmap(object):
    self.dictlists.append(dictlist)
 
 def init_verbmap(filein):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   recs = [Verbmap(x) for x in f if not x.startswith(';')]
  print(len(recs),"records read from",filein)
  return recs
 
 def write(fileout,recs):
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   n = 0
   for rec in recs:
    out = ','.join(rec.verbs)

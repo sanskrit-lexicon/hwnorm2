@@ -6,7 +6,7 @@ import sys, re
 import os
 
 def init_hwdoc(filein,d,dictlo):
- with open(filein, encoding="utf-8") as f:
+ with open(filein, "r", encoding="utf-8") as f:
   for x in f:
    hw,_ = x.split('\t')
    if hw not in d:
@@ -22,7 +22,7 @@ dictlist = re.split(r' +','acc ap90 ben   bhs bop bur cae ' \
 # dictlist = re.split(r' +','ap90 mw')
 
 def write(fileout,d):
- with open(fileout, encoding="utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   keys = d.keys()
   for hw in keys:
    dict_str = ','.join(d[hw])
