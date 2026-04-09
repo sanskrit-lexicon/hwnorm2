@@ -13,3 +13,4 @@ keydoc/data/*
 keydoc/dataglob/*
 keydoc/keydoc_glob.sqlite
 keydoc/keydoc_glob1.sqlite
+*.DS_Store
