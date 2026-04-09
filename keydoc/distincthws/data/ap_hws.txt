@@ -51256,6 +51256,7 @@ BUgarBaH
 BUgfham
 BUgeham
 BUgolaH
+BUgolavidyA
 BUGanaH
 BUGnI
 BUcakram
@@ -51342,6 +51343,8 @@ BUtAntakaH
 BUtABizaNgaH
 BUtAriH
 BUtArTaH
+BUtArTakaTanam
+BUtArTavyavahftiH
 BUtAvamAnin
 BUtAtmaka
 BUtAtman
