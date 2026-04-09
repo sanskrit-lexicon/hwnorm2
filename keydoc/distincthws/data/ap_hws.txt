@@ -51275,6 +51275,10 @@ BUdevaH
 BUsuraH
 BUDanaH
 BUDara
+BUDaraH
+BUDareSvaraH
+BUDararAjaH
+BUDarjaH
 BUDAtrI
 BUDraH
 BUnAgaH
