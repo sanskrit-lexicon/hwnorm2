@@ -5517,6 +5517,7 @@ aBayapradAnam
 aBayapatram
 aBayamudrA
 aBayayAcanA
+aBayayAcanAYjaliH
 aBayavacanam
 aBayavAc
 aBayasani
@@ -8998,6 +8999,7 @@ avahAlikA
 avahitTA
 abahitTA
 avahitTam
+abahitTam
 avahf
 avaharaRam
 avahAraH
@@ -51279,7 +51281,7 @@ BUDara
 BUDaraH
 BUDareSvaraH
 BUDararAjaH
-BUDarjaH
+BUDarajaH
 BUDAtrI
 BUDraH
 BUnAgaH
