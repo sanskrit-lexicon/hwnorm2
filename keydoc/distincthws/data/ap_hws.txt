@@ -50855,7 +50855,7 @@ BAvagrAhin
 BAvagrAhya
 BAvacezwitam
 BAvajaH
-BAvajYaa
+BAvajYa
 BAvavid
 BAvadarSin
 BAvanirvfttiH
@@ -51256,6 +51256,7 @@ BUgarBaH
 BUgfham
 BUgeham
 BUgolaH
+BUgolavidyA
 BUGanaH
 BUGnI
 BUcakram
@@ -51275,6 +51276,10 @@ BUdevaH
 BUsuraH
 BUDanaH
 BUDara
+BUDaraH
+BUDareSvaraH
+BUDararAjaH
+BUDarjaH
 BUDAtrI
 BUDraH
 BUnAgaH
@@ -51338,6 +51343,8 @@ BUtAntakaH
 BUtABizaNgaH
 BUtAriH
 BUtArTaH
+BUtArTakaTanam
+BUtArTavyavahftiH
 BUtAvamAnin
 BUtAtmaka
 BUtAtman
