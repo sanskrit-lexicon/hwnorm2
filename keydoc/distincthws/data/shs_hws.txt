@@ -8677,7 +8677,7 @@ kaRqola
 kaRqolaka
 kaRqolavIRA
 kaRqolI
-kaRqroGa
+kaRqvoGa
 kaRva
 kata
 kataka
@@ -9073,8 +9073,8 @@ karaSoTa
 karahAwa
 karahAwaka
 karAGAta
-karAmardDa
-karAmuka
+karAmardda
+karAmbuka
 karAmlaka
 karAyikA
 karArowa
@@ -9164,7 +9164,7 @@ karkasAra
 karkAru
 karkAruka
 karki
-karketara
+karketana
 karkowa
 karkowaka
 karkowakI

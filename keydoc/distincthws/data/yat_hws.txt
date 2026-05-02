@@ -8500,8 +8500,8 @@ karahAwa
 karahAwaka
 karAgrapallava
 karAGAta
-karAmardDa
-karAmuka
+karAmardda
+karAmbuka
 karAmlaka
 karAyikA
 karArowa
@@ -13771,7 +13771,7 @@ GAra
 GArttika
 GAsa
 GAsi
-GiMR
+GiR
 Gu
 Guw
 Guwa

@@ -34268,7 +34268,6 @@ karkarAwuka
 karkarewu
 karkarequ
 karkarequka
-karkAra
 karkari
 karkarI
 karkarikarRa
@@ -34284,6 +34283,7 @@ karkaSatva
 karkaSadala
 karkaSadalA
 karkaSikA
+karkAra
 karkAru
 karkAruka
 karkeRata
@@ -36790,8 +36790,8 @@ kAyAgni
 kAyArohaRa
 kAyAvarohaRa
 kAyAvatAra
-kAyotsarga
 kAyoQaja
+kAyotsarga
 kAyaka
 kAyikA
 kAyika
@@ -36815,7 +36815,7 @@ kArakAnvitA
 kAraja
 kAraRa
 kAraRA
-kAraRakaraRa
+kAraRakAraRa
 kAraRakAritam
 kAraRagata
 kAraRaguRa
@@ -99233,8 +99233,8 @@ praTIyas
 praTu
 praTuka
 praTama
-praTamA
 praTamam
+praTamA
 praTamakaTita
 praTamakalpa
 praTamakalpika

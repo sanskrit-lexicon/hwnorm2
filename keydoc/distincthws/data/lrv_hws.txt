@@ -2081,7 +2081,7 @@ annAdya
 annAcCAdana
 annakAla
 annakUwa
-annakozwaka
+annakozWaka
 annaganDi
 annajala
 annadAsa
@@ -9522,7 +9522,7 @@ karuRAvimuKa
 karewa
 kareRu
 kareRuBU
-kareRusUta
+kareRusuta
 karowa
 karka
 karkawa

@@ -8840,7 +8840,7 @@ puri
 purItat
 purIza
 purIzaRa
-purIzaDAna
+purIzADAna
 purIzama
 purIzya
 puru
