@@ -12365,7 +12365,7 @@ ahalyajAraH
 ahalyanandanaH
 ahalyahradaH
 ahallikaH
-ahaviH
+ahavi
 ahasta
 ahaha
 ahahA
@@ -23355,7 +23355,7 @@ kaSeru
 kaseru
 kaSeruH
 kaSerukaH
-kaseruka
+kaserukam
 kaserukAH
 kaSerukA
 kaSmala
@@ -23544,9 +23544,9 @@ kAgaH
 kANkz
 kANkzA
 kANkzita
+kANkzin
 kANkzitA
 kANkzitam
-kANkzin
 kANkzoruH
 kAcaH
 kAcam
@@ -24075,7 +24075,6 @@ kArtikeyaprasUH
 kArtsnyam
 kArdama
 kArdamI
-kArdamaka
 kArdamika
 kArdamikI
 kArpawaH
@@ -39892,7 +39891,6 @@ druhaRaH
 druhiRaH
 druhyuH
 drU
-drUH
 drUGaRaH
 drURaH
 drURam
