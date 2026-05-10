@@ -3306,7 +3306,7 @@ unnam
 upanam
 parinam
 pranam
-samnam
+saMnam
 namas
 namaskar
 namasy

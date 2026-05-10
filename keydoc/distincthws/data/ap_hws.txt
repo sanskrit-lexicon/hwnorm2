@@ -1,4 +1,5 @@
 a
+aH
 afRin
 aMS
 aMSaH
@@ -84,6 +85,7 @@ akaTya
 akanizWa
 akanizWaH
 akanizWapaH
+akanizWagaH
 akanyA
 akampana
 akampanaH
@@ -592,6 +594,7 @@ agnidik
 agnikriyA
 agnikrIqA
 agnigarBa
+agnigarBaH
 agnigarBA
 agnigranTaH
 agniGftam
@@ -599,6 +602,7 @@ agnicit
 agnicayaH
 agnicayanam
 agnicityA
+agnicayanaH
 agnicitvat
 agnicUqaH
 agnicUrRam
@@ -728,6 +732,7 @@ agnisaMskAraH
 agnisaKaH
 agnisahAyaH
 agnisamBava
+agnisamBavaH
 agnisamBavam
 agnisAkzika
 agnisAram
@@ -766,6 +771,7 @@ agrAMSuH
 agrAkzi
 agrAdvan
 agrAnIkaH
+agrAnIkam
 agrARIkaH
 agrAyaRIyama
 agrAvalehitam
@@ -2367,6 +2373,7 @@ aDamANgam
 aDamArDam
 aDamArDya
 aDamAcAra
+aDamAcAraH
 aDamarRaH
 aDamarRikaH
 aDamaBftaH
@@ -2508,6 +2515,8 @@ aDikArasTa
 aDikArAQya
 aDikArin
 aDikAravat
+aDikArI
+aDikAravAn
 aDikAritA
 aDikAritvam
 aDikfta
@@ -2644,6 +2653,7 @@ aDizavaRyA
 aDizWA
 aDizWita
 aDizWAtf
+aDizWAtftA
 aDizWAnam
 aDizWAnADikaraRam
 aDizWAnaSarIram
@@ -4258,6 +4268,7 @@ anuzRA
 anuzRam
 anuzRASIta
 anuzRaguH
+anuzRago
 anuzRavallikA
 anuzvaDa
 anuzvaDam
@@ -4398,6 +4409,7 @@ anekAkzara
 anekAc
 anekAgra
 anekAnta
+anekAntaH
 anekArTa
 anekArTaH
 anekAl
@@ -4511,6 +4523,7 @@ antar
 antaraMsaH
 antaragniH
 antaraNga
+antaraNgam
 antaravayava
 antarAkASaH
 antarAkUtam
@@ -4546,7 +4559,7 @@ antargeham
 antarBavanam
 antarGaRaH
 antarGaRam
-ntarGanaH
+antarGanaH
 antarGAtaH
 antaScara
 antarja
@@ -5167,7 +5180,7 @@ apakartf
 apakarman
 apakAraH
 apakArArTin
-apakAragir
+apakAragIH
 apakAraka
 apakArin
 apakArakaH
@@ -5356,6 +5369,7 @@ apaDvAnta
 apaDvAntam
 apanasa
 apanAman
+apanAma
 apaniDi
 apanI
 apanayaH
@@ -6831,6 +6845,7 @@ aBiyug
 aBiyoktavya
 aBiyojya
 aBiyoktf
+aBiyoktA
 aBiyogaH
 aBiyogin
 aBiyojanam
@@ -7562,6 +7577,7 @@ amatta
 amaDavya
 amanas
 amanaska
+amanaH
 amanogata
 amanonIta
 amanojYa
@@ -7616,6 +7632,7 @@ amarakowaH
 amarakoSaH
 amarakozaH
 amaracandraH
+amaraMjayaH
 amarajaH
 amarataruH
 amaradAruH
@@ -7668,6 +7685,7 @@ amalam
 amalAtman
 amalagarBaH
 amalapatatrin
+amalapatatrI
 amalaratnam
 amalamaRiH
 amalayati
@@ -10038,6 +10056,7 @@ avayavArTaH
 avayavaprasidDiH
 avayavaSaH
 avayavin
+avayavI
 avayA
 avayAta
 avayAtf
@@ -10057,6 +10076,7 @@ avarAvara
 avarokta
 avaraja
 avarajaH
+avarajA
 avaraparam
 avarapuruzAH
 avaravarRa
@@ -10102,6 +10122,7 @@ avarohaSAyin
 avarohaRam
 avarohikA
 avarohin
+avarohI
 avarohiRI
 avarUpa
 avarokin
@@ -11207,6 +11228,7 @@ aSvArohaRIyam
 aSvArohin
 aSvezita
 aSvorasa
+aSvorasam
 aSvakandA
 aSvakandikA
 aSvakarRaH
@@ -11635,6 +11657,8 @@ asaMkula
 asaMkulaH
 asaMkrAnta
 asaMKya
+asaMKyatA
+asaMKyatvam
 asaMKyAta
 asaMKyeya
 asaMKyeyaH
@@ -11840,6 +11864,7 @@ asahanIyapIqa
 asahamAna
 asahizRu
 asahAya
+asahAyatA
 asahita
 asAkzAt
 asAkzAtkAraH
@@ -11856,6 +11881,8 @@ asADAraRa
 asADAraRaH
 asADAraRam
 asADu
+asADutA
+asADutvam
 asADvI
 asADuvfttA
 asAnniDyam
@@ -12793,6 +12820,7 @@ Agantuka
 AgantukajvaraH
 AgantukajvarakaH
 AgamaH
+Agamam
 AgamApAyin
 AgamAvartA
 Agamanirapekza
@@ -12900,6 +12928,7 @@ AGUrRanam
 AGf
 AGAraH
 AGfRi
+AGfRIvasu
 AGfRiH
 AGrA
 AGrARa
@@ -14044,6 +14073,7 @@ APUkam
 AbanD
 AbadDa
 AbadDam
+AbadDaH
 AbadDamaRqala
 AbadDamAla
 AbaDaH
@@ -14333,6 +14363,8 @@ Ayatanam
 Ayatanatvam
 Ayatanavat
 Ayatta
+AyattatA
+Ayattatvam
 AyattiH
 AyaTAtaTyam
 AyaTApuryam
@@ -15199,6 +15231,9 @@ ASlezaRa
 ASva
 ASvam
 ASvatTa
+ASvatTI
+ASvatTika
+ASvatTikI
 ASvatTA
 ASvatTam
 ASvaBArika
@@ -17846,6 +17881,7 @@ udBramaH
 udBramaRam
 udBrAnta
 udBrAntam
+udBrAntakam
 udman
 udyanDA
 udyam
@@ -17949,6 +17985,10 @@ udvAsa
 udvAsas
 udvij
 udvigna
+udvignacitta
+udvignacetas
+udvignamanas
+udvignahfdaya
 udvignadfS
 udvega
 udvegaH
@@ -20080,7 +20120,7 @@ fRamokzaH
 fRaSoDanam
 fRAdAnam
 fRodgrahaRam
-fRarRama
+fRArRam
 fRakartf
 fRakAti
 fRagrasta
@@ -20088,6 +20128,7 @@ fRagrahaH
 fRagrAhin
 fRacit
 fRacCedaH
+fRaYcayaH
 fRadAtf
 fRadAyin
 fRadAsaH
@@ -20196,6 +20237,7 @@ fdDisAkzAtkriyA
 fdDita
 fdDimat
 fDat
+fDaddvAra
 fDaj
 fDak
 fP
@@ -20251,6 +20293,7 @@ fziyajYaH
 fzilokaH
 fziSrAdDam
 fziSrezWaH
+fziSrezWam
 fzistomaH
 fzItata
 fzIvat
@@ -20297,8 +20340,10 @@ ekAgnikaH
 ekAgra
 ekAgraH
 ekAgrya
+ekAgryam
 ekANgaH
 ekANgam
+ekANgO
 ekANgI
 ekAYjaliH
 ekANgikA
@@ -20306,6 +20351,7 @@ ekARqaH
 ekADipatiH
 ekAnaMSA
 ekAnudizwa
+ekAnudizwam
 ekAnta
 ekAntaH
 ekAntam
@@ -20313,6 +20359,7 @@ ekAntena
 ekAntataH
 ekAnte
 ekAntara
+ekAntaraH
 ekAntika
 ekAntitvam
 ekAntin
@@ -20332,9 +20379,11 @@ ekASIta
 ekASItiH
 ekAzwakA
 ekAzWIkA
+ekAzWIlA
 ekAzWIla
 ekAzWIlaH
 ekAhan
+ekAhaH
 ekAtapatra
 ekAtman
 ekAdeSaH
@@ -20362,6 +20411,8 @@ ekakara
 ekakArya
 ekakAryam
 ekakAlaH
+ekakAlam
+ekakAle
 ekakAlikam
 ekakAlIna
 ekakuRqalaH
@@ -20374,14 +20425,17 @@ ekaguruka
 ekaguruH
 ekagurukaH
 ekagrAma
+ekagrAmaH
 ekagrAmIRa
 ekacakra
+ekacakraH
 ekacakrA
 ekacatvAriMSat
 ekacara
 ekacaraH
 ekacaraRa
 ekacArin
+ekacAriRI
 ekacitta
 ekacittam
 ekacintanam
@@ -20389,6 +20443,7 @@ ekacinmaya
 ekacetas
 ekamanas
 ekacodana
+ekacodanam
 ekacCatra
 ekacCAyASrita
 ekaja
@@ -20407,7 +20462,8 @@ ekatAna
 ekatAnaH
 ekatAla
 ekatAlaH
-ekalam
+ekatAlam
+ekatAlI
 ekatIrTin
 ekatejana
 ekatriMSat
@@ -20428,10 +20484,13 @@ ekadevata
 ekadevatya
 ekadEvatya
 ekadeSa
+ekadeSaH
 ekadeSin
 ekadeha
 ekadehin
+ekadehaH
 ekaDanaH
+ekaDanam
 ekaDanin
 ekaDarman
 ekaDarmin
@@ -20453,6 +20512,7 @@ ekanipAtaH
 ekanizWa
 ekanetraH
 ekapakza
+ekapakzaH
 ekapakzIBAvaH
 ekapaYcASat
 ekapatika
@@ -20462,7 +20522,10 @@ ekapad
 ekapAd
 ekapadI
 ekapada
+ekapadam
+ekapadaH
 ekapade
+ekapadA
 ekapara
 ekapari
 ekaparRA
@@ -20485,6 +20548,7 @@ ekapiRqatvam
 ekaputra
 ekapuruzaH
 ekapuzkalaH
+ekapuzkaraH
 ekaprakAra
 ekapraKya
 ekapraButvam
@@ -20499,6 +20563,7 @@ ekaBakti
 ekaBAryA
 ekaBArryaH
 ekaBAva
+ekaBAvaH
 ekaBUta
 ekaBUmaH
 ekaBojana
@@ -20517,17 +20582,23 @@ ekaraTaH
 ekaraSmi
 ekarasa
 ekarasaH
+ekarasam
 ekarAj
 ekarAjaH
 ekarAtraH
+ekarAtram
 ekarAtrika
 ekarASiH
 ekarikTin
 ekarUpa
+ekarUpam
 ekarUpya
 ekaliNgaH
+ekaliNgam
 ekavacanam
 ekavarRa
+ekavarRaH
+ekavarRI
 ekavarRika
 ekavarzikA
 ekavastra
@@ -20563,19 +20634,23 @@ ekaveSman
 ekavyavasAyin
 ekavyAvahArikAH
 ekaSata
+ekaSatam
 ekaSaPa
 ekaSaPaH
 ekaSaraRam
 ekaSarIra
 ekaSalyaH
 ekaSAKa
+ekaSAKaH
 ekaSAyin
 ekaSAlA
 ekaSAlam
 ekaSIrzan
 ekaSuNga
+ekaSuNgA
 ekaSulkam
 ekaSfNga
+ekaSfNgaH
 ekaSepaH
 ekaSezaH
 ekaSruta
@@ -20589,6 +20664,7 @@ ekasaptata
 ekasaptatiH
 ekasaBam
 ekasarga
+ekasargaH
 ekasahasrama
 ekasAkzika
 ekasArTam
@@ -20598,6 +20674,7 @@ ekasTa
 ekasTAnam
 ekahaMsaH
 ekahAyana
+ekahAyanI
 ekahAyanam
 ekaka
 ekakaSatam
@@ -20663,6 +20740,7 @@ eRanABiH
 eRamadaH
 eRI
 eRIpada
+eRIpadaH
 eta
 etaH
 etA
@@ -20971,6 +21049,7 @@ oRi
 oRRI
 ota
 otaprota
+otaprotam
 otuH
 odatI
 odanaH
@@ -21417,6 +21496,7 @@ kaNkA
 kaNkatrowaH
 kaNkatrowiH
 kaNkapatra
+kaNkapatraH
 kaNkapatrin
 kaNkamAlA
 kaNkamuKa
@@ -21573,6 +21653,7 @@ kawapUtanA
 kawapUrRaH
 kawapraBedaH
 kawaprU
+kawaprUH
 kawaproTaH
 kawaproTam
 kawaBaNgaH
@@ -21615,6 +21696,7 @@ kawikUpaH
 kawitawam
 kawitram
 kawideSaH
+kawiproTaH
 kawimAlikA
 kawirohakaH
 kawiSIrzakaH
@@ -21656,12 +21738,14 @@ kawupatrikA
 kawupAka
 kawupAkin
 kawuPalaH
+kawuPalA
 kawubIjA
 kawuBaNgaH
 kawuBadraH
 kawumaYjarikA
 kawumodam
 kawurava
+kawuravaH
 kawurohiRI
 kawuvipAka
 kawusnehaH
@@ -21825,6 +21909,7 @@ kaRwakita
 kaRwakin
 kaRwakija
 kaRwakiPalaH
+kaRwakiPalA
 kaRwalaH
 kaRwAPalaH
 kaRwAluH
@@ -21983,6 +22068,7 @@ kaTApuruzaH
 kaTApIWam
 kaTAprabanDaH
 kaTAprasaNga
+kaTAprasaNgaH
 kaTAprARaH
 kaTAmAtra
 kaTAmuKam
@@ -22018,6 +22104,7 @@ kadannam
 kadapatyam
 kadaByAsaH
 kadarTa
+kadarTaH
 kadarTanam
 kadarTanA
 kadarTayati
@@ -22025,10 +22112,12 @@ kadarTita
 kadarTIkf
 kadarTIkfta
 kadarya
+kadaryaH
 kadaSvaH
 kadAkAra
 kadAKyam
 kadAcAra
+kadAcAraH
 kadindriyam
 kaduzwraH
 kaduzRa
@@ -22086,6 +22175,7 @@ kanakagiriH
 kanakaSElaH
 kanakADyakzaH
 kanakAhvaH
+kanakAhvam
 kanakAlukA
 kanakAhvayaH
 kanakAhvayam
@@ -22102,6 +22192,7 @@ kanakapatram
 kanakaparAgaH
 kanakaparvataH
 kanakapalaH
+kanakapalam
 kanakapraBa
 kanakapraBA
 kanakaprasavA
@@ -22207,7 +22298,9 @@ kanyasI
 kanyA
 kanyAntaHpuram
 kanyAwa
+kanyAwaH
 kanyAkubjaH
+kanyAkubjam
 kanyAkumAri
 kanyAkumArI
 kanyAgatam
@@ -22249,6 +22342,7 @@ kapawaprabanDaH
 kapawaleKyam
 kapawavacanam
 kapawaveSa
+kapawaveSaH
 kapawikaH
 kapawin
 kapanaH
@@ -22510,6 +22604,7 @@ karaGarzin
 karacCadaH
 karacCadA
 karajaH
+karajam
 karajAlam
 karatalaH
 karatalIkf
@@ -22544,8 +22639,9 @@ karamuktam
 kararuhaH
 karavAlikA
 karavIraH
-karavIrI
 karavIrakaH
+karavIrI
+karavIram
 karaSAKA
 karaSIkaraH
 karaSUkaH
@@ -22740,6 +22836,7 @@ karR
 karRa
 karRaH
 karRAYcalaH
+karRAYcalam
 karRAYjaliH
 karRAnujaH
 karRAntika
@@ -22822,6 +22919,7 @@ karRasUH
 karRasrotas
 karRaharmyam
 karRahIna
+karRahInaH
 karRakaH
 karRala
 karRavat
@@ -22932,6 +23030,7 @@ karmAnusAraH
 karmAntaH
 karmAntaram
 karmAntika
+karmAntikaH
 karmApanuttiH
 karmArha
 karmArhaH
@@ -23128,11 +23227,13 @@ kalahakAraH
 kalahakArin
 kalahanASanaH
 kalahapriya
+kalahapriyaH
 kalahapriyA
 kalAntaram
 kalAyanaH
 kalAkulam
 kalAkeli
+kalAkeliH
 kalAkzayaH
 kalADaraH
 kalAniDiH
@@ -23260,6 +23361,7 @@ kalyajagDiH
 kalyapAlaH
 kalyapAlakaH
 kalyavartaH
+kalyavartam
 kalyA
 kalyApAlaH
 kalyApAlakaH
@@ -23281,6 +23383,7 @@ kalyARin
 kalyARinI
 kall
 kalla
+kallatA
 kalli
 kallola
 kallolaH
@@ -23294,6 +23397,7 @@ kavacaH
 kavacam
 kavacapatraH
 kavacahara
+kavacaharaH
 kavawI
 kavaqaH
 kavatnu
@@ -23491,6 +23595,7 @@ kAkanidrA
 kAkapakzaH
 kAkapakzakaH
 kAkapadam
+kAkapadaH
 kAkapucCaH
 kAkapuzwaH
 kAkapeya
@@ -23631,6 +23736,7 @@ kARqI
 kARqAnusamayaH
 kARqarziH
 kARqakAraH
+kARqakArin
 kARqakAram
 kARqagocaraH
 kARqatiktaH
@@ -23775,6 +23881,7 @@ kAmADikAraH
 kAmADizWita
 kAmAnalaH
 kAmAnDa
+kAmAnDaH
 kAmAnDA
 kAmAnnin
 kAmABikAma
@@ -23807,15 +23914,19 @@ kAmakalA
 kAmakAma
 kAmakAmin
 kAmakAra
+kAmakAraH
 kAmakUwaH
 kAmakft
 kAmakeli
+kAmakeliH
 kAmakrIqA
 kAmaga
+kAmagA
 kAmagati
 kAmaguRaH
 kAmacara
 kAmacAra
+kAmacAraH
 kAmacArin
 kAmaja
 kAmajaH
@@ -23845,6 +23956,7 @@ kAmapati
 kAmapatnI
 kAmapAlaH
 kAmaprada
+kAmapradaH
 kAmapravedanam
 kAmapraSnaH
 kAmaPalaH
@@ -23868,6 +23980,7 @@ kAmavaraH
 kAmavallaBaH
 kAmavallaBA
 kAmavaSa
+kAmavaSaH
 kAmavaSya
 kAmavAda
 kAmavihantf
@@ -23875,6 +23988,7 @@ kAmavIrya
 kAmavfkzaH
 kAmavftta
 kAmavftti
+kAmavfttiH
 kAmavfdDiH
 kAmavfntA
 kAmaSara
@@ -24129,6 +24243,7 @@ kAryakAraRe
 kAryakAlaH
 kAryagOravam
 kAryacintaka
+kAryacintakaH
 kAryacyuta
 kAryajAtam
 kAryadarSanam
@@ -24185,6 +24300,7 @@ kAlAnalaH
 kAlANga
 kAlAjinam
 kAlAYjanam
+kAlAYjanI
 kAlARqajaH
 kAlAtikramaH
 kAlAtikramaRam
@@ -24239,6 +24355,7 @@ kAlakUwam
 kAlakUwakaH
 kAlakft
 kAlakfta
+kAlakftaH
 kAlakramaH
 kAlakriyA
 kAlakzepaH
@@ -24249,11 +24366,13 @@ kAlagaNgA
 kAlagranTiH
 kAlaGAtin
 kAlacakram
+kAlacakraH
 kAlacihnam
 kAlacodita
 kAlajozakaH
 kAlajyezWa
 kAlajYa
+kAlajYaH
 kAlajYAnin
 kAlatindukaH
 kAlatrayam
@@ -24287,6 +24406,7 @@ kAlaBakzaH
 kAlaBft
 kAlaBEravaH
 kAlamallikA
+kAlamallaH
 kAlamAna
 kAlamAlam
 kAlamuKaH
@@ -24321,6 +24441,7 @@ kAlasamAyukta
 kAlasaMpanna
 kAlasarpaH
 kAlasAraH
+kAlasAram
 kAlasUtram
 kAlasUtrakam
 kAlaskandaH
@@ -24477,6 +24598,7 @@ kAzWadAruH
 kAzWadruH
 kAzWaputtalikA
 kAzWapUlakaH
+kAzWapUlakam
 kAzWapradAnam
 kAzWaBAraH
 kAzWaBArikaH
@@ -24497,8 +24619,9 @@ kAsA
 kAsakuRWa
 kAsakuRWaH
 kAsaGna
-kAsaGnaH
 kAsahft
+kAsaGnaH
+kAsaGnI
 kAsanASinI
 kAsamardaH
 kAsikA
@@ -24567,6 +24690,7 @@ kim
 kiYja
 kindAsaH
 kinnaraH
+kinnarI
 kimpuruzaH
 kimpraBuH
 kiMrAjan
@@ -24789,6 +24913,8 @@ kudinam
 kuDaraH
 kunABiH
 kupapa
+kupapi
+kupapI
 kuputraH
 kuBft
 kuvalayam
@@ -24805,6 +24931,7 @@ kucaryA
 kucodyam
 kujanman
 kutanu
+kutanuH
 kutantrI
 kutapaH
 kutarkaH
@@ -24812,6 +24939,7 @@ kutIrTam
 kudfzwiH
 kudeSaH
 kudeha
+kudehaH
 kudvAram
 kuDI
 kunaKam
@@ -24839,6 +24967,7 @@ kumeruH
 kuyogaH
 kuyogin
 kurasa
+kurasaH
 kurUpa
 kurUpyam
 kulakzaRa
@@ -25046,6 +25175,7 @@ kuqyam
 kuqyA
 kuqyacCedin
 kuqyacCedyaH
+kuqyacCedyam
 kuqyamatsI
 kuR
 kuRakaH
@@ -25408,6 +25538,7 @@ kulAlambin
 kuleSvaraH
 kuleSvarA
 kulotkawa
+kulotkawaH
 kulotpanna
 kulodgata
 kulodBava
@@ -25882,6 +26013,7 @@ kfllopaH
 kfta
 kftam
 kftAkfta
+kftAkftaH
 kftANka
 kftANkaH
 kftAYjali
@@ -25893,6 +26025,7 @@ kftAnnam
 kftAparADa
 kftABaya
 kftABizeka
+kftABizekaH
 kftAByAsa
 kftAyaH
 kftArTa
@@ -25908,6 +26041,7 @@ kftAtman
 kftABaraRa
 kftAyAsa
 kftAlaya
+kftAlayaH
 kftAvAsa
 kftAspada
 kftAhAra
@@ -25933,6 +26067,7 @@ kftaGna
 kftacUqaH
 kftajanman
 kftajYa
+kftajYaH
 kftatIrTa
 kftadAra
 kftadAsaH
@@ -25948,6 +26083,7 @@ kftapratikftam
 kftapratijYa
 kftaprayojana
 kftaPala
+kftaPalam
 kftabudDi
 kftabrahman
 kftamaNgala
@@ -25964,6 +26100,7 @@ kftavApaH
 kftavid
 kftavidya
 kftavIrya
+kftavIryaH
 kftavetana
 kftavedin
 kftaveSa
@@ -26132,6 +26269,8 @@ kfS
 kfSa
 kfSAkzaH
 kfSANga
+kfSANgaH
+kfSANgI
 kfSAtiTi
 kfSodara
 kfSagava
@@ -26214,8 +26353,10 @@ kfzRapAkaH
 kfzRapiNgala
 kfzRapiNgalA
 kfzRapiRqItakaH
+kfzRapiRqIraH
 kfzRapuzpI
 kfzRaPalaH
+kfzRaPalA
 kfzRavIjam
 kfzRaBasman
 kfzRamfgaH
@@ -26324,6 +26465,7 @@ keliH
 kelikalahaH
 kelikalA
 kelikilaH
+kelikilI
 kelikilAvatI
 kelikIrRaH
 kelikuYcikA
@@ -26411,6 +26553,7 @@ keSawaH
 keSava
 keSavaH
 keSavAyuDaH
+keSavAyuDam
 keSavAlayaH
 keSavAvAsaH
 keSavadEvajYaH
@@ -26617,6 +26760,7 @@ koSam
 kozaH
 kozam
 koSI
+kozI
 koSADipatiH
 koSADyakzaH
 koSAgAraH
@@ -27174,6 +27318,7 @@ klizwA
 klizwiH
 kleSaH
 kleSApaha
+kleSApahaH
 kleSakara
 kleSakzama
 kleSaka
@@ -27187,6 +27332,8 @@ klIba
 klIva
 klIbaH
 klIbam
+klIvaH
+klIvam
 klIbatA
 klEbyam
 klEvyam
@@ -27224,12 +27371,14 @@ kzaR
 kzan
 kzaRaH
 kzaRam
+kzaRAt
 kzaRekzaRe
 kzaRAntare
 kzaRArDam
 kzaRakzepaH
 kzaRadaH
 kzaRadam
+kzaRadA
 kzaRadyutiH
 kzaRaniHSvAsaH
 kzaRaBaNgavAdaH
@@ -27276,6 +27425,7 @@ kzatriyaH
 kzatriyam
 kzatriyaDarmaH
 kzatriyahanaH
+kzatriyahaRaH
 kzatriyakA
 kzatriyA
 kzatriyikA
@@ -27426,9 +27576,10 @@ kzitikaRaH
 kzitikampaH
 kzitikzit
 kzitijaH
-kzitijA
 kzitiruhaH
 kzitisutaH
+kzitijam
+kzitijA
 kzititalam
 kzititrARam
 kzitidevaH
@@ -27544,6 +27695,9 @@ kzIranIram
 kzIrapaH
 kzIrapAka
 kzIrapARaH
+kzIrapARam
+kzIrapAnam
+kzIrapARI
 kzIraBfta
 kzIravAriH
 kzIravAriDiH
@@ -27682,9 +27836,11 @@ kzetrekzuH
 kzetragaRitam
 kzetragata
 kzetraja
+kzetrajaH
 kzetrajAta
 kzetrajYa
 kzetrajYaH
+kzetrajYA
 kzetradevatA
 kzetrapatiH
 kzetrapadam
@@ -27799,10 +27955,15 @@ KagaH
 KagaNgA
 KagatiH
 Kagama
+KagamaH
+KegamanaH
 KaguRa
 KagolaH
 KacamasaH
 Kacara
+KacaraH
+KecaraH
+KacarI
 KacArin
 Kajalam
 Kajyotis
@@ -27912,6 +28073,7 @@ KaqgaDArA
 KaqgaDenuH
 KaqgaDenukA
 Kaqgapatram
+KaqgapatraH
 KaqgapARi
 KaqgapAtram
 KaqgapiDAnam
@@ -27946,6 +28108,7 @@ KaRqapAlaH
 KaRqapralayaH
 KaRqaPalam
 KaRqamaRqala
+KaRqamaRqalam
 KaRqamodakaH
 KaRqalavaRam
 KaRqavikAraH
@@ -28196,6 +28359,7 @@ KAlatyam
 KAlika
 KiKiH
 KiNKiraH
+KiNKirI
 KiccAccI
 Kiw
 Kewita
@@ -28306,6 +28470,8 @@ gaganakusumam
 gaganapuzpam
 gaganagatiH
 gaganacara
+gaganecara
+gaganacaraH
 gaganaDvajaH
 gaganaromanTaH
 gaganalih
@@ -28587,6 +28753,7 @@ gadgadaDvAniH
 gadgadapadam
 gadgadavAc
 gadgadasvara
+gadgadasvaraH
 gadgadita
 gadgadayati
 gadya
@@ -28609,6 +28776,7 @@ ganDAKuH
 ganDAjIvaH
 ganDAQya
 ganDAQyaH
+ganDAQyam
 ganDendriyam
 ganDeBaH
 ganDagajaH
@@ -28623,6 +28791,7 @@ ganDakAlikA
 ganDakAlI
 ganDakAzWam
 ganDakuwI
+ganDakuwiH
 ganDakelikA
 ganDacelikA
 ganDaga
@@ -28650,6 +28819,7 @@ ganDapAlin
 ganDapAzARaH
 ganDapiSAcikA
 ganDapuzpaH
+ganDapuzpam
 ganDapuzpA
 ganDapUtanA
 ganDaPalI
@@ -28671,6 +28841,7 @@ ganDamohinI
 ganDayuktiH
 ganDarasaH
 ganDarAjaH
+ganDarAjam
 ganDalatA
 ganDalolupA
 ganDavahaH
@@ -28931,6 +29102,7 @@ garBarUpa
 garBarUpaH
 garBarUpakaH
 garBalakzaRa
+garBalakzaRam
 garBalamBanam
 garBavasatiH
 garBavicyutiH
@@ -29250,6 +29422,7 @@ gAQAliNganam
 gAQakarRaH
 gAQataram
 gAQamuzwi
+gAQamuzwiH
 gAQavacas
 gAQavarcas
 gAha
@@ -29283,6 +29456,7 @@ giriguhA
 giricara
 giricaraH
 girija
+girijam
 girijA
 giritanayaH
 girinandanaH
@@ -29296,9 +29470,12 @@ giriDAtuH
 giriDvajam
 girinagaram
 giriRadI
+girinadI
 giriRadDa
+girinadDa
 girinandinI
 giriRitambaH
+girinitambaH
 giripIluH
 giripuzpakam
 giripfzWaH
@@ -29319,6 +29496,7 @@ giriSAlaH
 giriSfNgaH
 giriSfNgam
 girizad
+girisad
 girisAnu
 girisAraH
 girisutA
@@ -29367,6 +29545,7 @@ gugguluH
 guggulukaH
 gucCaH
 gucCArDaH
+gucCArDam
 gucCakaRiSaH
 gucCapatraH
 gucCaPalaH
@@ -29423,6 +29602,7 @@ guRaH
 guRAgryam
 guRAguRaH
 guRAtIta
+guRAtItaH
 guRADizWAnakam
 guRAnubanDitvam
 guRAnurAgaH
@@ -29573,6 +29753,7 @@ guptakaTA
 guptagatiH
 guptagfham
 guptacara
+guptacaraH
 guptadAnam
 guptaDanam
 guptaveSaH
@@ -29609,7 +29790,9 @@ guruH
 gurvakzaram
 gurvaNganA
 gurvarTa
+gurvarTaH
 gurUttama
+gurUttamaH
 gurUpadeSaH
 gurukaRWaH
 gurukAraH
@@ -29808,6 +29991,7 @@ gfhAmlam
 gfhAvagrahaRI
 gfhASman
 gfhAgata
+gfhAgataH
 gfhAcAraH
 gfhAramBaH
 gfhArAmaH
@@ -29875,7 +30059,9 @@ gfhamArjanI
 gfhamfgaH
 gfhameGaH
 gfhameDa
+gfhameDaH
 gfhameDin
+gfhameDinI
 gfhayajYaH
 gfhayantram
 gfharanDram
@@ -29950,6 +30136,7 @@ go
 gokaRwakaH
 gokaRwakam
 gokarRa
+gokarRaH
 gokirAwA
 gokirAwikA
 gokilaH
@@ -29976,6 +30163,7 @@ goGftam
 goGna
 gocandanam
 gocara
+gocaraH
 gocarman
 gocaryA
 gocArakaH
@@ -29993,6 +30181,7 @@ gotallajaH
 gotIrTam
 gotram
 gotraH
+gotrA
 gotrakartf
 gotrakArin
 gotrakIlA
@@ -30004,6 +30193,7 @@ godatra
 godatraH
 godatram
 godanta
+godantam
 godAnam
 godAya
 godAraRam
@@ -30057,6 +30247,7 @@ gopItaH
 gopITaH
 gopITam
 gopucCam
+gopucCaH
 gopuwikam
 goputraH
 gopuram
@@ -30109,6 +30300,7 @@ gorAjaH
 gorAwikA
 gorAwI
 gorUpam
+gorUpaH
 gorocam
 gorocanA
 golavaRam
@@ -30159,6 +30351,7 @@ gosadfkzaH
 gosargaH
 gosavaH
 gosahasram
+gosahasrI
 gosAvitrI
 gosUtrikA
 gostanaH
@@ -30172,6 +30365,7 @@ gohallam
 goharaH
 goharaRam
 gohita
+gohitaH
 gom
 gomat
 gomatI
@@ -30274,6 +30468,7 @@ gOrIguruH
 gOrIcaturTI
 gOrIpUjA
 gOrIjaH
+gOrIjam
 gOrIpawwaH
 gOrIputraH
 gOrIlalitam
@@ -30677,6 +30872,7 @@ GanaSabdaH
 GanavAsaH
 GanavAhanaH
 GanaSyAma
+GanaSyAmaH
 GanasaMvfttiH
 GanasamayaH
 GanasAraH
@@ -30898,6 +31094,7 @@ GoraH
 GorA
 Goram
 GorAkfti
+goradarSanaH
 GoradarSana
 GoraGuzyam
 GoraGorataraH
@@ -30956,6 +31153,7 @@ caknasaH
 cakram
 cakraH
 cakrANgaH
+cakrANgI
 cakrANgam
 cakrAwaH
 cakrADivAsin
@@ -30980,6 +31178,7 @@ cakragrahaRam
 cakragrahaRI
 cakracakram
 cakracara
+cakracaraH
 cakracArin
 cakracUqAmaRiH
 cakrajIvakaH
@@ -30989,6 +31188,7 @@ cakratuRqaH
 cakradaMzwraH
 cakraGanaH
 cakraDara
+cakraDaraH
 cakraDArA
 cakranadI
 cakranABiH
@@ -31157,8 +31357,10 @@ cAtanam
 catur
 caturaMSaH
 caturaNga
+caturaNgam
 caturaNgikaH
 caturaNgin
+caturaNginI
 caturaNgulam
 caturanta
 caturantA
@@ -31197,6 +31399,7 @@ caturnavati
 catuzpaYca
 catuzpaYcASat
 catuzpaTaH
+catuzpaTam
 catuzpada
 catuzpadaH
 catuzpadI
@@ -31207,13 +31410,16 @@ catuzpAd
 catuzpAda
 catuzpArSvam
 caturbAhuH
+caturbAhu
 caturBadram
 caturBAgaH
 caturBAvaH
 caturBuja
+caturBujaH
 caturBujam
 caturmAsam
 caturmuKa
+caturmuKam
 caturmaRqalam
 caturmeDaH
 caturyugam
@@ -31230,7 +31436,9 @@ caturvidya
 caturvidyA
 caturviDa
 caturveda
+caturvedaH
 caturvyUhaH
+caturvyUham
 catuHSAlam
 catuHzazwi
 catuHsanaH
@@ -31312,6 +31520,7 @@ candrABAsaH
 candrAhvayaH
 candrezwA
 candrodayaH
+candrodayA
 candropalaH
 candrakalA
 candrakAntaH
@@ -31367,9 +31576,11 @@ candraSAlikA
 candraSilA
 candrasaMjYaH
 candrasaMBavaH
+candrasaMBavA
 candrasAlokya
 candrahan
 candrahAsaH
+candrahAsam
 candrakaH
 candrakam
 candrakavat
@@ -31409,6 +31620,7 @@ camaraH
 camaram
 camarI
 camarapucCam
+camarapucCaH
 camarikaH
 camasaH
 camasam
@@ -31532,6 +31744,7 @@ cartana
 cartanam
 cartya
 carpawaH
+carpawA
 carpawI
 carb
 carBawaH
@@ -31606,6 +31819,7 @@ cala
 calaH
 calA
 calAcala
+calAcalaH
 calAtaNkaH
 calAtman
 calendriya
@@ -31909,6 +32123,7 @@ cidullAsaH
 cidGanaH
 citpravfttiH
 cidrUpa
+cidrUpam
 cicCaktiH
 citsvarUpam
 cinmaya
@@ -31978,7 +32193,10 @@ citrAkzI
 citranetrA
 citralocanA
 citrANga
+citrANgaH
+citrANgam
 citrANgada
+citrANgadA
 citrANgadasUH
 citrAnnam
 citrApUpaH
@@ -32038,6 +32256,7 @@ citraraTaH
 citraliKanam
 citraliKita
 citraleKa
+citraleKA
 citraleKakaH
 citraleKanikA
 citravadAlaH
@@ -32212,6 +32431,7 @@ cukkAraH
 cukraH
 cukram
 cukrAmlam
+cukrAmlA
 cukraPalam
 cukravAstUkam
 cukrakam
@@ -34307,6 +34527,7 @@ waNkawIkaH
 waNkaRam
 waNkanam
 waNkaRaH
+waNkanaH
 waNkaRakzAraH
 waNkAraH
 waNkArin
@@ -34679,6 +34900,7 @@ tanukUpaH
 tanugfham
 tanusTAnam
 tanucCad
+tanucCada
 tanucCadaH
 tanuja
 tanujaH
@@ -35446,6 +35668,8 @@ tAlukam
 tAlUraH
 tAlUzakam
 tAvaka
+tAvakI
+tAvakIna
 tAvat
 tAvatkftvas
 tAvatPala
@@ -35512,6 +35736,7 @@ tiTikzayaH
 tiTipatrI
 tiTipAlanam
 tiTipraRIH
+tiTipraRiH
 tiTipralayaH
 tiTivfdDiH
 tiTI
@@ -36070,6 +36295,7 @@ tUlacApaH
 tUlaDanus
 tUladAham
 tUlanAlI
+tUlanAliH
 tUlapawikA
 tUlapawI
 tUlapicuH
@@ -40461,6 +40687,7 @@ DarmaH
 Darmam
 DarmAkzaram
 DarmANgaH
+DarmANgA
 DarmADarmO
 DarmADikaraRam
 DarmADikaraRaH
@@ -44777,6 +45004,7 @@ nyakzaH
 nyakzam
 nyagroDaH
 nyagroDI
+nyagroDikA
 nyagroDaparimaRqalaH
 nyagroDaparimaRqalA
 nyaNkuH
@@ -45789,6 +46017,7 @@ padmabIjam
 padmaBAsaH
 padmamAlinI
 padmamudrA
+madmamudrikA
 padmarAgaH
 padmarAgam
 padmarUpA
@@ -46748,7 +46977,7 @@ parivAdinI
 parivargaH
 parivarjanam
 parivarjita
-parivarjitasaMKyA
+parivarjitasaMKya
 parivartman
 parivarman
 parivasaTaH
@@ -52707,6 +52936,9 @@ pramlAna
 prayat
 prayatnaH
 prayatnagOravam
+prayatnataH
+prayatnena
+prayatnAt
 prayatnavat
 prayam
 prayata
@@ -53136,6 +53368,9 @@ prasakta
 prasaktam
 prasaktiH
 prasaNgaH
+prasaNgena
+prasaNgataH
+prasaNgAt
 prasaNganivAraRam
 prasaNgavaSAt
 prasaNgavinivfttiH
@@ -53734,6 +53969,7 @@ prARasaMdehaH
 prARasaMhitA
 prARasadman
 prARasama
+prARasamaH
 prARasamA
 prARasAra
 prARahara
@@ -54043,6 +54279,7 @@ prAvfzaH
 prAvfzA
 prAvfzika
 prAvfzIRa
+prAvfzikI
 prAvfzikaH
 prAvfzija
 prAvfzijaH
@@ -54972,6 +55209,7 @@ badarInArAyaRaH
 badarIpatram
 badarIPalam
 badarIvanam
+badarIvaRam
 badarIvAsA
 badarISElaH
 badvam
@@ -56985,6 +57223,7 @@ BadrabalanaH
 BadramuKa
 BadramuKI
 BadramustakaH
+BadramustA
 BadramfgaH
 BadrareRuH
 Badravarman
@@ -58062,6 +58301,7 @@ BUmaRqalam
 BUyuktA
 BUruRqI
 BUruh
+BUruham
 BUlatA
 BUliNgaSakunaH
 BUlokaH
@@ -58148,6 +58388,7 @@ BUtaDAriRI
 BUtanATaH
 BUtanAyikA
 BUtanASanaH
+BUtanASanam
 BUtanicayaH
 BUtapakzaH
 BUtapatiH
@@ -58250,7 +58491,10 @@ BUmicalaH
 BUmicalanam
 BUmicCatram
 BUmija
+BUmijaH
+BUmijA
 BUmijIvin
+BUmiYjayaH
 BUmitanayaH
 BUmitalam
 BUmidAnam
@@ -58280,6 +58524,7 @@ BUmilepanam
 BUmivarDanaH
 BUmivarDanam
 BUmiSaya
+BUmiSayaH
 BUmiSayanam
 BUmiSayyA
 BUmisatram
@@ -58287,6 +58532,8 @@ BUmisamIkfta
 BUmisaMniveSaH
 BUmisaMBavaH
 BUmisutaH
+BUmisaMBavA
+BUmisaMBavatA
 BUmisTa
 BUmisnuH
 BUmispfS
@@ -58322,6 +58569,7 @@ BUriganDA
 BUrigamaH
 BUriguRa
 BUritejasa
+BUritejas
 BUrida
 BUridakziRa
 BUridakziRaH
@@ -58365,6 +58613,7 @@ BftakaH
 BftakADyApakaH
 BftakADyApanam
 BftakADyApita
+BftakADyApitaH
 BftiH
 BftyaDyApanam
 BftyarTam
@@ -58417,6 +58666,7 @@ BfNgABIzwaH
 BfNgAnandA
 BfNgAvalI
 BfNgajam
+BfNgajA
 BfNgaparRikA
 BfNgapriyA
 BfNgarAj
@@ -58555,6 +58805,7 @@ Boktf
 Boktftvam
 BogaH
 BogArha
+BogArham
 BogArhyam
 BogADiH
 BogAvalI
@@ -58578,6 +58829,7 @@ Bogavastu
 Bogasadman
 BogasTAnam
 Bogavat
+BogavatI
 BogikaH
 Bogin
 BoginI
@@ -58774,6 +59026,7 @@ BrAntiH
 BrAntikara
 BrAntinASanaH
 BrAntihara
+BrAntiharaH
 BrAntimat
 BrAmaH
 BrAmaka
@@ -58987,6 +59240,7 @@ maNgalapuzpam
 maNgalapUjita
 maNgalapratisaraH
 maNgalaprada
+maNgalapradA
 maNgalaprasTaH
 maNgalaBerI
 maNgalamAtraBUzaRa
@@ -59066,6 +59320,7 @@ maYju
 maYjukeSin
 maYjugati
 maYjugamana
+maYjugamanA
 maYjugartaH
 maYjugir
 maYjuguYjaH
@@ -59139,6 +59394,7 @@ maRiDanuH
 maRipAlI
 maRipuzpakaH
 maRipUraH
+maRipUram
 maRipravekaH
 maRipraBA
 maRibanDaH
@@ -59157,6 +59413,7 @@ maRimeKala
 maRiyazwiH
 maRiratnam
 maRirAgaH
+maRirAgam
 maRivigraha
 maRiviSezaH
 maRiSilA
@@ -59204,6 +59461,7 @@ maRqalaH
 maRqalam
 maRqalI
 maRqalAgra
+maRqalAgraH
 maRqalAgram
 maRqalADipaH
 maRqalADISaH
@@ -59311,6 +59569,7 @@ mattapAlakaH
 mattamayUraH
 mattamayUram
 mattavAraRaH
+mattavAraRam
 mattaka
 matyam
 matsaH
@@ -59344,6 +59603,7 @@ matsyopajIvin
 matsyakaraRqikA
 matsyakISaH
 matsyaganDa
+matsyaganDA
 matsyaGaRwaH
 matsyaGAtaH
 matsyaGAtin
@@ -59405,10 +59665,12 @@ madAlasA
 madAvasTA
 madAkula
 madAQya
+madAQyaH
 madAmnAtaH
 madAlApin
 madAhvaH
 madotkawa
+madotkawaH
 madotkawA
 madotsavaH
 madodBavaH
@@ -59481,6 +59743,7 @@ madanAlayam
 madanASayaH
 madanecCAPalam
 madanotsavaH
+madanotsavA
 madanotsuka
 madanodyAnam
 madanakaRwakaH
@@ -59700,10 +59963,13 @@ maDuyazwI
 maDuyazwikA
 maDuvallI
 maDurasa
+maDurasaH
+maDurasA
 maDulagnaH
 maDulih
 maDuleha
 maDulehin
+maDuvanaH
 maDuvAc
 maDuvArAH
 maDuvidyA
@@ -59723,6 +59989,7 @@ maDusikTakaH
 maDusUdanaH
 maDusTAnam
 maDusrava
+maDusravA
 maDusvaraH
 maDuhan
 maDuka
@@ -59742,6 +60009,8 @@ maDurAmlaH
 maDurAmlakaH
 maDurAzwakam
 maDurAlApa
+maDurAlApaH
+maDurAlApA
 maDuropanyAsaH
 maDurakaRwakaH
 maDurajambIram
@@ -59820,6 +60089,7 @@ maDyavfttam
 maDyaSarIra
 maDyasUtram
 maDyasTa
+maDyasTaH
 maDyasTatA
 maDyasTalam
 maDyasTalI
@@ -59892,9 +60162,11 @@ manaHkAnta
 manaHkAraH
 manaHkzepaH
 manogata
+manogatam
 manogatiH
 manogavI
 manogupta
+manoguptA
 manograhaRam
 manograhin
 manogrAhya
@@ -59909,6 +60181,7 @@ manojavA
 manojAta
 manojiGra
 manojYa
+manojYaH
 manojYA
 manastApaH
 manaHpIqA
@@ -59976,6 +60249,7 @@ manaHsTa
 manaHsTEryam
 manohata
 manohara
+manoharaH
 manoharam
 manohartf
 manohArin
@@ -59998,6 +60272,7 @@ manomayakoSaH
 manomayakozaH
 manAk
 manAkkara
+manAkkaram
 manAkA
 manAyI
 manAvI
@@ -60079,6 +60354,7 @@ mantrajA
 mantrajAgaraH
 mantrajihvaH
 mantraJa
+mantraJaH
 mantratattvam
 mantratantra
 mantradaH
@@ -60181,7 +60457,9 @@ mandaH
 mandA
 mandam
 mandAkza
+mandAkzam
 mandAgni
+mandAgniH
 mandAnilaH
 mandAsu
 mandAkrAntA
@@ -60516,6 +60794,7 @@ marmacCid
 marmaBid
 marmajam
 marmajYa
+marmajYaH
 marmajYAnam
 marmatram
 marmapAraga
@@ -60578,6 +60857,7 @@ malodvAsA
 malopahata
 malakarzaRa
 malaGna
+malaGnaH
 malaGnI
 malajam
 maladUzita
@@ -61753,6 +62033,9 @@ mADyaMdinaH
 mADyaMdinam
 mADyama
 mADyamaka
+mADyamikA
+mADyamika
+mADyamikI
 mADyamakAH
 mADyasTa
 mADyasTam
@@ -62175,6 +62458,9 @@ mAhAkulI
 mAhAkulIna
 mAhAkulInI
 mAhAjanika
+mAhAjanikI
+mAhAjanIna
+mAhAjanInI
 mAhAtmika
 mAhAtmyam
 mAhAnasa
@@ -65556,6 +65842,7 @@ ratipatiH
 ratipriyaH
 ratiramaRaH
 ratipASa
+ratipASakaH
 ratibanDaH
 ratimadA
 ratimitraH
@@ -65870,6 +66157,8 @@ rasajaH
 rasajam
 rasajAtam
 rasajYa
+rasajYatA
+rasajYatvam
 rasajYaH
 rasajYA
 rasajYAnam
@@ -66602,6 +66891,7 @@ ruj
 rujA
 rukkara
 rukkaraH
+rujaHkftyA
 rukpratikriyA
 rugBezajam
 ruksadman
@@ -74413,6 +74703,9 @@ vEkArikabanDaH
 vEkAryam
 vEkAlaH
 vEkAlika
+vEkAlikI
+vEkAlIna
+vEkAlInI
 vEkiNkaraH
 vEkira
 vEkuRWa
@@ -75093,6 +75386,7 @@ vyAGranaKaH
 vyAGranaKam
 vyAGranAyakaH
 vyAGrapAda
+vyAGrapAd
 vyAGraSvan
 vyAGrARam
 vyAjaH
@@ -75962,6 +76256,7 @@ SamanaH
 Samanasvasf
 SamanI
 SamanIsadaH
+SamanIzadaH
 SamanIya
 SamanIyam
 Samalam
@@ -76089,6 +76384,7 @@ SaraBfzwiH
 SaramallaH
 Sarayantrakam
 Saravanam
+SaravaRam
 SaravarzaH
 SaravARiH
 SaravfzwiH
@@ -77109,6 +77405,7 @@ SilAkusumam
 SilApuzpam
 SilAgfham
 SilAja
+SilAjam
 SilAjatu
 SilAjit
 SilADAtuH
@@ -77281,6 +77578,7 @@ Sizwam
 SizwAcAraH
 SizwaprayogaH
 SizwavigarhaRam
+SizwavigarhaRA
 SizwasaBA
 SizwasaMmata
 SizwiH
@@ -78028,6 +78326,7 @@ SElendrasTaH
 SElakawakaH
 SElaganDam
 SElaguru
+SElaguruH
 SElajam
 SElajanaH
 SElajA
@@ -81713,6 +82012,7 @@ saralita
 saravya
 saras
 saraHkAkaH
+saraHkAkI
 sarojam
 sarojanman
 sarojaH
@@ -82366,7 +82666,7 @@ sAkula
 sAkUta
 sAkUtam
 sAkUtasmitam
-sAkUtahasita
+sAkUtahasitam
 sAketam
 sAketAH
 sAketakaH
@@ -82563,6 +82863,7 @@ sADuvAhaH
 sADuvAhin
 sADuvfkzaH
 sADuvftta
+sADuvfttaH
 sADuvfttam
 sADuSIla
 sADuSukla
@@ -82824,6 +83125,7 @@ sAram
 sArA
 sArAparADO
 sArAsAra
+sArAsAram
 sAraganDaH
 sAragAtra
 sAraguRaH
@@ -83654,6 +83956,7 @@ sunirUhaRam
 sunirRikta
 suniScalaH
 sunizaRRaH
+sunizaRRakaH
 sunihita
 sunIta
 sunItam
@@ -85580,7 +85883,7 @@ sTalasTa
 sTalA
 sTalI
 sTalIdevatA
-sTalIBUtA
+sTalIBUta
 sTalISAyin
 sTaleSaya
 sTaleSayaH
@@ -85824,6 +86127,9 @@ sTUlavizayaH
 sTUlaSaNKA
 sTUlaSarIram
 sTUlaSAwakaH
+sTUlaSAwakam
+sTUlaSAwikA
+sTUlaSAwiH
 sTUlaSIrzikA
 sTUlaSoPa
 sTUlazawpadaH
@@ -87029,7 +87335,7 @@ hatodyama
 hatakaRwaka
 hatakilbiza
 hatacitta
-hatacCAyA
+hatacCAya
 hatajalpitAni
 hatatrapa
 hatatviz
@@ -87722,6 +88028,7 @@ himArta
 himAlayaH
 himAhvaH
 himAhvayaH
+himAhvayam
 himottarA
 himotpannA
 himodBavA
@@ -87831,7 +88138,7 @@ hInaja
 hInakratu
 hInajAti
 hInapakza
-hInapratijYA
+hInapratijYa
 hInayAnam
 hInayoniH
 hInaroman
