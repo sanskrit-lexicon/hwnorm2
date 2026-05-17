@@ -36,6 +36,8 @@ aMSumAlA
 aMSumAlin
 aMSuhastaH
 aMSumat
+aMSumAn
+aMSumatPalA
 aMSumatI
 aMSukam
 aMSula
@@ -61,6 +63,7 @@ aMhatI
 aMhas
 aMhaH
 aMhasI
+aMhomuc
 aMhasaspatiH
 aMhasvat
 aMhitiH
@@ -102,6 +105,8 @@ akarRya
 akartaH
 akartana
 akartf
+akartftvam
+akartftA
 akartfBAvaH
 akarman
 akarmAnvita
@@ -129,6 +134,7 @@ akalyARa
 akalyARam
 akava
 akavA
+akavAriH
 akavi
 akasmAt
 akARqa
@@ -181,6 +187,7 @@ akiMcitkara
 akilbiza
 akIrtiH
 akuRWa
+akuRWaDizRyam
 akuRWita
 akutaH
 akutaScalaH
@@ -220,6 +227,7 @@ akftin
 akftya
 akftyam
 akftta
+akfttaruc
 akftrima
 akftvA
 akfpa
@@ -262,6 +270,7 @@ akroDanaH
 aklAnta
 aklikA
 aklinna
+aklinnavartman
 aklizwa
 aklizwakarman
 aklizwakArin
@@ -281,12 +290,16 @@ akzAgrakIlakaH
 akzAvapanam
 akzAvaliH
 akzAvApaH
+akzAtivApaH
 akzopakaraRam
 akzakarRaH
 akzakuSala
 akzaSORqa
 akzakUwaH
 akzakovida
+akzajYa
+akzavid
+akzavettf
 akzakzetram
 akzaglahaH
 akzacakram
@@ -294,12 +307,15 @@ akzajam
 akzajaH
 akzatattvam
 akzavidyA
+akzatattvavid
+akzavidyAvid
 akzadaRqaH
 akzadarSakaH
 akzadfS
 akzadfkkarman
 akzadevin
 akzadyUtam
+akzadyUtAdigaRaH
 akzadyUtikam
 akzadrugDa
 akzaDaraH
@@ -310,6 +326,7 @@ akzapawalaH
 akzapawalADikftaH
 akzapari
 akzapAwaH
+akzavAwaH
 akzapAwakaH
 akzapAtaH
 akzapAdaH
@@ -322,8 +339,6 @@ akzamAlA
 akzasUtram
 akzarAjaH
 akzavAmaH
-akzavAwaH
-akzavid
 akzavftta
 akzavfttam
 akzaSAlin
@@ -369,6 +384,9 @@ akzaracaYcuH
 akzaracaYcum
 akzaracaRaH
 akzaracanaH
+akzarajIvakaH
+akzarajIvI
+akzarajIvikaH
 akzaracyutakam
 akzaracCandas
 akzarajananI
@@ -454,12 +472,14 @@ akzRa
 akzRam
 akzRA
 akzRayA
+akzRayAdruh
 akzRayArajjuH
 akzRayAstomIyA
 akzRayAvan
 aKawwaH
 aKawwiH
 aKaRqa
+aKaRqadvAdaSI
 aKaRqam
 aKaRqana
 aKaRqanam
@@ -476,6 +496,7 @@ aKAdya
 aKidra
 aKinna
 aKila
+aKilAtman
 aKilikA
 aKewikaH
 aKedin
@@ -1115,7 +1136,7 @@ aNgulimowanam
 aNgulisPowanam
 aNgulivezwaH
 aNgulisaNgA
-aNgulisaNNgaH
+aNgulisaNgaH
 aNgulisaMjYA
 aNgulisandeSaH
 aNgulisaMBUta
@@ -13247,6 +13268,7 @@ AtiTeyI
 AtiTya
 AtiTyaH
 AtiTyam
+AtiTyA
 AtiTyarUpa
 AtiTyasatkAraH
 AtiTyasatkriyA
@@ -14060,6 +14082,7 @@ Aplu
 AplavaH
 Aplavanam
 Aplavavratin
+Aplutavratin
 AplAvaH
 Apluta
 AplutaH
@@ -15095,6 +15118,7 @@ ASAtantuH
 ASApAlaH
 ASApiSAcikA
 ASApuragugguluH
+ASAsaMBavaH
 ASAprApta
 ASAbanDaH
 ASABaNgaH
@@ -15387,11 +15411,11 @@ Askra
 AstAvaH
 Astika
 AstikaH
+AstIkaH
 AstikatA
 Astikatva
 Astikyam
 AstIka
-AstIkaH
 AstIkam
 AstIkArTadaH
 Astf
@@ -15765,6 +15789,7 @@ idaMyu
 idA
 idAvatsaraH
 idAvatsarIya
+idvatsarIya
 idAnIm
 idAnIMtana
 idDA
@@ -15824,6 +15849,7 @@ induvAsaraH
 induvratam
 induSaParI
 indusutaH
+indusUnuH
 indukaH
 indukuH
 indumat
@@ -16210,6 +16236,7 @@ ihakAlaH
 ihakratu
 ihacitta
 ihaBava
+ihatana
 ihalokaH
 ihasamaye
 ihasTa
@@ -17052,6 +17079,7 @@ uttaravAsas
 uttaravAdin
 uttaravid
 uttaravedana
+uttaravedin
 uttaravITiH
 uttaravediH
 uttarasakTam
@@ -24332,13 +24360,12 @@ kAlAdikaH
 kAlAmraH
 kAlopta
 kAlakaYjam
-kAlakawam
 kAlakawaH
 kAlakaRWaH
 kAlakaRWI
 kAlakaRwaka
 kAlakaRWakaH
-kAlakaRqakaH
+kAlakandakaH
 kAlakaraRam
 kAlakarRikA
 kAlakarRI
@@ -24408,6 +24435,7 @@ kAlaBEravaH
 kAlamallikA
 kAlamallaH
 kAlamAna
+kAlamAlaH
 kAlamAlam
 kAlamuKaH
 kAlamezI
@@ -24466,6 +24494,7 @@ kAlinI
 kAlakuYcaH
 kAlaYjaraH
 kAlaYjarA
+kAlaYjarI
 kAlaDOtam
 kAlaSeyam
 kAlaseyam
@@ -24473,16 +24502,16 @@ kAlApaH
 kAlApakam
 kAliNga
 kAliNgaH
-kAliNNgAH
+kAliNgAH
 kAliNgam
 kAlidAsaH
 kAlinda
 kAlindI
 kAlindam
-kAlindakarzaRaH
-kAlindaBedanaH
-kAlindasUH
-kAlindasodaraH
+kAlindikarzaRaH
+kAlindIBedanaH
+kAlindIsUH
+kAlindIsodaraH
 kAliman
 kAliya
 kAliyaH
@@ -31401,6 +31430,7 @@ catuzpaYcASat
 catuzpaTaH
 catuzpaTam
 catuzpada
+catuzpad
 catuzpadaH
 catuzpadI
 catuzpAwI
@@ -53868,6 +53898,7 @@ prAjYI
 prAjYakaTA
 prAjYamanya
 prAjYamAnin
+prAjYaMmAnin
 prAjYamAnaH
 prAjYatA
 prAjYatvam
@@ -64441,6 +64472,7 @@ yaTodgata
 yaTodgamanam
 yaToddizwa
 yaToddizwam
+yaToddeSam
 yaTopacAram
 yaTopajozam
 yaTopadizwa
@@ -65013,6 +65045,7 @@ yAvajjIvane
 yAvatpramARa
 yAvadbalam
 yAvadBAzita
+yAvadukta
 yAvanmAtra
 yAvacCakyam
 yAvacCakti
@@ -65242,6 +65275,7 @@ yogakanyA
 yogakzemaH
 yogakzemO
 yogakzeme
+yogakzemam
 yogagatiH
 yogagAmin
 yogacakzus
@@ -87120,6 +87154,7 @@ svAdiman
 svAdizWa
 svAdIyas
 svAdu
+svAdvI
 svAduH
 svAdvannam
 svAdvamlaH
@@ -87137,7 +87172,6 @@ svAdurasA
 svAduluNgI
 svAduSudDam
 svAdyam
-svAdvI
 svAnaH
 svApaH
 svApavyasanam

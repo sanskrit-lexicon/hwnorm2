@@ -37300,8 +37300,8 @@ kAliMmanyA
 kAliya
 kAliyajit
 kAliyadamana
-kAliyaka
 kAliyAri
+kAliyaka
 kAlila
 kAlIkulasarvasva
 kAlIkrama
@@ -105182,6 +105182,7 @@ barbawI
 barbara
 barbarA
 barbarI
+barbarIka
 barbaratA
 barbarasTAna
 barbarotTa
@@ -105189,7 +105190,6 @@ barbari
 barbarita
 barbarin
 barbarIganDa
-barbarIka
 barbarIkopAKyAna
 barbA
 barbura
