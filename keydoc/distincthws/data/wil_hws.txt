@@ -2971,7 +2971,7 @@ ambuvAha
 ambuvAhin
 ambuvetasa
 ambusarpiRI
-asAda
+asAdana
 ambusecanI
 ambUkfta
 ambla
@@ -7871,7 +7871,6 @@ UrdDvavAyu
 UrdDvavfta
 UrdDvaSoDana
 UrdDvasTa
-UrdDvasTita
 UrdDvasTiti
 UrdDvAsita
 Urmmi

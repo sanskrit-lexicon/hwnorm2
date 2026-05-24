@@ -2779,7 +2779,7 @@ arTika
 arTita
 arTitA
 arTin
-arTopekzepaka
+arTopakzepaka
 arTopArjana
 arTAzman
 arTya
@@ -6330,7 +6330,7 @@ udamanTa
 udameGa
 udaya
 udayana
-udayapabbata
+udayaparbbata
 udayin
 udara
 udaraka
@@ -26562,8 +26562,8 @@ protsAhana
 protsAhita
 proT
 proTa
-prodDuzwa
-prodDozaRa
+prodGuzwa
+prodGozaRa
 prodBinna
 pronnata
 promBana
