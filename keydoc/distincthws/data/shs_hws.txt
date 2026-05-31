@@ -9483,7 +9483,7 @@ kalipriya
 kalimAraka
 kaliyuga
 kalila
-kalavfkza
+kalivfkza
 kalukka
 kaluza
 kaluzatva
@@ -9529,7 +9529,7 @@ kalyARavacana
 kalyARavIja
 kalyARAcAra
 kalyARikA
-kalyARina
+kalyARin
 kalyApAla
 kalyuza
 kalla
@@ -11056,7 +11056,7 @@ kUwapAkala
 kUwayantra
 kUwaSAlmali
 kUwaSAsana
-kUwasAcin
+kUwasAkzin
 kUwasTa
 kUwasvarRa
 kUwAkza

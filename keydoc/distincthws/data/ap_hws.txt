@@ -24747,11 +24747,11 @@ kiYca
 kiYcana
 kiYcit
 kiYCandas
-kiMstanuH
+kintanuH
 kintarhi
 kintu
-kintuDnaH
-kindavaH
+kintuGnaH
+kindevaH
 kindevata
 kinnAmaDeya
 kinnAman
@@ -24761,9 +24761,9 @@ kinnu
 kinnuKalu
 kimpaca
 kimpacAna
-kimparAkama
+kimparAkrama
 kimpAka
-kiNkaH
+kimpAkaH
 kimpunar
 kimprakAram
 kimpraBAva
@@ -24773,7 +24773,7 @@ kiMvadanti
 kiMvadantI
 kiMvarAwakaH
 kiMvA
-kiMvida
+kiMvid
 kiMvyApAra
 kiMSIla
 kiMsvit
@@ -24887,7 +24887,6 @@ kIwamaRiH
 kIwaka
 kIwakaH
 kIwikA
-kItanikA
 kIdfS
 kIdfSa
 kIdfSI
@@ -27356,6 +27355,7 @@ kleSita
 kleSin
 klItakikA
 klItanI
+klItanikA
 klIb
 klIba
 klIva
