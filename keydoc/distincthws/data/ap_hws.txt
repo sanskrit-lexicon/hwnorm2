@@ -500,8 +500,11 @@ aKilAtman
 aKilikA
 aKewikaH
 aKedin
+aKeditvam
 aKKala
+aKKalIkf
 aKyAtiH
+aKyAtikara
 ag
 aga
 agaH
@@ -549,6 +552,9 @@ agADaH
 agADam
 agADajalaH
 agADasattva
+agADajYAnam
+agADabudDiH
+agADaBayam
 agAram
 agiraH
 aginaH
@@ -565,10 +571,12 @@ aguruSiMSapA
 agurusAraH
 agulmakam
 agUQa
+agUQasadBAvam
 agUQaganDa
 agUQaganDaH
 agUQaBAva
 agfBIta
+agfBItaSocis
 agfhaH
 agocara
 agocaram
@@ -588,6 +596,7 @@ agnigfham
 agnyastram
 agnyAtmaka
 agnyADAnam
+agnyAhiti
 agnyADeyaH
 agnyADeyam
 agnID
@@ -633,6 +642,7 @@ agnijaH
 agnijAtaH
 agnijam
 agnijAtam
+agnijanman
 agnijit
 agnijihva
 agnijihvA
@@ -642,6 +652,8 @@ agnitapas
 agnitejas
 agnitrayam
 agnida
+agnidAyaka
+agnidAyin
 agnidagDa
 agnidamanI
 agnidAtf
@@ -657,6 +669,7 @@ agnidvAram
 agniDAnam
 agniDAraRam
 agninayanam
+agnipraRayanam
 agniniryAsaH
 agninetra
 agnipadam
@@ -668,7 +681,6 @@ agniparIkzA
 agniparvataH
 agnipucCaH
 agnipurARam
-agnipraRayanam
 agnipraRiDiH
 agnipratizWA
 agnipraveSaH
@@ -761,9 +773,7 @@ agnisAraH
 agnisUtram
 agnisUnuH
 agnistamBaH
-agnistut
-agnistuB
-agnistomaH
+agniztomaH
 agnisAvarRiH
 agnisTa
 agnisvAttaH
@@ -771,6 +781,11 @@ agnihut
 agnihotf
 agnihotram
 agnihotra
+agnihotranyAyaH
+agnihotrahavanI
+agnihotrahavaRI
+agnihotrahut
+agnihotrAhutiH
 agnihotrin
 agnihotrI
 agnAyI
@@ -779,10 +794,16 @@ agniD
 agnimat
 agnivat
 agnisAt
+agnisAdBU
 agnIDraH
 agnIya
 agnIzomaH
+agnIzomapraRayanam
+agnIzomapraRayanI
 agnIzomIya
+agnIzomIyanirvApaH
+agnIzomIyapaSuH
+agnIzomIyapuroqASaH
 agnyA
 agman
 agra
@@ -808,6 +829,9 @@ agragAmin
 agraja
 agrajaH
 agrajA
+agrajAta
+agrajAtaka
+agrajAti
 agrajaNGA
 agrajanman
 agrajihvA
@@ -815,6 +839,7 @@ agrajyA
 agradAnin
 agradAnIyaH
 agradUtaH
+agradUtikA
 agradevI
 agraDAnyam
 agranirUpaRam
@@ -822,7 +847,9 @@ agraRIH
 agraparRI
 agrapAtin
 agrapAdaH
+agrapAdasTitA
 agrapARiH
+agrahastaH
 agrapUjA
 agrapeyama
 agrapradAyin
@@ -841,6 +868,7 @@ agrayAna
 agrayAnam
 agrayAyin
 agrayoDin
+agravIra
 agraranDram
 agralohitA
 agrasaMKyA
@@ -853,6 +881,7 @@ agrasara
 agrasArA
 agrahara
 agrahasta
+agrakara
 agrahAyanaH
 agrahAraH
 agrataH
@@ -871,6 +900,8 @@ agregAH
 agregUH
 agrediDizuH
 agrediDizUH
+agrediDizupatiH
+agrediDizUpatiH
 agrepAH
 agrepUH
 agrevanam
@@ -899,8 +930,8 @@ aGAhaH
 aGAyus
 aGakft
 aGaGnaH
-aGanASa
 aGanASanaH
+aGanASa
 aGanASana
 aGaBojin
 aGamarzaRa
@@ -917,6 +948,8 @@ aGAyati
 aGAyu
 aGArin
 aGarma
+aGarmAMSu
+aGarmaDAman
 aGora
 aGoraH
 aGorA
@@ -943,6 +976,7 @@ aNkatantram
 aNkaDAraRam
 aNkaDaraRA
 aNkaparivartaH
+aNkaparivartin
 aNkapAdavratam
 aNkapAliH
 aNkapAlI
@@ -995,6 +1029,10 @@ aNgaH
 aNgANgi
 aNgADipaH
 aNgADISaH
+aNgarAjaH
+aNgapatiH
+aNgeSvaraH
+aNgADISvaraH
 aNgApUrvama
 aNgakarman
 aNgakramaH
@@ -1016,6 +1054,7 @@ aNgaBUH
 aNgaBaNgaH
 aNgamantraH
 aNgamardaH
+aNgamardakA
 aNgamarzaH
 aNgayajYaH
 aNgayAgaH
@@ -1064,6 +1103,8 @@ aNgadA
 aNgadaH
 aNgadaniryUhaH
 aNganam
+aNganaBuvaH
+aNgaRaBuvaH
 aNganA
 aNganAjanaH
 aNganApriya
@@ -1170,6 +1211,7 @@ aNGrikavAri
 ac
 acakra
 acakzus
+acakzurvizaya
 acaRqa
 acaRqI
 acatura
@@ -1189,10 +1231,13 @@ acalajAta
 acalajA
 acalajAtA
 acalatviz
+acalatviw
 acaladviz
 acalaGftiH
 acalapatiH
 acalarAw
+acalADipaH
+acalaSrezWaH
 acalasaptamI
 acApala
 acApalya
@@ -1206,6 +1251,7 @@ acintya
 acintanIya
 acintyaH
 acintita
+acintitopanatam
 acikitvas
 acira
 aciram
@@ -1233,12 +1279,15 @@ acCodaM
 acCaBallaH
 acCA
 acCAvAkaH
+acCAvAkasAman
 acCAvAkIya
 acCAvAkIyam
 acCAvAkya
 acCandas
 acCidra
+acCidroti
 acCidram
+acCidreRa
 acCidroDan
 acCidrakARqam
 acCinna
@@ -1312,6 +1361,7 @@ ajaSfNgI
 ajakA
 ajanam
 ajanaH
+ajanayonijaH
 ajaniH
 ajA
 ajAgalastanaH
@@ -1335,7 +1385,6 @@ ajaqA
 ajaTyA
 ajana
 ajananiH
-ajanayonijaH
 ajanABam
 ajanman
 ajanya
@@ -1350,6 +1399,7 @@ ajayA
 ajayya
 ajara
 ajaraH
+ajarA
 ajaradrumaH
 ajararA
 ajararam
@@ -1452,11 +1502,15 @@ ajYAtavAsaH
 ajYAtiH
 ajYAna
 ajYAnam
+ajYAnataH
+ajYAnena
+ajYAnAt
 ajYAnaparIkzA
 ajYAnin
 ajYeya
 ajman
 ajyezWa
+ajyezWavftti
 ajra
 ajraH
 ajvin
@@ -1773,6 +1827,9 @@ atidiS
 atideSaH
 atidIpyaH
 atidUra
+atidUre
+atidUrAt
+atidUreRa
 atidevaH
 atidvaya
 atiDanvan
@@ -1972,6 +2029,8 @@ atiSvaH
 atiSvan
 atizkadvarI
 atizWA
+atizWAvat
+atizWAvan
 atisaktiH
 atisanDA
 atisanDAnam
@@ -2069,6 +2128,10 @@ atyamlaparRI
 atyaya
 atyarTa
 atyarTam
+atyarTavedanaH
+atyarTasaMpIqitaH
+atyarTakrudDa
+atyarTatfzita
 atyavi
 atyazwiH
 atyasta
@@ -2145,6 +2208,7 @@ aTarvaRaH
 aTarvan
 aTarvA
 aTarva
+aTarvavedaH
 aTarvADipaH
 aTarvaniDiH
 aTarvavid
@@ -2185,6 +2249,10 @@ adantaH
 adantya
 adabDa
 adamBa
+adabDAsu
+adabDAyuH
+adabDaDIti
+adabDavrata
 adaBra
 adamBaH
 adaya
@@ -2239,7 +2307,9 @@ adUra
 adUram
 adUraBava
 adUzita
+adUzitaDI
 adfpta
+adfptakratu
 adfS
 adfSya
 adfSyakaraRam
@@ -2352,12 +2422,16 @@ adrivahniH
 adriSayyaH
 adriSfNgam
 adrisAnu
-adrisuta
+adrizuta
+adrisaMhata
 adrisAraH
+adrisAramaya
 adrivat
 adruh
 adruhvan
 adroGa
+adroGavAc
+adroGAvita
 adroGam
 adrohaH
 advandva
@@ -2448,6 +2522,7 @@ aDodvAram
 aDomarma
 aDaHkaraH
 aDaHkaraRam
+aDaHkriyA
 aDaHKananam
 aDogatiH
 aDogantf
@@ -2507,6 +2582,7 @@ aDikANga
 aDikANgam
 aDikADika
 aDikArTa
+aDikArTavacanam
 aDikardDi
 aDikatiTiH
 aDikadantaH
@@ -2634,6 +2710,7 @@ aDirAzwram
 aDirukma
 aDiruh
 aDirUQa
+aDirUQasamADiyogaH
 aDirUzita
 aDiropaRam
 aDirohaH
@@ -2780,6 +2857,7 @@ aDyAhAraH
 aDyAharaRam
 aDyuzite
 aDyuzwa
+aDyuzwavalayaH
 aDyuzwraH
 aDyUQa
 aDyUQaH
@@ -2958,6 +3036,7 @@ anantara
 anantaram
 anantarajaH
 anantarajA
+anantarajAta
 anantarIya
 anantarayaH
 anantarAya
@@ -3006,6 +3085,8 @@ anapakArakArin
 anapaga
 anapajayya
 anapatya
+anapatyatA
+anapatyatvam
 anapatrapa
 anapanihita
 anapaBraMSaH
@@ -3032,6 +3113,7 @@ anapekza
 anapekzin
 anapekzA
 anapekzam
+anapekzatvAt
 anapeta
 anapta
 anapnas
@@ -3049,13 +3131,16 @@ anaBivAdaka
 anaBiSasta
 anaBiSasti
 anaBiSastya
+anaBiSastyena
 anaBisanDAnam
+anaBisanDAnakfta
 anaBihita
 anaBihitaH
 anaByantara
 anaByAvfttiH
 anaByASa
 anaByAsa
+anaByAsamitya
 anaBra
 anaBri
 anamaH
@@ -3125,9 +3210,11 @@ anavadyarAgaH
 anavadrARa
 anavaDAna
 anavaDAnam
+anavaDAnatA
 anavaDi
 anavana
 anavanAmita
+anavanAmitavEjayantaH
 anavapfgRa
 anavabrava
 anavaBra
@@ -3154,6 +3241,8 @@ anavasTAna
 anavasTAnaH
 anavasTAnam
 anavasTita
+anavasTitatvam
+anavasTitiH
 anavasTitam
 anavahvara
 anavAYc
@@ -3168,6 +3257,7 @@ anavrataH
 anaSanam
 anaSanAya
 anaSnat
+anaSnatsANgamanaH
 anaSva
 anaSvaH
 anaSvan
@@ -3201,10 +3291,12 @@ anAgata
 anAgatam
 anAgatAvekzaRam
 anAgatAbADaH
+anAgatAbADapratizeDanIyam
 anAgatArtavA
 anAgataviDAtf
 anAgatiH
 anAgama
+anAgamopaBogaH
 anAgamaH
 anAgamya
 anAgAmin
@@ -3291,6 +3383,7 @@ anAyatta
 anAyana
 anAyAsa
 anAyAsaH
+anAyAsaena
 anAyAsakfta
 anAyAsakftam
 anAyuzya
@@ -3303,6 +3396,7 @@ anAramBaH
 anAramBaRa
 anArogya
 anArogyam
+anArogyakara
 anArjava
 anArjavam
 anArtava
@@ -3381,6 +3475,7 @@ anikzuH
 anigIrRa
 anigraha
 anigrahaH
+anigrahasTAnam
 aniNgya
 anicCa
 anicCaka
@@ -3389,6 +3484,7 @@ anicCuka
 anicCat
 anicCA
 anita
+anitaBA
 anitya
 anityam
 anityakarman
@@ -3410,6 +3506,7 @@ anindriyam
 anipadyamAna
 anipAtaH
 anibadDa
+anibadDapralApin
 anibADa
 anibADaH
 aniBfta
@@ -3495,6 +3592,7 @@ anilaBadrakaH
 anilavyADiH
 anilasaKaH
 anilasAraTiH
+anilabanDuH
 aniloqita
 anilamBasamADiH
 anirloqita
@@ -3506,6 +3604,7 @@ anivizwa
 aniSa
 aniSam
 aniSita
+aniSitasarga
 anizidDa
 anizeDra
 anizkfta
@@ -3549,6 +3648,7 @@ anItivid
 anIpsita
 anIrzu
 anIla
+anIlavAjin
 anISa
 anISaH
 anISA
@@ -3574,6 +3674,7 @@ anukampana
 anukampanam
 anukampA
 anukampita
+anukampitAtman
 anukampin
 anukampya
 anukampyaH
@@ -3582,6 +3683,7 @@ anukANkzA
 anukAma
 anukAmam
 anukAmaH
+anukAmakft
 anukAmIna
 anukAla
 anukAlam
@@ -3711,6 +3813,7 @@ anujanaH
 anujanman
 anujIv
 anujIvin
+anujIvivfttam
 anujIvya
 anujYA
 anujYAnam
@@ -3856,6 +3959,7 @@ anupakzita
 anupagIta
 anupagItam
 anupaGAtaH
+anupaGAtArjita
 anupajIvanIya
 anupaW
 anupaWita
@@ -3870,6 +3974,7 @@ anupaTaH
 anupaTam
 anupad
 anupada
+anupadasUtram
 anupadaH
 anupadam
 anupadika
@@ -3942,6 +4047,7 @@ anupUrvI
 anupfzWya
 anupeta
 anupta
+anuptaSasya
 anuptrima
 anuprakIrRa
 anuprajYAnam
@@ -3952,6 +4058,7 @@ anupraBavaH
 anuprayuj
 anuprayogaH
 anupravacanam
+anupravacanAdi
 anupravaRa
 anupravAdaH
 anupraviS
@@ -3999,6 +4106,7 @@ anuBavaH
 anuBavasidDa
 anuBAvaH
 anuBAvaka
+anuBAvakatA
 anuBAvanam
 anuBAvita
 anuBAvin
@@ -4075,6 +4183,7 @@ anuraYjanam
 anuraYjita
 anurAga
 anurAgaH
+anurAgeNgitam
 anurAgin
 anurAgavat
 anurAgiRI
@@ -4085,6 +4194,7 @@ anuraTyA
 anurasita
 anurasaH
 anurasitam
+anurasitaguru
 anurahasa
 anurahasam
 anurAtra
@@ -4139,6 +4249,7 @@ anuvaMSaH
 anuvaMSam
 anuvaMSya
 anuvakra
+anuvakraga
 anuvac
 anuvaktf
 anuvacanam
@@ -4219,6 +4330,7 @@ anuvrata
 anuvrataH
 anuvratA
 anuSatika
+anuSatikAdiH
 anuSaya
 anuSayin
 anuSaraH
@@ -4370,13 +4482,15 @@ anUkyam
 anUkASaH
 anUkti
 anUcIna
+anUcInAham
+anUcInagarBa
 anUcyam
 anUjji
 anUQa
 anUQA
 anUQamAna
-anUQagamanam
-anUQaBrAtf
+anUQAgamanam
+anUQABrAtf
 anUtiH
 anUdakam
 anUddeSaH
@@ -4397,6 +4511,7 @@ anUruH
 anUrusAraTiH
 anUrjita
 anUrDva
+anUrDvaBAs
 anUrmi
 anUlA
 anUvfj
@@ -4431,6 +4546,8 @@ anekAc
 anekAgra
 anekAnta
 anekAntaH
+anekAntavAdaH
+anekAntavAdin
 anekArTa
 anekArTaH
 anekAl
@@ -4442,6 +4559,7 @@ anekaguptaH
 anekagotra
 anekacara
 anekacitta
+anekacittamantraH
 anekaja
 anekajaH
 anekapaH
@@ -4456,6 +4574,10 @@ anekarUpaH
 anekalocanaH
 anekavacanam
 anekavarRa
+anekavarRasamIkaraRam
+anekavarRaguRanam
+anekavarRavyakalanam
+anekavarRahAraH
 anekaviDa
 anekaSaPa
 anekaSabda
@@ -4571,10 +4693,12 @@ antargaqu
 antargam
 antargata
 antargarBa
+antargarBin
 antargiram
 antargiri
 antargudavalayaH
 antargUQa
+antargUQavizaH
 antargfham
 antargeham
 antarBavanam
@@ -4598,6 +4722,8 @@ antastApaH
 antardaDanam
 antardaSA
 antardaSAham
+antardaSAhAt
+antardaSAhe
 antardahanam
 antardAhaH
 antarduHKa
@@ -4628,16 +4754,21 @@ antaHpAtin
 antaHpAtram
 antaHpAlaH
 antaHpuram
+antaHpurapracAraH
+antaHpurajana
 antaHpuracara
 antaHpurADyakzaH
 antaHpurarakzakaH
 antaHpuravartI
+antaHpurasahAyaH
 antaHpurikaH
+antaHpuracaraH
 antaHpurikA
 antaHpuzpam
 antaHpUya
 antaHpeyam
 antaHprakftiH
+antaHprakftiprakopaH
 antaHprakopanam
 antaHprajYa
 antaHpratizWAnam
@@ -4654,11 +4785,13 @@ antarmanas
 antarmuKa
 antarmuKam
 antarmAtfkA
+antarmAtfkAnyAsaH
 antarmudra
 antarmfta
 antaryAgaH
 antaryAmaH
 antaryAmin
+antaryAmibrAhmaRam
 antaryogaH
 antarlamba
 antarlambaH
@@ -4679,6 +4812,7 @@ antarvasuH
 antarvastram
 antarvAsas
 antarvA
+antarvAvat
 antarvARi
 antarvigAhaH
 antarvigAhanam
@@ -4698,6 +4832,7 @@ antaHSlezaH
 antaHSlezaRam
 antaHsaMjYa
 antaHsattva
+antaHsattvA
 antaHsantApaH
 antaHsarala
 antaHsalila
@@ -4708,6 +4843,7 @@ antaHsenam
 antaHsTa
 antaHsTaH
 antaHsTA
+antaHsTamudgaraH
 antaHsvedaH
 antarhaRanam
 antarhananam
@@ -4816,6 +4952,8 @@ antyA
 antyam
 antyAnuprAsaH
 antyAvasAyin
+antyAvasAyI
+antyAvasAyinI
 antyASramin
 antyAhutiH
 antyezwiH
@@ -4895,6 +5033,7 @@ anDakavartaH
 anDakavfzRi
 anDikA
 anDIkf
+anDIkftAtmA
 anDIBU
 anDas
 anDuH
@@ -4941,6 +5080,7 @@ annapAkaH
 annapU
 annapUrRa
 annapUrRA
+annapUrReSvarI
 annapeyam
 annapralaya
 annaprASaH
@@ -4960,6 +5100,8 @@ annavyavahAraH
 annaSezaH
 annasaMskAraH
 annahomaH
+annamayakoSaH
+annamayakozaH
 annamayam
 annAvfD
 annaMBawwaH
@@ -5006,6 +5148,7 @@ anyarAjan
 anyarAzwrIya
 anyarUpa
 anyarUpam
+anyarUpeRa
 anyaliNga
 anyaliNgaka
 anyavAdin
@@ -5018,6 +5161,7 @@ anyasaMkrAnta
 anyasaMgamaH
 anyasADAraRa
 anyastrI
+anyastrIgaH
 anyaka
 anyat
 anyadarTa
@@ -5029,7 +5173,9 @@ anyadutsuka
 anyadrAgaH
 anyatama
 anyatara
+anyatarA
 anyatarataH
+anyataradanta
 anyataredyuH
 anyataH
 anyatoraRyam
@@ -5078,6 +5224,7 @@ anyonyoktiH
 anyonyakAryam
 anyonyapakzanayanam
 anyonyaBedaH
+anyonyakalaha
 anyonyamiTunam
 anyonyaviBAgaH
 anyonyavfttiH
@@ -5086,10 +5233,12 @@ anyonyasaMSrayaH
 anyaNga
 anyA
 anyAya
+anyAyadaRqaH
 anyAyaH
 anyAyin
 anyAyya
 anyUna
+anyUnADika
 anyUnANga
 anyokas
 anvakza
@@ -5159,13 +5308,15 @@ anvi
 anvayaH
 anvayAgata
 anvayajYaH
-anvayavyatireka
+anvayavyatirekO
+anvayavyatirekam
 anvayavyAptiH
 anvayavat
 anvayAyin
 anvayin
 anvita
 anvitArTa
+anvitArTavAdaH
 anviti
 anvitiH
 anviz
@@ -5188,6 +5339,19 @@ apkftsnam
 apcaraH
 apsaraH
 appittam
+apAMsaMvartaH
+apAMvatsaH
+apAMnapAt
+apAMnaptA
+apAMnaptriya
+apAMgarBa
+apAnnapAt
+aponapAt
+apAMpatiH
+apAMniDiH
+apAMnATaH
+appatiH
+apAMnapatiH
 apa
 apakaruRa
 apakalaNkaH
@@ -5301,6 +5465,7 @@ apaYcIkftam
 apawAntara
 apawI
 apawIkzepaH
+apawIkzepaRa
 apawIka
 apawu
 apaWa
@@ -5377,6 +5542,7 @@ apaDA
 apaDAv
 apaDAvanam
 apaDUma
+apaDUmatva
 apaDyE
 apaDyAnam
 apaDvaMs
@@ -24953,9 +25119,9 @@ kukUlam
 kugrahaH
 kugrAmaH
 kucandanam
-kucela
 kucaritram
 kucaryA
+kucela
 kucodyam
 kujanman
 kutanu
@@ -72833,7 +72999,7 @@ vimAMsaH
 vimAMsam
 vimAtf
 vimAtfjaH
-vimAtrA
+vimAtra
 vimArgaH
 vimArgagA
 vimArgagAmin
