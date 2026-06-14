@@ -75753,7 +75753,7 @@ vargasTa
 vargAntya
 vargin
 vargIRa
-vargIyi
+vargIya
 vargottama
 vargya
 varc
@@ -87581,7 +87581,7 @@ SUrasenaja
 SUrIkar
 SUreSvara
 SUrta
-SUrya
+SUrpa
 SUrpaka
 SUrpakarRa
 SUrpagrAha
@@ -105934,7 +105934,6 @@ SitAgra
 SIzwa
 SuklI
 SuzmAyaRa
-SUrpa
 SUlavata
 Sezatas
 SEPAlika
