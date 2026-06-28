@@ -23239,9 +23239,12 @@ paripezita
 pariplava
 paripluta
 paripluzwa
-pariba
-paribfM
+paribarha
+paribarhaRa
+paribfMhaRa
+paribfMhita
 pariBaNga
+pariBava
 pariBavapada
 pariBavAzpada
 pariBavin
@@ -24351,7 +24354,7 @@ picCa
 picCala
 picCaladalA
 picCavat
-picCavA
+picCavARa
 picCikA
 picCitikA
 picCila
@@ -34889,7 +34892,7 @@ varhaBAra
 varhiHpuzpa
 varhiHSuzman
 varhiHzWa
-varhi
+varhikusuma
 varhirjyotis
 varhiRa
 varhiRavAhana
@@ -42363,7 +42366,7 @@ samparAya
 samparAyaka
 samparAyika
 sampariSozaRa
-sampakaM
+samparkaM
 samparkin
 samparkIya
 sampaSyat
@@ -45215,7 +45218,7 @@ sparSavat
 sparSavedya
 sparSaSudDA
 sparSasnAna
-sparSaspa
+sparSaspanda
 sparSAnandA
 sparSodaya
 sparz

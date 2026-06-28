@@ -25398,6 +25398,7 @@ kuRqoDas
 kuRqakIwaH
 kuRqakIlaH
 kuRqagolam
+kuRqagola
 kuRqagolakam
 kuRqaDAraH
 kuRqapAyyaH
@@ -25420,6 +25421,7 @@ kuRqinAH
 kuRqira
 kuRqIra
 kuRqiraH
+kuRqIraH
 kutapam
 kutapAzwakam
 kutapasaptakam

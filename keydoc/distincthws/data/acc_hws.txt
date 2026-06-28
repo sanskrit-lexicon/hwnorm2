@@ -2213,6 +2213,7 @@ indrAvaruRezwihOtra
 indriyavAda
 indriyArTavAda
 indrotaSOnaka
+irugapadaRqADinATa
 irugapanATa
 izupAtakzetramAhAtmya
 izwakApUraRa
@@ -4328,6 +4329,7 @@ kfzRadEvajYa
 kfzRaSarman
 SrIkfzRa
 kfzRaAcArya
+kfzRavidyAvAgISaBawwAcArya
 kfzRasArvaBOmaBawwAcArya
 kfzRaSAstrin
 kfzRavEdya
@@ -9666,6 +9668,7 @@ Darmarahasya
 DarmarAja
 DarmarAjaaDvarivara
 DarmarAjaBawwa
+DarmarAjaaDvarIndra
 DarmavarDana
 DarmavAcaspati
 DarmavicArasaMgraha
@@ -9940,6 +9943,7 @@ nandikeSvaratArAvalI
 nandikeSvarapurARa
 nandISvarapurARa
 nandipurARa
+nandikeSvaramatetAlADyAyaH
 nandikeSvarasaMhitA
 nandigirimAhAtmya
 nandiGozavijaya
@@ -17742,6 +17746,7 @@ rAmasvAmin
 rAmahari
 rAmahfdaya
 rAmAKewaka
+rAmAgamasArasaMgraherAmatrayodaSAkzarI
 rAmAgnicit
 rAmAgnija
 rAmANkanAwikA
@@ -19556,6 +19561,7 @@ viparItagrahaRaprakaraRa
 viparItapratyaNgirA
 vibuDa
 vibuDaraYjanI
+vibuDendraAcArya
 vibuDopadeSa
 viBaktAviBaktanirRaya
 viBaktitattva
@@ -24372,6 +24378,7 @@ sidDavidyAdIpikA
 sidDaSAbaratantra
 sidDasArasaMhitA
 sidDasArasvata
+sidDasArasvataSabdAnuSAsana
 sidDasidDAYjana
 sidDasidDAnta
 sidDasidDAntapadDati
@@ -26096,6 +26103,7 @@ kuberopADyAya
 kubjAmrakamAhAtmya
 kumArakarRAmfta
 kumArilasvAmin
+kulaAra
 kUzmARqakrama
 kfzRakiMkaratarkavAgISa
 kfzRadivyastotra
@@ -26571,6 +26579,7 @@ kASInityayAtrA
 caturdeSayAtrA
 kASIvimuktikanyAvivAhasAmagrI
 kASIviSvanATastotra
+SAlAsTapaRqitavrAtadattottarARAMcasaMgrahaH
 kASyapapaYcarAtra
 kASyapaSilpa
 kAhnajI
