@@ -10325,7 +10325,6 @@ kAryahaMtf
 kArSya
 kArza
 kArzApaRa
-kArzaka
 kArzApaRika
 kArzApaRikI
 kArzika
@@ -10351,7 +10350,7 @@ kAlADyakza
 kAlAnunAdin
 kAlAMtaka
 kAlAMtara
-kAlAMtarAvftta
+kAlAMtarAvfta
 kAlAMtarakzama
 kAlAMtaraviza
 kAlABra

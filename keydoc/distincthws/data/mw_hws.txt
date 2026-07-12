@@ -14128,7 +14128,7 @@ alARqu
 alAta
 alAtacakra
 alAtacakravat
-alAtaSanti
+alAtaSAnti
 alAtAkzI
 alAtfRa
 alAbu
@@ -43615,7 +43615,7 @@ kvaRana
 kvaRita
 kvaRitaveRu
 kvaRitekzaRa
-kvAna
+kvARa
 kvaT
 kvaTa
 kvaTana
@@ -43632,7 +43632,6 @@ kvaDasTa
 kvayi
 kvala
 kvaha
-kvARa
 kvApi
 kvel
 kSA
@@ -56253,7 +56252,6 @@ jambu
 jambudvIpa
 jambudvIpaprajYapti
 jambudvIpavaralocana
-jambUdvIpeSvara
 jambuDvaja
 jambuparvata
 jambuprasTa
@@ -56269,6 +56267,7 @@ jambUKaRqa
 jambUKaRqavinirmARaparvan
 jambUdvIpa
 jambUdvIpaprajYapti
+jambUdvIpeSvara
 jambUnadI
 jambUprasTa
 jambUmArga

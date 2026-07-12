@@ -25473,7 +25473,7 @@ kuntayaH
 kuntiH
 kuntiBojaH
 kuntI
-kuntr
+kundr
 kunT
 kundaH
 kundam
@@ -25524,7 +25524,7 @@ kuberabAnDavaH
 kubja
 kubjaH
 kubjA
-kubjakirAtaH
+kubjakirAtam
 kubjavAmana
 kubjagAmin
 kubjalIlA
@@ -25543,7 +25543,7 @@ kumAraBftyA
 kumAralalitA
 kumAralIQaH
 kumAravAhin
-kumAravAhanaH
+kumAravAhanam
 kumAravratam
 kumArasUH
 kumArasaMBavam
@@ -25573,7 +25573,7 @@ kumudaKaRqam
 kumudaganDyA
 kumudanATaH
 kumudapatiH
-kumudabanDaH
+kumudabanDuH
 kumudabAnDavaH
 kumudasuhfd
 kumudika
@@ -25583,6 +25583,7 @@ kumudinInAyakaH
 kumudinIpatiH
 kumudvat
 kumudvatI
+kumudvatISa
 kumodakaH
 kumpaH
 kumb
@@ -27652,6 +27653,7 @@ kzantavya
 kzantf
 kzama
 kzamam
+kzamaH
 kzamaRIya
 kzamA
 kzamAjaH
