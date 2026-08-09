@@ -25602,6 +25602,8 @@ kumBakAraH
 kumBakArI
 kumBaGoRaH
 kumBajaH
+kumBayoniH
+kumBasaMBavaH
 kumBajanman
 kumBadAsI
 kumBaDaraH
@@ -25636,7 +25638,6 @@ kumBIrakaH
 kumBIlaH
 kumBIlakaH
 kumBIrakamakzikA
-kumBIrakalaH
 kur
 kuraNkaraH
 kuraNkuraH

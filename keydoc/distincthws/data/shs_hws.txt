@@ -10158,8 +10158,8 @@ kAlAnusAri
 kAlAnusAryya
 kAlAntaka
 kAlAntara
-kAlAttaraviza
-kAlAntarAvftta
+kAlAntaraviza
+kAlAntarAvfta
 kAlApa
 kAlAyasa
 kAlAvaDi
@@ -10194,7 +10194,7 @@ kAlpaka
 kAlpanika
 kAlya
 kAlyaka
-kAlyaRineya
+kAlyARineya
 kAvacika
 kAvaruka
 kAvAda
